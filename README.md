@@ -16,6 +16,8 @@ Informações de distribuição geográfica serão especialmente cuidadosas quan
 
 Mapas, tabelas e outros elementos gráficos deverão possuir fonte, legenda e contexto adequados à publicação.
 
+As citações no corpo do manuscrito serão indicadas por números entre colchetes, como [1], [2] e [3]. A referência bibliográfica completa não ficará ao final de cada capítulo: será reunida no capítulo 85 — Referências Bibliográficas, mantendo o manuscrito limpo e adequado à diagramação.
+
 ## Estrutura definitiva de trabalho
 
 ### PARTE I — CONHECENDO A MANDAÇAIA
