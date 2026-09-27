@@ -10,7 +10,7 @@ A *Melipona quadrifasciata* está fortemente associada a ambientes do leste e do
 
 A imagem de uma mandaçaia vivendo exclusivamente dentro de uma floresta densa é intuitiva, mas simplifica excessivamente sua ecologia. O que a espécie necessita não é simplesmente de uma floresta definida por uma aparência visual; ela necessita de um conjunto de condições ambientais que permita à colônia completar seu ciclo de vida.
 
-A disponibilidade de recursos alimentares é uma dessas condições. As abelhas precisam encontrar plantas que forneçam pólen e néctar em quantidade suficiente ao longo do tempo, e a composição da vegetação interfere diretamente na disponibilidade desses recursos. Estudos realizados com *M. quadrifasciata* em fragmentos florestais demonstram que a espécie utiliza uma diversidade de plantas e consegue forragear em paisagens nas quais existem áreas urbanizadas ou modificadas próximas aos fragmentos naturais. Em um estudo realizado em um fragmento de floresta urbana em Belo Horizonte, por exemplo, a espécie foi registrada visitando 22 das 103 espécies de plantas em florescimento presentes na área amostrada.[^1]
+A disponibilidade de recursos alimentares é uma dessas condições. As abelhas precisam encontrar plantas que forneçam pólen e néctar em quantidade suficiente ao longo do tempo, e a composição da vegetação interfere diretamente na disponibilidade desses recursos. Estudos realizados com *M. quadrifasciata* em fragmentos florestais demonstram que a espécie utiliza uma diversidade de plantas e consegue forragear em paisagens nas quais existem áreas urbanizadas ou modificadas próximas aos fragmentos naturais. Em um estudo realizado em um fragmento de floresta urbana em Belo Horizonte, por exemplo, a espécie foi registrada visitando 22 das 103 espécies de plantas em florescimento presentes na área amostrada.[1]
 
 Esse resultado é importante porque mostra que a presença da mandaçaia não depende de uma única espécie vegetal. Ao mesmo tempo, a diversidade e a continuidade da vegetação podem determinar quanto alimento estará disponível para as colônias em diferentes períodos do ano. Uma paisagem pode apresentar flores em abundância durante algumas semanas e oferecer muito menos recursos em outros períodos. Assim, a qualidade do habitat não depende apenas da quantidade de vegetação existente, mas também da variedade e da distribuição temporal dos recursos.
 
@@ -18,9 +18,9 @@ A relação entre habitat e alimentação será aprofundada posteriormente, quan
 
 ## As árvores e os locais de nidificação
 
-Para uma abelha social que constrói seus ninhos em cavidades, a existência de locais apropriados para nidificação pode ser tão importante quanto a disponibilidade de alimento. Muitas abelhas sem ferrão dependem de cavidades preexistentes, principalmente aquelas encontradas em árvores, e a disponibilidade dessas cavidades pode limitar o número de colônias capazes de se estabelecer em determinado ambiente.[^2]
+Para uma abelha social que constrói seus ninhos em cavidades, a existência de locais apropriados para nidificação pode ser tão importante quanto a disponibilidade de alimento. Muitas abelhas sem ferrão dependem de cavidades preexistentes, principalmente aquelas encontradas em árvores, e a disponibilidade dessas cavidades pode limitar o número de colônias capazes de se estabelecer em determinado ambiente.[2]
 
-A *Melipona quadrifasciata* é um exemplo particularmente interessante dessa relação. Estudos realizados no Cerrado brasileiro encontraram a espécie principalmente em cavidades de árvores, e demonstraram associação entre a presença de ninhos e características do tamanho das árvores e dos galhos utilizados. No trabalho de Antonini e Martins, 46 dos 48 ninhos encontrados no local estavam associados a *Caryocar brasiliense*, o pequizeiro, e a presença dos ninhos apresentou relação positiva com o diâmetro dos troncos e dos galhos avaliados.[^3]
+A *Melipona quadrifasciata* é um exemplo particularmente interessante dessa relação. Estudos realizados no Cerrado brasileiro encontraram a espécie principalmente em cavidades de árvores, e demonstraram associação entre a presença de ninhos e características do tamanho das árvores e dos galhos utilizados. No trabalho de Antonini e Martins, 46 dos 48 ninhos encontrados no local estavam associados a *Caryocar brasiliense*, o pequizeiro, e a presença dos ninhos apresentou relação positiva com o diâmetro dos troncos e dos galhos avaliados.[3]
 
 Esses números não significam que a mandaçaia dependa exclusivamente do pequizeiro em todo o Brasil. O estudo foi realizado em uma área específica e investigou a importância daquela árvore como substrato de nidificação naquele ambiente. O dado é valioso justamente porque demonstra um princípio ecológico mais amplo: **árvores grandes e com cavidades adequadas podem representar um recurso crítico para a manutenção de populações naturais**.
 
@@ -32,7 +32,7 @@ Esse problema é especialmente importante em paisagens fragmentadas. A retirada 
 
 A importância das árvores não se resume ao tamanho absoluto do tronco. A idade, a estrutura dos galhos, a existência de cavidades e a posição da árvore dentro da paisagem também podem influenciar a possibilidade de nidificação.
 
-No estudo realizado no Cerrado, os ninhos de *M. quadrifasciata* estavam localizados entre aproximadamente 2,5 e 7 metros acima do solo, e havia relação entre a presença de ninhos e o diâmetro do tronco e do galho. Os autores encontraram 46 ninhos em 37 árvores e observaram que uma parte significativa dessas árvores apresentava dimensões compatíveis com a formação de cavidades utilizadas pelas abelhas.[^3]
+No estudo realizado no Cerrado, os ninhos de *M. quadrifasciata* estavam localizados entre aproximadamente 2,5 e 7 metros acima do solo, e havia relação entre a presença de ninhos e o diâmetro do tronco e do galho. Os autores encontraram 46 ninhos em 37 árvores e observaram que uma parte significativa dessas árvores apresentava dimensões compatíveis com a formação de cavidades utilizadas pelas abelhas.[3]
 
 Esses dados ajudam a compreender por que uma paisagem formada apenas por árvores jovens pode não fornecer a mesma quantidade de oportunidades de nidificação que uma paisagem contendo indivíduos maduros.
 
@@ -44,7 +44,7 @@ Uma pequena área com árvores maduras pode possuir características diferentes 
 
 A fragmentação da vegetação altera a relação entre alimento, abrigo e espaço disponível. Quando uma área contínua de vegetação é dividida em pequenos fragmentos, aumenta a proporção de bordas em relação ao interior e podem ocorrer mudanças na composição vegetal, no microclima e na disponibilidade de recursos.
 
-Estudos de modelagem ecológica que utilizaram *Melipona quadrifasciata* como espécie focal destacaram justamente a importância dos fragmentos florestais e das árvores relacionadas à nidificação. Esses trabalhos consideram a espécie particularmente associada a fragmentos de floresta preservada por causa de sua dependência de árvores adequadas para a instalação dos ninhos.[^4]
+Estudos de modelagem ecológica que utilizaram *Melipona quadrifasciata* como espécie focal destacaram justamente a importância dos fragmentos florestais e das árvores relacionadas à nidificação. Esses trabalhos consideram a espécie particularmente associada a fragmentos de floresta preservada por causa de sua dependência de árvores adequadas para a instalação dos ninhos.[4]
 
 Essa associação, porém, não significa que a mandaçaia seja incapaz de atravessar ou explorar paisagens modificadas. A atividade das operárias pode alcançar áreas agrícolas, jardins e outros ambientes antropizados quando existem recursos disponíveis. O ponto fundamental é que forragear em uma paisagem modificada e conseguir manter uma população estável nessa paisagem são duas questões diferentes.
 
@@ -54,9 +54,9 @@ A diferença entre **uso de um ambiente** e **dependência de um ambiente** ser�
 
 ## O ambiente urbano
 
-A presença de mandaçaias em áreas urbanas demonstra de maneira particularmente clara a capacidade das abelhas de explorar ambientes alterados. Estudos com *M. quadrifasciata* já registraram atividade de coleta em fragmentos florestais inseridos em áreas urbanas.[^1]
+A presença de mandaçaias em áreas urbanas demonstra de maneira particularmente clara a capacidade das abelhas de explorar ambientes alterados. Estudos com *M. quadrifasciata* já registraram atividade de coleta em fragmentos florestais inseridos em áreas urbanas.[1]
 
-Pesquisas recentes também têm investigado a espécie em cidades altamente urbanizadas, analisando como a configuração da paisagem influencia os recursos coletados pelas colônias. Um estudo sobre forrageamento em área urbana de São Paulo destaca que a espécie apresenta preferência por cavidades em árvores vivas e discute sua dependência de ambientes com vegetação, ao mesmo tempo em que investiga a utilização de plantas presentes em áreas urbanizadas.[^5]
+Pesquisas recentes também têm investigado a espécie em cidades altamente urbanizadas, analisando como a configuração da paisagem influencia os recursos coletados pelas colônias. Um estudo sobre forrageamento em área urbana de São Paulo destaca que a espécie apresenta preferência por cavidades em árvores vivas e discute sua dependência de ambientes com vegetação, ao mesmo tempo em que investiga a utilização de plantas presentes em áreas urbanizadas.[5]
 
 Esses trabalhos são relevantes porque mostram que o ambiente urbano não deve ser classificado simplesmente como adequado ou inadequado. Existem diferentes graus de urbanização e diferentes combinações entre construções, jardins, árvores, praças, parques e fragmentos de vegetação.
 
@@ -66,7 +66,7 @@ Portanto, quando uma colônia de mandaçaia é observada em uma região urbana, 
 
 ## Cerrado e ambientes de transição
 
-Embora a associação da espécie com a Mata Atlântica seja particularmente importante, sua história natural não está restrita a uma paisagem florestal uniforme. Populações de *M. quadrifasciata* também foram estudadas em áreas de Cerrado, onde a disponibilidade de árvores com cavidades pode exercer um papel importante para a nidificação.[^3]
+Embora a associação da espécie com a Mata Atlântica seja particularmente importante, sua história natural não está restrita a uma paisagem florestal uniforme. Populações de *M. quadrifasciata* também foram estudadas em áreas de Cerrado, onde a disponibilidade de árvores com cavidades pode exercer um papel importante para a nidificação.[3]
 
 Essa ocorrência demonstra que o habitat da espécie deve ser descrito com base nas condições ecológicas encontradas, e não apenas pelo nome de um bioma.
 
@@ -80,7 +80,7 @@ O clima participa da definição do habitat porque influencia diretamente a vege
 
 Temperatura e precipitação, por exemplo, influenciam a duração das épocas de floração e a produtividade vegetal. Alterações nesses fatores podem mudar a quantidade de recursos disponíveis para uma colônia e também modificar a atividade de voo.
 
-Estudos de modelagem de distribuição de *M. quadrifasciata* utilizaram variáveis climáticas, além de variáveis relacionadas à distribuição potencial de árvores importantes para nidificação e obtenção de recursos, mostrando que a ocorrência da espécie pode ser interpretada como resultado da combinação entre fatores abióticos e bióticos.[^4]
+Estudos de modelagem de distribuição de *M. quadrifasciata* utilizaram variáveis climáticas, além de variáveis relacionadas à distribuição potencial de árvores importantes para nidificação e obtenção de recursos, mostrando que a ocorrência da espécie pode ser interpretada como resultado da combinação entre fatores abióticos e bióticos.[4]
 
 Isso é particularmente importante para evitar uma visão simplista segundo a qual a espécie dependeria apenas da temperatura média de uma região. Duas localidades podem possuir temperaturas semelhantes e, ainda assim, oferecer condições muito diferentes porque apresentam vegetação, disponibilidade de árvores, precipitação e estrutura da paisagem distintas.
 
@@ -92,7 +92,7 @@ Existe ainda uma característica ecológica importante: os recursos de uma colô
 
 A vegetação que fornece néctar pode estar a determinada distância do ninho, enquanto outra área oferece pólen e uma árvore distante pode fornecer uma cavidade de nidificação. As abelhas conectam espacialmente esses recursos por meio de seus voos.
 
-Estudos sobre tamanho corporal e distância de voo em Meliponini encontraram relação entre características morfométricas e a capacidade potencial de exploração espacial. Para *M. quadrifasciata* e outras espécies, essa relação possui implicações para populações que vivem em fragmentos florestais, pois a capacidade de explorar áreas ao redor do ninho influencia a escala espacial em que uma colônia consegue utilizar a paisagem.[^6]
+Estudos sobre tamanho corporal e distância de voo em Meliponini encontraram relação entre características morfométricas e a capacidade potencial de exploração espacial. Para *M. quadrifasciata* e outras espécies, essa relação possui implicações para populações que vivem em fragmentos florestais, pois a capacidade de explorar áreas ao redor do ninho influencia a escala espacial em que uma colônia consegue utilizar a paisagem.[6]
 
 Essa propriedade significa que a conservação do habitat não pode ser pensada apenas como a preservação de um pequeno ponto onde existe um ninho. É necessário considerar também a paisagem ao redor desse ponto.
 
@@ -136,18 +136,3 @@ A resposta está na combinação de condições ambientais e recursos que permit
 
 Compreender essa relação será fundamental para os próximos temas da obra, especialmente quando passarmos a estudar o indivíduo e, posteriormente, a sociedade da colônia. O animal que vive dentro do ninho não está separado da paisagem. Seu corpo, suas necessidades e sua organização social são parte de uma mesma história biológica que começa no ambiente onde a colônia consegue existir.
 
----
-
-## Referências citadas neste capítulo
-
-[^1]: Antonini, Y.; Costa, R. G.; Martins, R. P. *Floral preferences of a neotropical stingless bee, Melipona quadrifasciata Lepeletier (Apidae: Meliponina) in an urban forest fragment*. Brazilian Journal of Biology, 2006. https://www.scielo.br/scielo.php?pid=S1519-69842006000300012&script=sci_arttext
-
-[^2]: *Communities of Social Bees (Apidae: Meliponini) in Trap-Nests: the Spatial Dynamics of Reproduction in an Area of Atlantic Forest*. PubMed. O estudo discute a dependência de cavidades preexistentes, principalmente ocos de árvores, e a disponibilidade de locais de nidificação como fator estruturante das comunidades de abelhas sem ferrão. https://pubmed.ncbi.nlm.nih.gov/27193808/
-
-[^3]: Antonini, Y.; Martins, R. P. *The value of a tree species (Caryocar brasiliense) for a stingless bee Melipona quadrifasciata quadrifasciata*. Journal of Insect Conservation, 2003, 7:167–174. DOI: 10.1023/A:1027378306119. https://www.researchgate.net/publication/226239879_The_value_of_a_tree_species_Caryocar_brasiliense_for_a_stingless_bee_Melipona_quadrifasciata_quadrifasciata
-
-[^4]: *Safeguarding Ecosystem Services: A Methodological Framework to Buffer the Joint Effect of Habitat Configuration and Climate Change*. PLOS ONE. O trabalho utiliza *Melipona quadrifasciata* como espécie focal e combina variáveis climáticas com variáveis relacionadas à distribuição potencial de árvores importantes para nidificação e recursos. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0129225
-
-[^5]: *Foraging constraints of Melipona quadrifasciata in an urban area*. ScienceDirect, estudo recente sobre a relação entre a atividade de forrageamento da espécie e a configuração da paisagem urbana. https://www.sciencedirect.com/science/article/abs/pii/S1618866726000348
-
-[^6]: Araújo, E. D.; Costa, M.; Chaud-Netto, J.; Fowler, H. G. *Body size and flight distance in stingless bees (Hymenoptera: Meliponini): inference of flight range and possible ecological implications*. Brazilian Journal of Biology, 2004, 64(3B):563–568. DOI: 10.1590/S1519-69842004000400003. https://www.scielo.br/j/bjb/a/738MNzyTTRxydDxTGG9DfYf/?lang=en
