@@ -2,143 +2,151 @@
 
 ## Projeto editorial
 
-Este repositório contém o manuscrito de um livro dedicado à mandaçaia, com foco em sua biologia, comportamento, organização social, ecologia, diversidade geográfica e criação responsável.
+Este repositório contém o manuscrito de uma obra dedicada à mandaçaia (*Melipona quadrifasciata*), desenvolvida como livro de referência sobre sua biologia, taxonomia, distribuição, ecologia, comportamento, organização social, arquitetura do ninho, reprodução, meliponicultura e observação de campo.
 
-O objetivo da obra é apresentar a espécie de maneira detalhada e acessível, aproximando conhecimento científico, observação de campo e experiência de meliponicultura. O livro será desenvolvido progressivamente, capítulo por capítulo, com revisão do conteúdo e das fontes antes da versão final.
+A obra será construída com progressão lógica, linguagem de livro e aprofundamento suficiente para que cada assunto seja compreendido em seu contexto. O texto evitará fragmentação excessiva, listas artificiais e repetição entre capítulos.
 
-## Princípios da obra
+## Princípios editoriais
 
-O livro será escrito em prosa contínua, com explicações desenvolvidas e linguagem de livro, evitando a fragmentação excessiva em listas ou frases curtas.
+Cada capítulo deverá responder a uma questão central e permanecer dentro de seu escopo. Informações pertencentes a capítulos posteriores não serão desenvolvidas antecipadamente apenas para preencher espaço.
 
-Cada capítulo terá uma função específica. Informações que pertencem a capítulos posteriores não serão desenvolvidas antecipadamente apenas para preencher espaço. Quando houver necessidade de mencionar brevemente um assunto futuro, a referência será mínima e contextual.
+A obra distinguirá conhecimento científico estabelecido, interpretação baseada na literatura, observações de campo e experiência prática de meliponicultura. Quando houver incerteza, variação regional ou controvérsia taxonômica, isso será explicitado.
 
-As informações serão diferenciadas entre conhecimento científico estabelecido, observações de campo e experiência prática de meliponicultura. Afirmações específicas sobre *Melipona quadrifasciata* deverão ser verificadas em fontes confiáveis sempre que necessário.
+Informações de distribuição geográfica serão especialmente cuidadosas quanto à diferença entre ocorrência natural documentada, registros históricos, indícios, área potencial e presença decorrente de introdução ou criação.
 
-A nomenclatura MQA e MQQ será utilizada para facilitar a leitura quando tratarmos das duas subespécies tradicionalmente reconhecidas: *Melipona quadrifasciata anthidioides* e *Melipona quadrifasciata quadrifasciata*. Também será feita uma distinção explícita entre essas subespécies, seus padrões intermediários e a espécie distinta *Melipona mandacaia*, que também recebe o nome popular mandaçaia em parte do Brasil.
+Mapas, tabelas e outros elementos gráficos deverão possuir fonte, legenda e contexto adequados à publicação.
 
-## Estrutura prevista
+## Estrutura definitiva de trabalho
 
-### Parte I — Conhecendo a mandaçaia
+### PARTE I — CONHECENDO A MANDAÇAIA
 
-01. Introdução
-02. Objetivo do livro
-03. Como utilizar o livro
-04. Nota ao leitor
-05. A mandaçaia
-06. As mandaçaias do Brasil: MQA, MQQ e formas intermediárias
-07. Classificação e taxonomia
-08. Distribuição geográfica e mapa de ocorrência
-09. Habitat e relação com o ambiente
-10. Características gerais da espécie
-11. Mandaçaia e diversidade das abelhas sem ferrão
+01. A Mandaçaia
+02. A Espécie e sua História Natural
+03. Classificação e Taxonomia
+04. Distribuição Geográfica da Mandaçaia
+05. Habitat e Ambiente Natural
+06. A Mandaçaia e as Transformações da Paisagem
 
-### Parte II — O indivíduo
+### PARTE II — O CORPO DA MANDAÇAIA
 
-12. Anatomia externa
-13. Cabeça, olhos e antenas
-14. Aparelho bucal
-15. Tórax, asas e pernas
-16. Abdômen e estruturas internas
-17. Sistemas sensoriais
-18. Desenvolvimento individual
-19. Ciclo de vida
+07. Anatomia da Mandaçaia
+08. Cabeça, Olhos e Antenas
+09. Aparelho Bucal
+10. Tórax, Asas e Pernas
+11. Abdômen e Estruturas Internas
+12. Os Sentidos da Mandaçaia
+13. Desenvolvimento Individual
 
-### Parte III — A sociedade da colônia
+### PARTE III — A COLÔNIA
 
-20. Organização social
-21. A rainha
-22. As operárias
-23. Os machos
-24. Castas e diferenças entre indivíduos
-25. Divisão de trabalho
-26. Organização temporal das tarefas
-27. Comunicação e interação social
+14. A Colônia
+15. A Rainha
+16. As Operárias
+17. Os Machos
+18. Castas e Diferenciação
+19. Divisão de Trabalho
+20. A Vida de uma Operária
+21. Comunicação e Organização Social
 
-### Parte IV — O ninho
+### PARTE IV — O NINHO
 
-28. Arquitetura do ninho
-29. Entrada e região externa
-30. Estruturas internas
-31. Área de cria
-32. Invólucro e proteção
-33. Potes de alimento
-34. Materiais utilizados na construção
-35. Transformações do ninho ao longo do desenvolvimento da colônia
+22. A Arquitetura do Ninho
+23. A Entrada
+24. O Interior do Ninho
+25. A Área de Cria
+26. O Invólucro
+27. Potes de Alimento
+28. Cerume, Resinas e Outros Materiais
+29. O Desenvolvimento Arquitetônico da Colônia
 
-### Parte V — Alimentação e relação com o ambiente
+### PARTE V — ALIMENTAÇÃO E FORRAGEAMENTO
 
-36. Alimentação da colônia
-37. Néctar e fontes de carboidratos
-38. Pólen e fontes de proteína
-39. Água
-40. Resinas e outros materiais coletados
-41. Forrageamento
-42. Relação com as flores
-43. Recursos disponíveis no ambiente
-44. Variações sazonais
+30. A Alimentação da Mandaçaia
+31. Néctar
+32. Pólen
+33. Água
+34. Resinas e Outros Recursos
+35. Forrageamento
+36. A Relação com as Flores
+37. Distância e Estratégias de Forrageamento
+38. Alimentação ao Longo do Ano
 
-### Parte VI — Reprodução e continuidade da colônia
+### PARTE VI — REPRODUÇÃO
 
-45. Reprodução
-46. Formação de novos indivíduos
-47. Desenvolvimento da cria
-48. Reprodução da colônia
-49. Enxameação e estabelecimento de novos ninhos
-50. Rainha e continuidade da população
+39. Reprodução
+40. Desenvolvimento da Cria
+41. Reprodução da Colônia
+42. Formação de Novas Colônias
+43. Enxameação
+44. Fundação de um Novo Ninho
 
-### Parte VII — Comportamento
+### PARTE VII — COMPORTAMENTO
 
-51. Atividade diária
-52. Defesa da colônia
-53. Guardas e vigilância
-54. Reconhecimento e resposta a ameaças
-55. Interações entre indivíduos
-56. Comportamentos relacionados ao clima
-57. Respostas a alterações ambientais
-58. Comportamentos incomuns e como interpretá-los
+45. Introdução ao Comportamento da Mandaçaia
+46. A Rotina Diária
+47. Guardas e Vigilância
+48. Defesa da Colônia
+49. Reconhecimento de Ameaças
+50. Interações Entre Abelhas
+51. Higiene e Limpeza
+52. Influência do Clima
+53. Comportamentos Incomuns
 
-### Parte VIII — Meliponicultura
+### PARTE VIII — MELIPONICULTURA
 
-59. Princípios da criação de mandaçaias
-60. Instalação da colônia
-61. Escolha e preparação do local
-62. Observação sem perturbação
-63. Manejo responsável
-64. Alimentação suplementar e seus cuidados
-65. Multiplicação de colônias
-66. Problemas e situações de risco
-67. Conservação e responsabilidade na criação
+54. Introdução à Meliponicultura
+55. Escolha do Local
+56. A Caixa
+57. Instalação da Colônia
+58. Observação e Manejo
+59. Alimentação Suplementar
+60. Multiplicação
+61. Transferência de Colônias
+62. Problemas no Manejo
+63. Pragas e Inimigos
+64. Erros Comuns
+65. Conservação e Responsabilidade
 
-### Parte IX — Observação e estudo de campo
+### PARTE IX — OBSERVAÇÃO DE CAMPO
 
-68. Como observar uma colônia
-69. Diário de observação
-70. Registro de atividade
-71. Registro de comportamento
-72. Influência do horário e das condições ambientais
-73. Comparação entre observações
-74. Como evitar interpretações precipitadas
-75. Transformando observações em conhecimento
+66. Como Observar uma Colônia
+67. O Diário da Colônia
+68. Como Registrar o Clima
+69. Registro da Atividade
+70. Registro das Guardas
+71. Registro de Forrageamento
+72. Como Comparar Observações
+73. Como Interpretar Comportamentos
+74. O Que uma Observação Pode e Não Pode Dizer
 
-### Parte X — Referência
+### PARTE X — CONSERVAÇÃO
 
-76. Glossário
-77. Perguntas frequentes
-78. Referências bibliográficas
-79. Índice remissivo
+75. A Mandaçaia na Natureza
+76. Ameaças
+77. Perda de Habitat
+78. Populações Naturais e Populações Manejadas
+79. O Papel do Meliponicultor
+80. Conservação da Espécie
 
-## Mapas e distribuição
+### PARTE XI — REFERÊNCIA
 
-A obra terá mapas próprios ou devidamente licenciados para ilustrar a distribuição conhecida de *Melipona quadrifasciata*. O mapa geral da espécie não deverá ser interpretado como um mapa capaz de identificar a subespécie presente em cada ponto. Para MQA, MQQ e zonas de contato, serão utilizados registros científicos e uma legenda que diferencie ocorrência documentada, zonas de transição e áreas onde a identificação permanece incerta.
+81. Guia de Identificação
+82. Perguntas Frequentes
+83. Glossário
+84. Tabelas de Comportamento
+85. Referências Bibliográficas
+86. Índice Remissivo
 
-## Organização dos arquivos
+## Padrão de pesquisa
 
-O manuscrito será mantido em arquivos Markdown separados por capítulo ou seção. Isso permite revisar partes específicas sem transformar o projeto em um único arquivo difícil de manter.
+Os capítulos de maior conteúdo científico deverão ser construídos a partir de literatura especializada, preferencialmente artigos científicos, livros acadêmicos, revisões, documentos de instituições de pesquisa e bases de dados reconhecidas. Fontes secundárias poderão ser utilizadas como apoio, mas não substituirão a literatura primária quando uma afirmação técnica exigir maior precisão.
 
-As referências científicas serão mantidas separadamente e associadas aos capítulos correspondentes conforme a pesquisa avançar.
+## Mapas e dados geográficos
+
+O capítulo de distribuição deverá utilizar mapas com fonte e metodologia identificáveis. Quando houver dados suficientes, serão diferenciados registros confirmados, registros históricos, áreas de ocorrência indicadas pela literatura, zonas de contato e ocorrências associadas à criação ou introdução humana.
 
 ## Status
 
 Projeto em desenvolvimento.
 
-Estrutura editorial revisada em setembro de 2026.
+Estrutura editorial reorganizada para a versão profissional do manuscrito.
