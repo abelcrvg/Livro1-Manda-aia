@@ -58,3 +58,81 @@ Também é necessário distinguir a permanência de uma colônia da manutenção
 
 Essa distinção entre **presença local**, **persistência** e **manutenção populacional** é fundamental para a interpretação de qualquer registro.
 
+## O que os estudos urbanos revelam
+
+Pesquisas mais recentes tornaram essa relação ainda mais evidente.
+
+Antonini, Martins e Cardoso avaliaram, em 2025, fragmentos florestais inseridos em uma grande metrópole brasileira e investigaram quais características locais e da paisagem estavam associadas à ocorrência de *M. quadrifasciata*. A espécie foi encontrada em pouco mais da metade dos fragmentos amostrados. Os fragmentos com presença da abelha apresentavam melhores indicadores de estrutura florestal, enquanto maior perturbação local e maior urbanização no entorno estiveram associadas à ausência da espécie [4].
+
+Esse resultado não deve ser transformado em uma porcentagem geral de ocupação urbana da mandaçaia. O estudo foi realizado em uma área geográfica específica e em um conjunto determinado de fragmentos. Seu valor está em demonstrar que **uma espécie amplamente distribuída regionalmente pode apresentar ausência local associada à qualidade do habitat e ao grau de urbanização**.
+
+Esse resultado reforça uma ideia importante da ecologia: uma espécie pode possuir ampla distribuição geográfica e, simultaneamente, estar ausente de determinados locais porque as condições ali encontradas deixaram de ser adequadas.
+
+A escala da análise muda a interpretação.
+
+Em um mapa regional, podemos enxergar uma grande área de ocorrência. Em uma paisagem urbana, podemos encontrar um mosaico de pequenos remanescentes, alguns ocupados e outros não. Em uma árvore específica, podemos encontrar uma única cavidade ocupada por uma colônia.
+
+Todas essas observações são verdadeiras, mas respondem a perguntas diferentes.
+
+## Urbanização: quando a cidade reorganiza os recursos
+
+A urbanização altera praticamente todos os componentes da paisagem.
+
+Construções substituem a cobertura vegetal. O solo é impermeabilizado. Árvores podem ser removidas ou isoladas. A vegetação restante frequentemente sofre podas, limpeza e substituição. Jardins passam a conter novas combinações de plantas. O fluxo de veículos, a iluminação artificial e outras perturbações aumentam.
+
+Ainda assim, uma cidade não constitui um ambiente ecologicamente uniforme.
+
+Existem cidades com parques, reservas, arborização abundante, quintais e fragmentos de vegetação nativa. Dentro da mesma cidade podem existir bairros quase sem cobertura vegetal e outros com árvores antigas e uma rede de jardins e áreas verdes.
+
+Essa heterogeneidade explica por que a pergunta “a mandaçaia vive na cidade?” é biologicamente incompleta.
+
+A questão relevante é **quais componentes da cidade fornecem condições para que a colônia continue existindo**.
+
+O estudo de Antonini, Costa e Martins já havia demonstrado a utilização de recursos florais em um fragmento florestal urbano [3]. O estudo de Antonini, Martins e Cardoso mostrou, em escala mais ampla, que a ocorrência entre fragmentos urbanos estava relacionada à estrutura da vegetação e à intensidade da perturbação [4]. Em conjunto, essas evidências apontam para uma conclusão cuidadosa: cidades podem conter habitat funcional para a mandaçaia, mas a simples presença de “área verde” não garante adequação.
+
+## Plantas ornamentais, plantas exóticas e recursos
+
+Outro efeito importante da urbanização é a alteração da composição vegetal.
+
+Uma planta ornamental ou exótica pode fornecer néctar ou pólen e, portanto, ser utilizada pelas abelhas. Porém, a presença de algumas plantas floridas não significa que a paisagem possua a mesma diversidade e estabilidade de recursos proporcionadas por uma comunidade vegetal mais complexa.
+
+Pesquisas recentes sobre o forrageamento de *M. quadrifasciata* em São Paulo analisaram a composição do pólen coletado pelas colônias e a relação desse material com características da paisagem urbana [5]. O estudo encontrou utilização de plantas nativas e introduzidas, evidenciando que a espécie consegue explorar uma flora heterogênea em ambiente altamente modificado.
+
+Esse resultado é relevante porque demonstra **flexibilidade de uso**, mas não deve ser interpretado como equivalência ecológica entre uma vegetação nativa diversificada e um conjunto de espécies ornamentais.
+
+Uma paisagem pode oferecer flores em determinado mês e apresentar escassez no mês seguinte. Pode fornecer um recurso abundante de uma espécie vegetal e quase nenhum outro recurso por longos períodos.
+
+Para uma colônia social, que precisa sustentar indivíduos em diferentes fases do ciclo de vida durante todo o ano, a **continuidade temporal dos recursos** é tão importante quanto a existência de flores em um dado momento.
+
+## Agricultura: quando recurso e pressão aparecem juntos
+
+As paisagens agrícolas estabelecem uma relação particularmente complexa com as abelhas.
+
+Uma cultura em florescimento pode fornecer grande quantidade de alimento em uma área relativamente extensa. Durante algumas semanas, isso pode representar um recurso importante. Depois da floração, entretanto, a disponibilidade pode cair rapidamente.
+
+A conversão da vegetação natural em sistemas agrícolas também costuma simplificar a estrutura da paisagem. Árvores são retiradas, áreas são homogeneizadas e recursos que anteriormente estavam distribuídos em diferentes épocas e locais podem desaparecer.
+
+Além disso, determinadas práticas agrícolas introduzem uma segunda dimensão: a exposição a produtos químicos.
+
+Experimentos com *M. quadrifasciata* mostraram que diferentes inseticidas e acaricidas podem produzir respostas distintas de acordo com a substância e a via de exposição. Em estudo com produtos utilizados em morangueiro, Piovesan e colaboradores observaram efeitos letais e subletais que variaram conforme o pesticida, a espécie e a via de exposição [6].
+
+Esses resultados não autorizam transformar qualquer aplicação agrícola em uma explicação automática para alterações observadas em uma colônia. Formulação, concentração, via de contato, persistência, frequência de aplicação e condições ambientais podem mudar consideravelmente a exposição real.
+
+O ponto central é outro: **a transformação agrícola da paisagem não deve ser avaliada somente pela quantidade de alimento oferecida**.
+
+Uma cultura pode fornecer alimento e, simultaneamente, criar uma oportunidade de exposição a agentes químicos. A análise ecológica precisa considerar os dois lados.
+
+## Herbicidas e organismos em desenvolvimento
+
+A exposição também não se limita às abelhas adultas.
+
+Em estudo experimental publicado em 2018, Seide e colaboradores avaliaram glyphosate e proteínas Cry em fases imaturas de *M. quadrifasciata*. Nas condições experimentais, o glyphosate provocou mortalidade larval, enquanto determinadas proteínas Cry alteraram o desenvolvimento das larvas [7].
+
+O significado desse resultado é importante para a biologia da colônia. Uma colônia não é constituída apenas pelos indivíduos que voam para fora do ninho. Grande parte de seu potencial futuro está representada por indivíduos em desenvolvimento.
+
+Ao mesmo tempo, um experimento de laboratório não deve ser tratado como descrição direta do que acontece em qualquer campo agrícola. A exposição real depende das concentrações efetivamente encontradas, da forma de aplicação, da disponibilidade do contaminante, do comportamento das abelhas e de muitos outros fatores.
+
+A literatura experimental permite afirmar que **existe potencial para efeitos biológicos relevantes**, mas a intensidade desse efeito em uma população natural precisa ser avaliada em condições de exposição realistas.
+
+Essa diferença entre evidência experimental e efeito populacional é fundamental para uma obra de referência.
+
