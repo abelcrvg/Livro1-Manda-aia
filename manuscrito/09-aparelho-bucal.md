@@ -10,7 +10,7 @@ Ao estudar a mandaçaia, é importante abandonar a imagem de que ela simplesment
 
 Essa distinção é importante porque a mandaçaia não utiliza o mesmo mecanismo para todos os recursos. Néctar, água, pólen, resinas e materiais utilizados na construção do ninho podem exigir combinações diferentes de estruturas e movimentos.
 
-Além disso, o aparelho bucal não é apenas uma ferramenta mecânica. As mandíbulas possuem estruturas glandulares especializadas e apresentam diferenças relacionadas à idade e à função das operárias. Em *Melipona quadrifasciata*, estudos histológicos e ultraestruturais mostraram diferenças claras entre indivíduos jovens, nutridoras, forrageadoras, rainhas virgens e rainhas fisiogástricas [1][2].
+Além disso, o aparelho bucal não é apenas uma ferramenta mecânica. As mandíbulas possuem estruturas glandulares especializadas e apresentam diferenças relacionadas à idade e à função das operárias. Em *Melipona quadrifasciata*, estudos histológicos e ultraestruturais mostraram diferenças claras entre indivíduos jovens, nutridoras, forrageadoras, rainhas virgens e rainhas fisiogástricas [1](85-referencias-bibliograficas.md#ref-09-1)[2](85-referencias-bibliograficas.md#ref-09-2).
 
 O que parece uma pequena boca é, portanto, uma estrutura anatômica e fisiológica altamente especializada.
 
@@ -66,13 +66,13 @@ A mandíbula fornece o ponto de contato mecânico, mas a precisão do comportame
 
 A anatomia das mandíbulas da mandaçaia possui uma particularidade que torna a espécie especialmente interessante para estudos de histologia.
 
-As mandíbulas de *M. quadrifasciata* possuem **estruturas glandulares intramandibulares**. Estudos realizados por microscopia óptica e microscopia eletrônica de transmissão identificaram dois tipos de organização secretora: uma região de epitélio hipertrofiado na face dorsal da mandíbula e células secretoras individuais distribuídas no interior da estrutura [1].
+As mandíbulas de *M. quadrifasciata* possuem **estruturas glandulares intramandibulares**. Estudos realizados por microscopia óptica e microscopia eletrônica de transmissão identificaram dois tipos de organização secretora: uma região de epitélio hipertrofiado na face dorsal da mandíbula e células secretoras individuais distribuídas no interior da estrutura [1](85-referencias-bibliograficas.md#ref-09-1).
 
 Essas glândulas não são apenas uma curiosidade microscópica.
 
 Sua atividade varia conforme a idade e a função da operária.
 
-Em operárias recém-emergidas, a região epitelial pode apresentar desenvolvimento acentuado. Durante a fase de nutridora, essa estrutura sofre involução, enquanto as células secretoras internas permanecem ativas. Nas forrageadoras, a atividade secretora dessas células é mais intensa [1].
+Em operárias recém-emergidas, a região epitelial pode apresentar desenvolvimento acentuado. Durante a fase de nutridora, essa estrutura sofre involução, enquanto as células secretoras internas permanecem ativas. Nas forrageadoras, a atividade secretora dessas células é mais intensa [1](85-referencias-bibliograficas.md#ref-09-1).
 
 A mudança acompanha a própria transformação comportamental da operária.
 
@@ -82,13 +82,13 @@ Isso significa que o aparelho bucal não é uma estrutura estática ao longo da 
 
 A existência das estruturas secretoras está bem demonstrada, mas a função exata de toda a secreção ainda não está completamente estabelecida.
 
-Os estudos histológicos sugerem funções associadas à atividade glandular e discutem possíveis papéis na comunicação química e na utilização durante atividades de forrageamento [1][2].
+Os estudos histológicos sugerem funções associadas à atividade glandular e discutem possíveis papéis na comunicação química e na utilização durante atividades de forrageamento [1](85-referencias-bibliograficas.md#ref-09-1)[2](85-referencias-bibliograficas.md#ref-09-2).
 
 Essa cautela é importante.
 
 É relativamente fácil observar uma glândula e supor sua finalidade a partir da posição anatômica. Uma conclusão funcional, entretanto, requer evidência adicional.
 
-Em trabalhos com *M. quadrifasciata*, alterações na estrutura e atividade glandular foram relacionadas a castas e fases funcionais, mas a composição química precisa e todas as funções ecológicas das secreções não estão completamente resolvidas [1].
+Em trabalhos com *M. quadrifasciata*, alterações na estrutura e atividade glandular foram relacionadas a castas e fases funcionais, mas a composição química precisa e todas as funções ecológicas das secreções não estão completamente resolvidas [1](85-referencias-bibliograficas.md#ref-09-1).
 
 Em uma obra de referência, essa diferença precisa permanecer explícita: **a presença e a diferenciação da glândula são fatos anatômicos demonstrados; suas funções químicas específicas devem ser tratadas conforme o nível de evidência disponível**.
 
@@ -96,9 +96,9 @@ Em uma obra de referência, essa diferença precisa permanecer explícita: **a p
 
 Um segundo conjunto de estudos investigou especificamente a **glândula mandibular** de operárias e rainhas.
 
-Nesses trabalhos, ambas as castas apresentaram um agrupamento de células secretoras de classe III associado a um pequeno reservatório de parede fina. As glândulas das rainhas eram menores que as das operárias, enquanto as operárias apresentavam diferenças de desenvolvimento de acordo com seu estado funcional [2].
+Nesses trabalhos, ambas as castas apresentaram um agrupamento de células secretoras de classe III associado a um pequeno reservatório de parede fina. As glândulas das rainhas eram menores que as das operárias, enquanto as operárias apresentavam diferenças de desenvolvimento de acordo com seu estado funcional [2](85-referencias-bibliograficas.md#ref-09-2).
 
-Entre as operárias, as nutridoras apresentaram glândulas desenvolvidas, enquanto a secreção armazenada pareceu estar especialmente relacionada às forrageadoras. Entre as rainhas, a atividade glandular foi maior em rainhas virgens do que em rainhas fisiogástricas [2].
+Entre as operárias, as nutridoras apresentaram glândulas desenvolvidas, enquanto a secreção armazenada pareceu estar especialmente relacionada às forrageadoras. Entre as rainhas, a atividade glandular foi maior em rainhas virgens do que em rainhas fisiogástricas [2](85-referencias-bibliograficas.md#ref-09-2).
 
 Esses resultados mostram mais uma vez que a anatomia está ligada à organização social.
 
@@ -246,7 +246,7 @@ As mandíbulas possuem papel importante nesse tipo de tarefa.
 
 A operária pode agarrar e desprender material vegetal, enquanto pernas e estruturas corporais auxiliam na manipulação e no transporte.
 
-As glândulas associadas às mandíbulas tornam a questão ainda mais interessante. Estudos com *M. quadrifasciata* demonstraram atividade secretora diferenciada nas mandíbulas conforme a idade e a função da operária [1][2].
+As glândulas associadas às mandíbulas tornam a questão ainda mais interessante. Estudos com *M. quadrifasciata* demonstraram atividade secretora diferenciada nas mandíbulas conforme a idade e a função da operária [1](85-referencias-bibliograficas.md#ref-09-1)[2](85-referencias-bibliograficas.md#ref-09-2).
 
 Ainda não é possível afirmar que toda secreção mandibular seja produzida especificamente para trabalhar resinas. Essa seria uma interpretação além da evidência disponível.
 
@@ -314,7 +314,7 @@ Isso tem consequências importantes para a observação.
 
 A olho nu, podemos reconhecer as mandíbulas e, com alguma atenção, a probóscide. Entretanto, detalhes de sensilas, poros, canais glandulares e tecidos internos exigem microscopia.
 
-No estudo das glândulas intramandibulares de *M. quadrifasciata*, por exemplo, a identificação dos diferentes tipos celulares exigiu tanto microscopia óptica quanto microscopia eletrônica de transmissão [1].
+No estudo das glândulas intramandibulares de *M. quadrifasciata*, por exemplo, a identificação dos diferentes tipos celulares exigiu tanto microscopia óptica quanto microscopia eletrônica de transmissão [1](85-referencias-bibliograficas.md#ref-09-1).
 
 Essas técnicas permitem observar estruturas em escalas que seriam completamente invisíveis durante uma inspeção externa.
 
@@ -330,7 +330,7 @@ Elas se desenvolvem durante a metamorfose.
 
 Durante a fase pupal, os tecidos da futura cabeça e de seus apêndices passam por profundas modificações. A cutícula adulta é formada progressivamente e os músculos associados às estruturas precisam se estabelecer.
 
-As glândulas intramandibulares também se diferenciam durante a metamorfose, como ocorre com outras glândulas epidérmicas de insetos [1].
+As glândulas intramandibulares também se diferenciam durante a metamorfose, como ocorre com outras glândulas epidérmicas de insetos [1](85-referencias-bibliograficas.md#ref-09-1).
 
 Quando a abelha emerge, a estrutura externa já possui a configuração necessária para a vida adulta. Entretanto, a atividade fisiológica de diferentes tecidos pode continuar mudando conforme o indivíduo envelhece.
 
@@ -344,7 +344,7 @@ Uma recém-emergida não realiza exatamente as mesmas tarefas de uma forrageador
 
 Nas primeiras fases da vida adulta, atividades internas da colônia predominam. Mais tarde, o indivíduo pode participar de tarefas externas.
 
-Os estudos das glândulas mandibulares mostram que essas mudanças comportamentais são acompanhadas por alterações anatômicas e fisiológicas [1][2].
+Os estudos das glândulas mandibulares mostram que essas mudanças comportamentais são acompanhadas por alterações anatômicas e fisiológicas [1](85-referencias-bibliograficas.md#ref-09-1)[2](85-referencias-bibliograficas.md#ref-09-2).
 
 Isso não significa que a mandíbula de uma operária jovem seja estruturalmente diferente da mandíbula de uma campeira no sentido de possuir outra forma básica.
 
@@ -420,9 +420,9 @@ A anatomia da mandaçaia não está apenas adaptada à espécie.
 
 Ela está adaptada também à **vida social**.
 
-A diferença na atividade das glândulas entre operárias jovens, nutridoras e forrageadoras indica que estruturas da mesma espécie podem funcionar de maneiras diferentes conforme o contexto social do indivíduo [1].
+A diferença na atividade das glândulas entre operárias jovens, nutridoras e forrageadoras indica que estruturas da mesma espécie podem funcionar de maneiras diferentes conforme o contexto social do indivíduo [1](85-referencias-bibliograficas.md#ref-09-1).
 
-Da mesma forma, as diferenças observadas entre rainhas e operárias mostram que o aparelho bucal participa de diferentes regimes fisiológicos dentro da colônia [2].
+Da mesma forma, as diferenças observadas entre rainhas e operárias mostram que o aparelho bucal participa de diferentes regimes fisiológicos dentro da colônia [2](85-referencias-bibliograficas.md#ref-09-2).
 
 A cabeça, portanto, não pode ser analisada apenas como parte de um animal solitário.
 
