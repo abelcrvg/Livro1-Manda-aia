@@ -124,3 +124,38 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 
 <a id="ref-10-6"></a>
 **[6]** STREINZER, M.; HUBER, W.; SPAETHE, J. Body size limits dim-light foraging activity in stingless bees (Apidae: Meliponini). *Journal of Comparative Physiology A*, v. 202, p. 643–655, 2016. DOI: 10.1007/s00359-016-1118-8.
+
+## Capítulo 11 — Abdômen e Estruturas Internas
+
+<a id="ref-11-1"></a>
+**[1]** CARNEIRO, L. S.; GONÇALVES, W. G.; FERNANDES, K. M.; ZANUNCIO, J. C.; SERRÃO, J. E.; TEIXEIRA, S. A. M. V. Histochemistry, immunohistochemistry and cytochemistry of the anterior midgut region of the stingless bee *Melipona quadrifasciata* and honey bee *Apis mellifera* (Hymenoptera: Apidae). *Micron*, v. 111, p. 9–15, 2018. DOI: 10.1016/j.micron.2018.06.017.
+
+<a id="ref-11-2"></a>
+**[2]** CRUZ-LANDIM, C.; ROAT, T. C.; BERGER, B. Fat body, hemolymph and ovary routes for delivery of substances to ovary in *Melipona quadrifasciata anthidioides*: differences among castes through the use of electron-opaque tracers. *Microscopy*, v. 62, n. 4, p. 457–466, 2013. DOI: 10.1093/jmicro/dft018.
+
+<a id="ref-11-3"></a>
+**[3]** PAES-DE-OLIVEIRA, V. T.; ROAT, T. C.; BERGER, B.; CRUZ-LANDIM, C. Cytochemistry of fat body trophocytes and ovaries of workers and queens of *Melipona quadrifasciata anthidioides* (Hymenoptera: Apidae: Meliponini) during vitellogenesis. *Microscopy Research and Technique*, v. 75, n. 12, p. 1623–1631, 2012. DOI: 10.1002/jemt.22107.
+
+<a id="ref-11-4"></a>
+**[4]** DA SILVA, P. C.; GONÇALVES, B.; FRANCESCHINELLI, E.; BRITO, P. Glyphosate-Based Herbicide Causes Cellular Alterations to Gut Epithelium of the Neotropical Stingless Bee *Melipona quadrifasciata quadrifasciata* (Hymenoptera: Meliponini). *Neotropical Entomology*, v. 51, n. 6, p. 860–868, 2022. DOI: 10.1007/s13744-022-01001-5.
+
+<a id="ref-11-5"></a>
+**[5]** PAES-DE-OLIVEIRA, V. T.; CRUZ-LANDIM, C. Histological and ultrastructural aspects of the fat body in virgin and physogastric queens of *Melipona quadrifasciata anthidioides* Lepeletier, 1836 (Hymenoptera, Apidae, Meliponini). *Brazilian Journal of Morphological Sciences*, v. 23, n. 3–4, p. 385–392, 2006.
+
+<a id="ref-11-6"></a>
+**[6]** PAES-DE-OLIVEIRA, V. T.; BERGER, B.; CRUZ-LANDIM, C.; SIMÕES, Z. L. P. Vitellogenin content in fat body and ovary homogenates of workers and queens of *Melipona quadrifasciata anthidioides* during vitellogenesis. *Insect Science*, v. 19, n. 2, p. 213–219, 2012. DOI: 10.1111/j.1744-7917.2011.01445.x.
+
+<a id="ref-11-7"></a>
+**[7]** TANAKA, É. D.; SANTANA, W. C.; HARTFELDER, K. Ovariole structure and oogenesis in queens and workers of the stingless bee *Melipona quadrifasciata* (Hymenoptera: Apidae, Meliponini) kept under different social conditions. *Apidologie*, v. 40, n. 2, p. 163–177, 2009. DOI: 10.1051/apido/2008071.
+
+<a id="ref-11-8"></a>
+**[8]** CRUZ-LANDIM, C. Ovarian development in Meliponine bees (Hymenoptera: Apidae): the effect of queen presence and food on worker ovary development and egg production. *Genetics and Molecular Biology*, v. 23, n. 1, p. 83–88, 2000. DOI: 10.1590/S1415-47572000000100015.
+
+<a id="ref-11-9"></a>
+**[9]** SERRÃO, J. E.; NAVES, A. P.; ZANUNCIO, J. C. Modifications in the oviducts of workers and queens of *Melipona quadrifasciata anthidioides* (Hymenoptera: Apidae) with different ages. *Protoplasma*, v. 248, n. 4, p. 767–773, 2011. DOI: 10.1007/s00709-010-0245-2.
+
+<a id="ref-11-10"></a>
+**[10]** SOUZA, E. A.; CAMPOS, L. A. O.; NEVES, C. A.; ZANUNCIO, J. C.; SERRÃO, J. E. Effect of delayed mating on spermathecal activation in *Melipona quadrifasciata anthidioides* (Hymenoptera, Apidae) queens. *Apidologie*, v. 39, n. 3, p. 293–301, 2008. DOI: 10.1051/apido:2008008.
+
+<a id="ref-11-11"></a>
+**[11]** FERREIRA, A.; ABDALLA, F. C.; KERR, W. E.; CRUZ-LANDIM, C. Comparative anatomy of the male reproductive internal organs of 51 species of bees. *Neotropical Entomology*, v. 33, n. 5, p. 569–576, 2004. DOI: 10.1590/S1519-566X2004000500005.
