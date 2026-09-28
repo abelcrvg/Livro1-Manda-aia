@@ -104,3 +104,23 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 
 <a id="ref-09-2"></a>
 **[2]** CRUZ-LANDIM, C.; GRACIOLI-VITTI, L. F.; ABDALLA, F. C. Ultrastructural studies of the mandibular gland of *Melipona quadrifasciata* Lepeletier, 1836 (Apidae, Meliponini): a comparison between workers and queens. *Journal of Apicultural Research*, v. 50, n. 4, p. 306–315, 2011. DOI: 10.3896/IBRA.1.50.4.08.
+
+## Capítulo 10 — Tórax, Asas e Pernas
+
+<a id="ref-10-1"></a>
+**[1]** MEIRA, O. M.; ALMEIDA, E. A. B. Comparative anatomy of the thoracic muscles of bees (Hymenoptera: Apoidea). *PeerJ*, v. 14, e20532, 2026. DOI: 10.7717/peerj.20532.
+
+<a id="ref-10-2"></a>
+**[2]** ENGEL, M. S.; RASMUSSEN, C.; AYALA, R.; DE OLIVEIRA, F. F. Stingless bee classification and biology (Hymenoptera, Apidae): a review, with an updated key to genera and subgenera. *Journal of Hymenoptera Research*, v. 94, 2023. DOI: 10.3897/jhr.94.107870.
+
+<a id="ref-10-3"></a>
+**[3]** FRANCOY, T. M.; SILVA, R. A. O.; NUNES-SILVA, P.; MENEZES, C.; IMPERATRIZ-FONSECA, V. L. Gender identification of five genera of stingless bees (Apidae, Meliponini) based on wing morphology. *Genetics and Molecular Research*, v. 8, n. 1, p. 207–214, 2009. DOI: 10.4238/vol8-1gmr557.
+
+<a id="ref-10-4"></a>
+**[4]** NUNES, L. A.; PASSOS, G. B.; CARVALHO, C. A. L.; ARAÚJO, E. D. Size and shape in *Melipona quadrifasciata anthidioides* Lepeletier, 1836 (Hymenoptera; Meliponini). *Brazilian Journal of Biology*, v. 73, n. 4, p. 887–893, 2013. DOI: 10.1590/S1519-69842013000400027.
+
+<a id="ref-10-5"></a>
+**[5]** MARCONI, M.; VECCO-GIOVE, C. D.; ORMEÑO LUNA, J.; CERNA MENDOZA, A.; MANCINI, E.; DI GIULIO, A. Scanning electron microscopy (SEM) reveals high diversity of setae on the hind tibiae and basitarsi of Peruvian stingless bees (Apidae: Meliponini). *PeerJ*, v. 13, e19749, 2025. DOI: 10.7717/peerj.19749.
+
+<a id="ref-10-6"></a>
+**[6]** STREINZER, M.; HUBER, W.; SPAETHE, J. Body size limits dim-light foraging activity in stingless bees (Apidae: Meliponini). *Journal of Comparative Physiology A*, v. 202, p. 643–655, 2016. DOI: 10.1007/s00359-016-1118-8.
