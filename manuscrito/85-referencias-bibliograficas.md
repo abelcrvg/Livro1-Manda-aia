@@ -210,7 +210,7 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 **[1]** CRUZ-LANDIM, C.; MELLO, M. L. S. Post-embryonic changes in *Melipona quadrifasciata anthidioides* Lep. IV. Development of the digestive tract. *Boletim do Instituto de Biociências da Universidade de São Paulo*, v. 27, 1970. DOI: 10.11606/issn.2526-3374.bffcluspnszoobm.1970.121198.
 
 <a id="ref-13-2"></a>
-**[2]** ROSA, A. S.; et al. Toxicological assessments of agrochemical effects on stingless bees (Apidae, Meliponini): methods and laboratory rearing parameters for *Melipona quadrifasciata*. *Ecotoxicology and Environmental Safety*, 2020.
+**[2]** BOTINA, L. L.; BERNARDES, R. C.; BARBOSA, W. F.; LIMA, M. A. P.; GUEDES, R. N. C.; MARTINS, G. F. Toxicological assessments of agrochemical effects on stingless bees (Apidae, Meliponini). *MethodsX*, v. 7, 100906, 2020. DOI: 10.1016/j.mex.2020.100906.
 
 <a id="ref-13-3"></a>
 **[3]** ROSSINI, A. S. Caracterização das mudas ontogenéticas e biometria dos corpora allata de *Melipona quadrifasciata anthidioides* Lep. (Hymenoptera, Apidae). Dissertação (Mestrado em Ciências Biológicas) — Universidade Estadual Paulista, 1989.
@@ -237,7 +237,7 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 **[10]** FAGUNDES, I. B.; CAMPOS, L. A. O.; SERRÃO, J. E. Tergite pigmentation indicates hypopharyngeal gland developmental degree in *Melipona quadrifasciata* (Hymenoptera, Apidae, Meliponini). *Sociobiology*, v. 48, n. 1, p. 51–62, 2006.
 
 <a id="ref-13-11"></a>
-**[11]** CRUZ-LANDIM, C.; et al. Estudos comparativos de desenvolvimento reprodutivo em abelhas e Meliponini. Referências específicas consolidadas no capítulo de reprodução.
+**[11]** BORGES, A. A.; HUMANN, F. C.; CAMPOS, L. A. O.; TAVARES, M. G.; HARTFELDER, K. Transcript levels of ten caste-related genes in adult diploid males of *Melipona quadrifasciata* (Hymenoptera, Apidae) — a comparison with haploid males, queens and workers. *Genetics and Molecular Biology*, v. 34, n. 4, p. 698–706, 2011. DOI: 10.1590/S1415-47572011005000050.
 
 <a id="ref-13-12"></a>
 **[12]** CRUZ-LANDIM, C.; GRACIOLI-VITTI, L. F.; ABDALLA, F. C. Ultrastructure of the intramandibular gland of workers and queens of the stingless bee, *Melipona quadrifasciata*. *Journal of Insect Science*, v. 11, art. 107, 2011. DOI: 10.1673/031.011.10701.
@@ -248,5 +248,3 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 <a id="ref-13-14"></a>
 **[14]** SERRÃO, J. E.; NAVES, A. P.; ZANUNCIO, J. C. Modifications in the oviducts of workers and queens of *Melipona quadrifasciata anthidioides* (Hymenoptera: Apidae) with different ages. *Protoplasma*, v. 248, n. 4, p. 767–773, 2011. DOI: 10.1007/s00709-010-0245-2.
 
-<a id="ref-13-15"></a>
-**[15]** TAVARES, M. G.; et al. Transcript levels of ten caste-related genes in adult diploid males of *Melipona quadrifasciata* (Hymenoptera, Apidae): a comparison with haploid males, queens and workers. *Genetics and Molecular Biology*, 2011.
