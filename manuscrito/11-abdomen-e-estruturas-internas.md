@@ -6,7 +6,7 @@ O alimento precisa ser processado. Os nutrientes precisam ser distribuídos. Sub
 
 Por esse motivo, o abdômen da mandaçaia não deve ser imaginado como um simples recipiente onde ficam os órgãos. Ele é uma região segmentada, flexível e funcionalmente especializada, na qual diferentes sistemas estão intimamente relacionados.
 
-Estudos histológicos com *Melipona quadrifasciata* revelam detalhes que não podem ser observados externamente. O intestino apresenta regiões com diferenças estruturais e funcionais particulares; o corpo gorduroso participa ativamente do metabolismo e da reprodução; e os ovários apresentam mudanças profundas conforme sexo, casta, idade e estado fisiológico [1][2][3].
+Estudos histológicos com *Melipona quadrifasciata* revelam detalhes que não podem ser observados externamente. O intestino apresenta regiões com diferenças estruturais e funcionais particulares; o corpo gorduroso participa ativamente do metabolismo e da reprodução; e os ovários apresentam mudanças profundas conforme sexo, casta, idade e estado fisiológico [1](85-referencias-bibliograficas.md#ref-11-1)[2](85-referencias-bibliograficas.md#ref-11-2)[3](85-referencias-bibliograficas.md#ref-11-3).
 
 O estudo do abdômen permite, portanto, entrar em uma segunda escala da anatomia da mandaçaia: a escala dos órgãos e dos tecidos.
 
@@ -42,7 +42,7 @@ Assim, uma adaptação anatômica do sistema digestivo está diretamente ligada 
 
 Depois do papo, o alimento segue para regiões posteriores do intestino anterior e então chega ao intestino médio. Essa transição possui grande importância porque marca a passagem entre uma região principalmente associada ao armazenamento e outra especializada em processos digestivos e absortivos. A organização do trato digestivo das abelhas sem ferrão possui características próprias. Em *M. quadrifasciata*, uma região anterior do mesêntero apresenta uma diferenciação anatômica que não ocorre da mesma forma em outras abelhas.
 
-Carneiro e colaboradores demonstraram que essa região do intestino médio apresenta células altas e estreitas e que seu epitélio possui características bioquímicas associadas à alta atividade metabólica, à homeostase celular e à absorção de lipídios [1].
+Carneiro e colaboradores demonstraram que essa região do intestino médio apresenta células altas e estreitas e que seu epitélio possui características bioquímicas associadas à alta atividade metabólica, à homeostase celular e à absorção de lipídios [1](85-referencias-bibliograficas.md#ref-11-1).
 
 Essa descoberta é especialmente importante porque demonstra que até mesmo dentro de uma região aparentemente contínua do intestino existem áreas com especializações distintas.
 
@@ -50,9 +50,9 @@ Essa descoberta é especialmente importante porque demonstra que até mesmo dent
 
 O **mesêntero**, ou intestino médio, é uma das principais regiões digestivas. É nele que ocorre grande parte da digestão e da absorção de nutrientes. O epitélio intestinal é formado por células especializadas que entram em contato com o conteúdo alimentar e executam diferentes funções.
 
-Em *M. quadrifasciata*, o estudo histoquímico do mesêntero identificou atividades enzimáticas e estruturas celulares relacionadas ao metabolismo, ao transporte de água e à manutenção das células epiteliais [1].
+Em *M. quadrifasciata*, o estudo histoquímico do mesêntero identificou atividades enzimáticas e estruturas celulares relacionadas ao metabolismo, ao transporte de água e à manutenção das células epiteliais [1](85-referencias-bibliograficas.md#ref-11-1).
 
-Foram detectadas, entre outras características, atividades associadas à glicose-6-fosfatase, fosfatase ácida e fosfatase alcalina, além da presença de aquaporina em regiões basais do epitélio e nos músculos viscerais associados [1].
+Foram detectadas, entre outras características, atividades associadas à glicose-6-fosfatase, fosfatase ácida e fosfatase alcalina, além da presença de aquaporina em regiões basais do epitélio e nos músculos viscerais associados [1](85-referencias-bibliograficas.md#ref-11-1).
 
 A importância desses dados vai além da simples identificação de moléculas. Eles mostram que o intestino não é uma parede passiva. É um tecido metabolicamente ativo.
 
@@ -60,11 +60,11 @@ A importância desses dados vai além da simples identificação de moléculas. 
 
 A região anterior do intestino médio merece atenção especial porque possui características que distinguem as abelhas sem ferrão.
 
-Em *M. quadrifasciata*, Carneiro e colaboradores observaram células altas e estreitas nessa porção do mesêntero, enquanto regiões posteriores apresentaram numerosas dobras da parede [1].
+Em *M. quadrifasciata*, Carneiro e colaboradores observaram células altas e estreitas nessa porção do mesêntero, enquanto regiões posteriores apresentaram numerosas dobras da parede [1](85-referencias-bibliograficas.md#ref-11-1).
 
-As diferenças também apareceram no modo como diferentes marcadores celulares estavam distribuídos. As células da região anterior apresentaram grande quantidade de lisossomos, enquanto proteínas relacionadas ao transporte e ao equilíbrio hídrico estavam distribuídas de maneira específica pelo epitélio [1].
+As diferenças também apareceram no modo como diferentes marcadores celulares estavam distribuídos. As células da região anterior apresentaram grande quantidade de lisossomos, enquanto proteínas relacionadas ao transporte e ao equilíbrio hídrico estavam distribuídas de maneira específica pelo epitélio [1](85-referencias-bibliograficas.md#ref-11-1).
 
-Os autores interpretaram a região como uma área multifuncional com grande atividade metabólica, participação na homeostase e absorção de lipídios, sob influência de mecanismos neuro-hormonais [1].
+Os autores interpretaram a região como uma área multifuncional com grande atividade metabólica, participação na homeostase e absorção de lipídios, sob influência de mecanismos neuro-hormonais [1](85-referencias-bibliograficas.md#ref-11-1).
 
 A existência dessa região é um excelente exemplo de uma característica que não poderia ser percebida apenas pela anatomia externa.
 
@@ -80,7 +80,7 @@ O intestino médio está no centro desse processo. Por isso, uma alteração em 
 
 O epitélio do intestino é uma barreira viva. De um lado está o conteúdo alimentar. Do outro estão os tecidos internos e a hemolinfa. Essa posição exige controle. Nutrientes precisam atravessar. Materiais potencialmente nocivos precisam ser limitados. Produtos metabólicos precisam ser processados. As células epiteliais também precisam ser constantemente renovadas e mantidas. Essa é uma das razões pelas quais estudos toxicológicos sobre *M. quadrifasciata* podem analisar diretamente a morfologia intestinal.
 
-Em indivíduos expostos cronicamente a herbicidas à base de glyphosate, por exemplo, foram observadas alterações celulares no epitélio do intestino médio da espécie [4].
+Em indivíduos expostos cronicamente a herbicidas à base de glyphosate, por exemplo, foram observadas alterações celulares no epitélio do intestino médio da espécie [4](85-referencias-bibliograficas.md#ref-11-4).
 
 O significado desses experimentos será retomado mais adiante, na parte de conservação e ameaças ambientais. Aqui, o aspecto anatômico é suficiente: **o intestino é um tecido ativo e sensível às condições químicas às quais o organismo está exposto**.
 
@@ -104,21 +104,21 @@ O corpo gorduroso armazena moléculas importantes para o metabolismo. Essa integ
 
 ## O corpo gorduroso
 
-Uma das estruturas internas mais importantes e menos conhecidas pelo público é o **corpo gorduroso**. Apesar do nome, ele não corresponde simplesmente a um depósito de gordura. É um tecido metabolicamente ativo, composto principalmente por **trofócitos** e **oenócitos** [3][5]. Os trofócitos participam do armazenamento e processamento de nutrientes, incluindo lipídios, carboidratos e proteínas. Os oenócitos estão relacionados especialmente ao metabolismo de lipídios e lipoproteínas.
+Uma das estruturas internas mais importantes e menos conhecidas pelo público é o **corpo gorduroso**. Apesar do nome, ele não corresponde simplesmente a um depósito de gordura. É um tecido metabolicamente ativo, composto principalmente por **trofócitos** e **oenócitos** [3](85-referencias-bibliograficas.md#ref-11-3)[5](85-referencias-bibliograficas.md#ref-11-5). Os trofócitos participam do armazenamento e processamento de nutrientes, incluindo lipídios, carboidratos e proteínas. Os oenócitos estão relacionados especialmente ao metabolismo de lipídios e lipoproteínas.
 
-O corpo gorduroso também possui forte ligação com a reprodução feminina. Em insetos, a síntese de vitelogenina — proteína precursora das reservas do ovo — ocorre principalmente nesse tecido. Estudos específicos com *M. quadrifasciata anthidioides* mostraram a relação entre corpo gorduroso, ovários e estados fisiológicos diferentes [3].
+O corpo gorduroso também possui forte ligação com a reprodução feminina. Em insetos, a síntese de vitelogenina — proteína precursora das reservas do ovo — ocorre principalmente nesse tecido. Estudos específicos com *M. quadrifasciata anthidioides* mostraram a relação entre corpo gorduroso, ovários e estados fisiológicos diferentes [3](85-referencias-bibliograficas.md#ref-11-3).
 
 ## Corpo gorduroso não é simplesmente “gordura”
 
 A expressão popular pode induzir a uma interpretação equivocada. O corpo gorduroso funciona mais como um **órgão metabólico multifuncional** do que como uma bolsa de gordura. Ele participa de armazenamento, mobilização de energia, metabolismo intermediário, produção de proteínas e interações endócrinas. Em uma operária, a atividade desse tecido varia conforme a fase da vida. Em uma rainha fisogástrica, o metabolismo precisa atender a uma demanda reprodutiva extremamente elevada.
 
-Em uma operária nutridora, as necessidades são outras. Os estudos de Paes-de-Oliveira e colaboradores demonstraram diferenças no conteúdo e na organização de lipídios, proteínas e carboidratos do corpo gorduroso entre operárias nutridoras, rainhas virgens e rainhas fisogástricas [3][5]. Portanto, o corpo gorduroso acompanha a fisiologia social do indivíduo.
+Em uma operária nutridora, as necessidades são outras. Os estudos de Paes-de-Oliveira e colaboradores demonstraram diferenças no conteúdo e na organização de lipídios, proteínas e carboidratos do corpo gorduroso entre operárias nutridoras, rainhas virgens e rainhas fisogástricas [3](85-referencias-bibliograficas.md#ref-11-3)[5](85-referencias-bibliograficas.md#ref-11-5). Portanto, o corpo gorduroso acompanha a fisiologia social do indivíduo.
 
 ## Vitelogenina
 
-A **vitelogenina** é uma proteína conhecida principalmente por sua relação com a formação da reserva nutritiva dos ovos. Em muitas espécies de insetos, é sintetizada no corpo gorduroso e transportada pela hemolinfa até os ovócitos. Em *M. quadrifasciata*, a dinâmica é especialmente interessante porque as castas femininas não apresentam exatamente o mesmo padrão fisiológico. Paes de Oliveira e colaboradores estudaram a presença de vitelogenina em corpo gorduroso e ovários de operárias nutridoras, rainhas virgens e rainhas fisogástricas [6].
+A **vitelogenina** é uma proteína conhecida principalmente por sua relação com a formação da reserva nutritiva dos ovos. Em muitas espécies de insetos, é sintetizada no corpo gorduroso e transportada pela hemolinfa até os ovócitos. Em *M. quadrifasciata*, a dinâmica é especialmente interessante porque as castas femininas não apresentam exatamente o mesmo padrão fisiológico. Paes de Oliveira e colaboradores estudaram a presença de vitelogenina em corpo gorduroso e ovários de operárias nutridoras, rainhas virgens e rainhas fisogástricas [6](85-referencias-bibliograficas.md#ref-11-6).
 
-Nesse estudo, a proteína não foi detectada nos extratos do corpo gorduroso ou dos ovários das operárias nutridoras analisadas pelo método empregado, enquanto foi detectada nos ovários das rainhas virgens e fisogástricas e no corpo gorduroso das rainhas fisogástricas [6].
+Nesse estudo, a proteína não foi detectada nos extratos do corpo gorduroso ou dos ovários das operárias nutridoras analisadas pelo método empregado, enquanto foi detectada nos ovários das rainhas virgens e fisogástricas e no corpo gorduroso das rainhas fisogástricas [6](85-referencias-bibliograficas.md#ref-11-6).
 
 O resultado não deve ser interpretado como prova de que a vitelogenina nunca existe em operárias ou que o corpo gorduroso das operárias seja metabolicamente inativo.
 
@@ -126,15 +126,15 @@ Ele mostra o padrão encontrado **nas condições experimentais, nos indivíduos
 
 ## O corpo gorduroso e a reprodução
 
-O transporte de nutrientes até os ovócitos envolve mais do que a simples produção de vitelogenina. Estudos com traçadores e microscopia eletrônica demonstraram rotas de transporte entre trofócitos, hemolinfa e ovários em *M. quadrifasciata anthidioides* [2].
+O transporte de nutrientes até os ovócitos envolve mais do que a simples produção de vitelogenina. Estudos com traçadores e microscopia eletrônica demonstraram rotas de transporte entre trofócitos, hemolinfa e ovários em *M. quadrifasciata anthidioides* [2](85-referencias-bibliograficas.md#ref-11-2).
 
-Nos ovários ativos de operárias nutridoras e rainhas fisogástricas, as rotas de passagem de materiais entre o epitélio folicular e o ovócito estavam abertas, enquanto nos ovários inativos de rainhas virgens essas vias apresentavam configuração diferente [2].
+Nos ovários ativos de operárias nutridoras e rainhas fisogástricas, as rotas de passagem de materiais entre o epitélio folicular e o ovócito estavam abertas, enquanto nos ovários inativos de rainhas virgens essas vias apresentavam configuração diferente [2](85-referencias-bibliograficas.md#ref-11-2).
 
 Esse achado é particularmente importante porque mostra que a atividade reprodutiva não depende apenas de possuir ovários. Depende da existência de **fluxos materiais controlados entre tecidos**. O corpo inteiro participa da produção de um ovo.
 
 ## Os ovários
 
-As fêmeas da mandaçaia possuem um par de ovários. Cada ovário é formado por unidades chamadas **ovariolos**. Em *M. quadrifasciata*, operárias e rainhas apresentam quatro ovariolos por ovário, mas a principal diferença entre as castas está no grau de desenvolvimento e no comprimento dessas unidades, e não simplesmente em sua quantidade [7][8]. Essa característica diferencia a mandaçaia de abelhas como *Apis mellifera*, nas quais a diferença numérica de ovariolos entre rainhas e operárias é muito maior.
+As fêmeas da mandaçaia possuem um par de ovários. Cada ovário é formado por unidades chamadas **ovariolos**. Em *M. quadrifasciata*, operárias e rainhas apresentam quatro ovariolos por ovário, mas a principal diferença entre as castas está no grau de desenvolvimento e no comprimento dessas unidades, e não simplesmente em sua quantidade [7](85-referencias-bibliograficas.md#ref-11-7)[8](85-referencias-bibliograficas.md#ref-11-8). Essa característica diferencia a mandaçaia de abelhas como *Apis mellifera*, nas quais a diferença numérica de ovariolos entre rainhas e operárias é muito maior.
 
 Em *Melipona*, a diferenciação de castas é, portanto, acompanhada por uma arquitetura ovariana particular. Nas rainhas, os ovariolos podem tornar-se extremamente longos e ativos durante a postura. Nas operárias, os ovariolos também podem apresentar atividade reprodutiva em determinados contextos.
 
@@ -144,13 +144,13 @@ Cada ovariolo pode ser dividido em regiões funcionalmente distintas. Na porçã
 
 O ovócito cresce. Células nutridoras e células foliculares participam de seu desenvolvimento. Materiais são transferidos da hemolinfa. O ovo amadurece. Ao final, o ovócito segue pelo sistema de ovidutos.
 
-O desenvolvimento ovariano de *M. quadrifasciata* foi estudado em diferentes condições sociais, revelando semelhanças entre rainhas e operárias nas etapas gerais da ovogênese, mas diferenças importantes no grau de atividade e no desenvolvimento das estruturas [7].
+O desenvolvimento ovariano de *M. quadrifasciata* foi estudado em diferentes condições sociais, revelando semelhanças entre rainhas e operárias nas etapas gerais da ovogênese, mas diferenças importantes no grau de atividade e no desenvolvimento das estruturas [7](85-referencias-bibliograficas.md#ref-11-7).
 
 ## Ovário ativo e ovário inativo
 
 Um ovário não pode ser classificado simplesmente como “presente” ou “ausente”. Ele pode estar em diferentes estados fisiológicos. Uma rainha jovem e não fecundada apresenta uma condição diferente daquela de uma rainha fisogástrica em intensa postura. Uma operária jovem apresenta outra condição. Uma operária nutridora pode apresentar desenvolvimento ovariano e produzir ovos sob determinadas circunstâncias.
 
-Estudos de microscopia e histologia demonstraram que as diferenças entre as classes femininas incluem comprimento dos ovariolos, estado dos folículos, atividade de crescimento e comunicação entre o ovário e os tecidos circundantes [2][7][8].
+Estudos de microscopia e histologia demonstraram que as diferenças entre as classes femininas incluem comprimento dos ovariolos, estado dos folículos, atividade de crescimento e comunicação entre o ovário e os tecidos circundantes [2](85-referencias-bibliograficas.md#ref-11-2)[7](85-referencias-bibliograficas.md#ref-11-7)[8](85-referencias-bibliograficas.md#ref-11-8).
 
 Essa perspectiva será importante quando estudarmos a rainha e as operárias separadamente.
 
@@ -158,13 +158,13 @@ Essa perspectiva será importante quando estudarmos a rainha e as operárias sep
 
 Os ovos produzidos pelos ovários precisam sair das estruturas ovarianas. Para isso, existe um sistema de **ovidutos laterais** que conduz os ovos até um oviduto comum e, posteriormente, à região genital. Durante o desenvolvimento da pupa, a arquitetura dos ovidutos sofre modificações específicas.
 
-Estudos com *M. quadrifasciata* e *Frieseomelitta varia* mostraram que os ovidutos laterais das operárias sofrem intensa redução durante a transformação larva-adulto, enquanto as rainhas mantêm uma configuração mais desenvolvida do sistema reprodutivo [9].
+Estudos com *M. quadrifasciata* e *Frieseomelitta varia* mostraram que os ovidutos laterais das operárias sofrem intensa redução durante a transformação larva-adulto, enquanto as rainhas mantêm uma configuração mais desenvolvida do sistema reprodutivo [9](85-referencias-bibliograficas.md#ref-11-9).
 
-Essa transformação é acompanhada por morte celular programada e outras alterações do epitélio [9]. A metamorfose, portanto, não apenas constrói órgãos novos. Ela também **elimina e remodela estruturas que deixaram de ser necessárias na forma adulta específica**.
+Essa transformação é acompanhada por morte celular programada e outras alterações do epitélio [9](85-referencias-bibliograficas.md#ref-11-9). A metamorfose, portanto, não apenas constrói órgãos novos. Ela também **elimina e remodela estruturas que deixaram de ser necessárias na forma adulta específica**.
 
 ## A espermateca
 
-A reprodução feminina exige ainda uma estrutura especial: a **espermateca**. É nela que os espermatozoides recebidos durante a cópula podem ser armazenados. Em rainhas de *M. quadrifasciata*, estudos de desenvolvimento mostram que a espermateca cresce e amadurece em associação com o processo de maturação reprodutiva [10]. A estrutura possui importância enorme porque permite que a rainha mantenha espermatozoides disponíveis para utilização posterior durante a postura.
+A reprodução feminina exige ainda uma estrutura especial: a **espermateca**. É nela que os espermatozoides recebidos durante a cópula podem ser armazenados. Em rainhas de *M. quadrifasciata*, estudos de desenvolvimento mostram que a espermateca cresce e amadurece em associação com o processo de maturação reprodutiva [10](85-referencias-bibliograficas.md#ref-11-10). A estrutura possui importância enorme porque permite que a rainha mantenha espermatozoides disponíveis para utilização posterior durante a postura.
 
 Isso cria uma separação temporal entre dois acontecimentos diferentes: **acasalamento** e **fecundação dos ovos**. A abelha não precisa realizar uma cópula para cada ovo que produz.
 
@@ -182,7 +182,7 @@ Mas essa transformação não deve ser atribuída simplesmente a “engorda”. 
 
 Os machos possuem outro conjunto de estruturas. Seu sistema reprodutor inclui **dois testículos**, túbulos seminíferos, canais deferentes, vesículas seminais e o ducto ejaculatório.
 
-Em um estudo comparativo envolvendo 51 espécies de abelhas, *M. quadrifasciata* apresentou o padrão classificado como **tipo IV**, caracterizado entre os Meliponini pela ausência de glândulas acessórias [11].
+Em um estudo comparativo envolvendo 51 espécies de abelhas, *M. quadrifasciata* apresentou o padrão classificado como **tipo IV**, caracterizado entre os Meliponini pela ausência de glândulas acessórias [11](85-referencias-bibliograficas.md#ref-11-11).
 
 Essa característica é particularmente relevante porque mostra que o aparelho reprodutor dos machos de abelhas sem ferrão não deve simplesmente ser tratado como uma cópia do sistema encontrado em *Apis mellifera*.
 
@@ -192,9 +192,9 @@ A evolução produziu configurações diferentes entre as linhagens.
 
 Os testículos são responsáveis pela produção dos espermatozoides. Dentro deles ficam os **túbulos seminíferos**, onde ocorre a espermatogênese. As células germinativas passam por diferentes fases até produzir os espermatozoides maduros.
 
-O estudo comparativo de Ferreira e colaboradores mostrou que a organização interna dos testículos e seus ductos varia entre diferentes famílias de abelhas e que os Meliponini possuem um padrão próprio [11].
+O estudo comparativo de Ferreira e colaboradores mostrou que a organização interna dos testículos e seus ductos varia entre diferentes famílias de abelhas e que os Meliponini possuem um padrão próprio [11](85-referencias-bibliograficas.md#ref-11-11).
 
-Em *M. quadrifasciata*, estruturas dos órgãos reprodutivos masculinos foram examinadas também durante o desenvolvimento pupal [11]. Isso demonstra que o sistema reprodutivo masculino, assim como o feminino, passa por intensa reorganização antes da emergência do adulto.
+Em *M. quadrifasciata*, estruturas dos órgãos reprodutivos masculinos foram examinadas também durante o desenvolvimento pupal [11](85-referencias-bibliograficas.md#ref-11-11). Isso demonstra que o sistema reprodutivo masculino, assim como o feminino, passa por intensa reorganização antes da emergência do adulto.
 
 ## Vesículas seminais
 
@@ -204,7 +204,7 @@ O macho adulto precisa estar em condição adequada para participar da reproduç
 
 ## Um macho sem glândulas acessórias
 
-A ausência de glândulas acessórias no aparelho reprodutor dos Meliponini é uma característica particularmente interessante [11]. Em outros grupos de abelhas, essas glândulas podem apresentar desenvolvimento considerável e contribuir para a formação dos componentes do fluido seminal. Nos Meliponini, essa estrutura não está presente da mesma maneira. Isso demonstra novamente que não existe um modelo único de aparelho reprodutor entre todas as abelhas.
+A ausência de glândulas acessórias no aparelho reprodutor dos Meliponini é uma característica particularmente interessante [11](85-referencias-bibliograficas.md#ref-11-11). Em outros grupos de abelhas, essas glândulas podem apresentar desenvolvimento considerável e contribuir para a formação dos componentes do fluido seminal. Nos Meliponini, essa estrutura não está presente da mesma maneira. Isso demonstra novamente que não existe um modelo único de aparelho reprodutor entre todas as abelhas.
 
 A mesma função geral — produzir e transferir espermatozoides — pode ser alcançada por arquiteturas anatômicas diferentes.
 
@@ -224,7 +224,7 @@ No abdômen, músculos, tecido digestivo e órgãos reprodutivos recebem suprime
 
 A **hemolinfa** ocupa a hemocele e circula impulsionada principalmente por estruturas dorsais do sistema circulatório. Ela não equivale exatamente ao sangue humano. Além de participar do transporte de nutrientes, moléculas sinalizadoras e produtos metabólicos, a hemolinfa também mantém o ambiente físico-químico que envolve os órgãos. É através dela que materiais produzidos pelo corpo gorduroso podem alcançar os ovários.
 
-Também é através dela que substâncias absorvidas pelo intestino entram na circulação interna. Os estudos de transporte entre corpo gorduroso e ovário em *M. quadrifasciata anthidioides* demonstram diretamente a importância dessa circulação interna [2].
+Também é através dela que substâncias absorvidas pelo intestino entram na circulação interna. Os estudos de transporte entre corpo gorduroso e ovário em *M. quadrifasciata anthidioides* demonstram diretamente a importância dessa circulação interna [2](85-referencias-bibliograficas.md#ref-11-2).
 
 ## O coração dorsal
 
@@ -236,7 +236,7 @@ Na região dorsal do abdômen encontra-se o sistema pulsátil que impulsiona a h
 
 Poucos exemplos demonstram tão claramente a integração interna da mandaçaia quanto o metabolismo reprodutivo. O corpo gorduroso produz e armazena moléculas. A hemolinfa transporta essas substâncias. O ovário recebe os materiais. Os folículos incorporam os componentes necessários ao crescimento dos ovócitos. Tudo isso precisa ser coordenado por sinais hormonais e pelo estado fisiológico do indivíduo.
 
-Nos ovários ativos de operárias nutridoras e rainhas fisogástricas, os estudos de microscopia encontraram rotas de intercâmbio entre hemolinfa, epitélio folicular e oócitos que não estavam abertas da mesma forma nas rainhas virgens [2].
+Nos ovários ativos de operárias nutridoras e rainhas fisogástricas, os estudos de microscopia encontraram rotas de intercâmbio entre hemolinfa, epitélio folicular e oócitos que não estavam abertas da mesma forma nas rainhas virgens [2](85-referencias-bibliograficas.md#ref-11-2).
 
 É uma verdadeira cadeia fisiológica. O ovo começa a ser preparado muito antes de estar dentro de uma célula de cria.
 
@@ -244,7 +244,7 @@ Nos ovários ativos de operárias nutridoras e rainhas fisogástricas, os estudo
 
 As estruturas internas não permanecem estáticas. Uma operária recém-emergida possui determinado estado fisiológico. Ao tornar-se nutridora, seu metabolismo e seus tecidos reprodutivos apresentam mudanças. Mais tarde, como forrageadora, a relação entre armazenamento, atividade muscular e reprodução pode ser diferente. As rainhas também passam por transições marcantes: virgem, fecundada, fisogástrica e outros estados fisiológicos representam condições internas distintas.
 
-Estudos sobre o corpo gorduroso, os ovários, os ovidutos e as glândulas mandibulares mostram repetidamente essa relação entre idade, casta e função [3][6][9][10].
+Estudos sobre o corpo gorduroso, os ovários, os ovidutos e as glândulas mandibulares mostram repetidamente essa relação entre idade, casta e função [3](85-referencias-bibliograficas.md#ref-11-3)[6](85-referencias-bibliograficas.md#ref-11-6)[9](85-referencias-bibliograficas.md#ref-11-9)[10](85-referencias-bibliograficas.md#ref-11-10).
 
 A anatomia da abelha adulta é, portanto, **dinâmica**.
 
@@ -266,7 +266,7 @@ Quando um pesquisador disseca uma mandaçaia sob microscópio, aquilo que aparec
 
 O tamanho relativo pode depender do estado fisiológico. Por isso, a anatomia experimental precisa utilizar protocolos, fixadores, microscopia e métodos apropriados.
 
-Os estudos citados neste capítulo utilizaram diferentes técnicas, incluindo histologia, histoquímica, microscopia óptica, microscopia eletrônica e métodos de marcação de moléculas [1][2][3].
+Os estudos citados neste capítulo utilizaram diferentes técnicas, incluindo histologia, histoquímica, microscopia óptica, microscopia eletrônica e métodos de marcação de moléculas [1](85-referencias-bibliograficas.md#ref-11-1)[2](85-referencias-bibliograficas.md#ref-11-2)[3](85-referencias-bibliograficas.md#ref-11-3).
 
 A escolha do método determina aquilo que pode ser observado.
 
@@ -280,7 +280,7 @@ O sistema respiratório pode ser observado apenas parcialmente sem técnicas ade
 
 Talvez o fato mais impressionante seja que essa arquitetura muda. Durante a metamorfose, estruturas surgem, desaparecem, encurtam ou se diferenciam. Durante a vida adulta, outras estruturas mudam de atividade. Na rainha, os ovários podem crescer de maneira extraordinária. Na operária, o estado fisiológico muda com a idade. No macho, os tecidos reprodutivos passam da formação pupal à condição adulta.
 
-Nos estudos de desenvolvimento dos ovidutos, por exemplo, a redução das estruturas laterais das operárias envolve processos celulares de morte programada e reorganização do tecido [9].
+Nos estudos de desenvolvimento dos ovidutos, por exemplo, a redução das estruturas laterais das operárias envolve processos celulares de morte programada e reorganização do tecido [9](85-referencias-bibliograficas.md#ref-11-9).
 
 O corpo adulto não é simplesmente uma versão ampliada do corpo larval. É uma **nova arquitetura**, construída durante a metamorfose.
 
