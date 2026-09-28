@@ -12,9 +12,7 @@ O estudo do abdômen permite, portanto, entrar em uma segunda escala da anatomia
 
 ## A organização interna do abdômen
 
-Externamente, o abdômen é formado por segmentos articulados. Internamente, esses segmentos envolvem uma cavidade corporal onde os órgãos ficam suspensos e organizados.
-
-A região contém o chamado **hemocele**, o espaço corporal no qual a hemolinfa circula e banha os órgãos. Os órgãos não ficam simplesmente soltos.
+Externamente, o abdômen é formado por segmentos articulados. Internamente, esses segmentos envolvem uma cavidade corporal onde os órgãos ficam suspensos e organizados. A região contém o chamado **hemocele**, o espaço corporal no qual a hemolinfa circula e banha os órgãos. Os órgãos não ficam simplesmente soltos.
 
 Tecidos conjuntivos, membranas e sistemas de sustentação ajudam a manter sua posição. O trato digestivo percorre longitudinalmente o corpo. Os túbulos de Malpighi estão associados ao sistema digestivo posterior. O corpo gorduroso ocupa diferentes regiões da cavidade corporal. Os órgãos reprodutivos podem ocupar grande parte da região abdominal, sobretudo durante estados de intensa atividade reprodutiva.
 
@@ -30,13 +28,9 @@ Na abelha, o intestino anterior também está envolvido com o armazenamento e o 
 
 O **papo**, também chamado de vesícula melífera, é uma dilatação do intestino anterior. É nessa estrutura que líquidos como néctar e água podem ser transportados temporariamente. É importante não confundir o papo com o estômago digestivo no sentido popular.
 
-O papo funciona principalmente como reservatório e transporte. O processamento digestivo propriamente dito ocorre principalmente em regiões posteriores do trato digestivo.
+O papo funciona principalmente como reservatório e transporte. O processamento digestivo propriamente dito ocorre principalmente em regiões posteriores do trato digestivo. Isso permite que a operária realize uma tarefa fundamental para a vida social: transportar um recurso sem necessariamente utilizá-lo imediatamente para seu próprio metabolismo.
 
-Isso permite que a operária realize uma tarefa fundamental para a vida social: transportar um recurso sem necessariamente utilizá-lo imediatamente para seu próprio metabolismo.
-
-Quando retorna ao ninho, o conteúdo do papo pode ser transferido para outros indivíduos ou destinado a estruturas de armazenamento da colônia, dependendo do tipo de recurso.
-
-Assim, uma adaptação anatômica do sistema digestivo está diretamente ligada à organização social.
+Quando retorna ao ninho, o conteúdo do papo pode ser transferido para outros indivíduos ou destinado a estruturas de armazenamento da colônia, dependendo do tipo de recurso. Assim, uma adaptação anatômica do sistema digestivo está diretamente ligada à organização social.
 
 ## A passagem entre o intestino anterior e o médio
 
@@ -52,27 +46,19 @@ O **mesêntero**, ou intestino médio, é uma das principais regiões digestivas
 
 Em *M. quadrifasciata*, o estudo histoquímico do mesêntero identificou atividades enzimáticas e estruturas celulares relacionadas ao metabolismo, ao transporte de água e à manutenção das células epiteliais [1](85-referencias-bibliograficas.md#ref-11-1).
 
-Foram detectadas, entre outras características, atividades associadas à glicose-6-fosfatase, fosfatase ácida e fosfatase alcalina, além da presença de aquaporina em regiões basais do epitélio e nos músculos viscerais associados [1](85-referencias-bibliograficas.md#ref-11-1).
-
-A importância desses dados vai além da simples identificação de moléculas. Eles mostram que o intestino não é uma parede passiva. É um tecido metabolicamente ativo.
+Foram detectadas, entre outras características, atividades associadas à glicose-6-fosfatase, fosfatase ácida e fosfatase alcalina, além da presença de aquaporina em regiões basais do epitélio e nos músculos viscerais associados [1](85-referencias-bibliograficas.md#ref-11-1). A importância desses dados vai além da simples identificação de moléculas. Eles mostram que o intestino não é uma parede passiva. É um tecido metabolicamente ativo.
 
 ## Uma região anterior especializada
 
-A região anterior do intestino médio merece atenção especial porque possui características que distinguem as abelhas sem ferrão.
-
-Em *M. quadrifasciata*, Carneiro e colaboradores observaram células altas e estreitas nessa porção do mesêntero, enquanto regiões posteriores apresentaram numerosas dobras da parede [1](85-referencias-bibliograficas.md#ref-11-1).
+A região anterior do intestino médio merece atenção especial porque possui características que distinguem as abelhas sem ferrão. Em *M. quadrifasciata*, Carneiro e colaboradores observaram células altas e estreitas nessa porção do mesêntero, enquanto regiões posteriores apresentaram numerosas dobras da parede [1](85-referencias-bibliograficas.md#ref-11-1).
 
 As diferenças também apareceram no modo como diferentes marcadores celulares estavam distribuídos. As células da região anterior apresentaram grande quantidade de lisossomos, enquanto proteínas relacionadas ao transporte e ao equilíbrio hídrico estavam distribuídas de maneira específica pelo epitélio [1](85-referencias-bibliograficas.md#ref-11-1).
 
-Os autores interpretaram a região como uma área multifuncional com grande atividade metabólica, participação na homeostase e absorção de lipídios, sob influência de mecanismos neuro-hormonais [1](85-referencias-bibliograficas.md#ref-11-1).
-
-A existência dessa região é um excelente exemplo de uma característica que não poderia ser percebida apenas pela anatomia externa.
+Os autores interpretaram a região como uma área multifuncional com grande atividade metabólica, participação na homeostase e absorção de lipídios, sob influência de mecanismos neuro-hormonais [1](85-referencias-bibliograficas.md#ref-11-1). A existência dessa região é um excelente exemplo de uma característica que não poderia ser percebida apenas pela anatomia externa.
 
 ## Digestão não é apenas quebra de alimento
 
-Quando pensamos em digestão, normalmente imaginamos apenas a decomposição do alimento. Em um inseto, o processo inclui muito mais.
-
-É necessário controlar a movimentação do conteúdo ao longo do intestino. Enzimas e outras moléculas precisam entrar em contato com o alimento. Nutrientes precisam atravessar o epitélio. A quantidade de água precisa ser controlada. As células precisam manter seu próprio equilíbrio interno.
+Quando pensamos em digestão, normalmente imaginamos apenas a decomposição do alimento. Em um inseto, o processo inclui muito mais. É necessário controlar a movimentação do conteúdo ao longo do intestino. Enzimas e outras moléculas precisam entrar em contato com o alimento. Nutrientes precisam atravessar o epitélio. A quantidade de água precisa ser controlada. As células precisam manter seu próprio equilíbrio interno.
 
 O intestino médio está no centro desse processo. Por isso, uma alteração em seu epitélio pode ter consequências muito além de uma simples diminuição da capacidade de “digerir”. Pode afetar absorção, metabolismo, equilíbrio hídrico e integridade celular.
 
@@ -80,9 +66,7 @@ O intestino médio está no centro desse processo. Por isso, uma alteração em 
 
 O epitélio do intestino é uma barreira viva. De um lado está o conteúdo alimentar. Do outro estão os tecidos internos e a hemolinfa. Essa posição exige controle. Nutrientes precisam atravessar. Materiais potencialmente nocivos precisam ser limitados. Produtos metabólicos precisam ser processados. As células epiteliais também precisam ser constantemente renovadas e mantidas. Essa é uma das razões pelas quais estudos toxicológicos sobre *M. quadrifasciata* podem analisar diretamente a morfologia intestinal.
 
-Em indivíduos expostos cronicamente a herbicidas à base de glyphosate, por exemplo, foram observadas alterações celulares no epitélio do intestino médio da espécie [4](85-referencias-bibliograficas.md#ref-11-4).
-
-O significado desses experimentos será retomado mais adiante, na parte de conservação e ameaças ambientais. Aqui, o aspecto anatômico é suficiente: **o intestino é um tecido ativo e sensível às condições químicas às quais o organismo está exposto**.
+Em indivíduos expostos cronicamente a herbicidas à base de glyphosate, por exemplo, foram observadas alterações celulares no epitélio do intestino médio da espécie [4](85-referencias-bibliograficas.md#ref-11-4). O significado desses experimentos será retomado mais adiante, na parte de conservação e ameaças ambientais. Aqui, o aspecto anatômico é suficiente: **o intestino é um tecido ativo e sensível às condições químicas às quais o organismo está exposto**.
 
 ## O intestino posterior
 
@@ -118,9 +102,7 @@ Em uma operária nutridora, as necessidades são outras. Os estudos de Paes-de-O
 
 A **vitelogenina** é uma proteína conhecida principalmente por sua relação com a formação da reserva nutritiva dos ovos. Em muitas espécies de insetos, é sintetizada no corpo gorduroso e transportada pela hemolinfa até os ovócitos. Em *M. quadrifasciata*, a dinâmica é especialmente interessante porque as castas femininas não apresentam exatamente o mesmo padrão fisiológico. Paes de Oliveira e colaboradores estudaram a presença de vitelogenina em corpo gorduroso e ovários de operárias nutridoras, rainhas virgens e rainhas fisogástricas [6](85-referencias-bibliograficas.md#ref-11-6).
 
-Nesse estudo, a proteína não foi detectada nos extratos do corpo gorduroso ou dos ovários das operárias nutridoras analisadas pelo método empregado, enquanto foi detectada nos ovários das rainhas virgens e fisogástricas e no corpo gorduroso das rainhas fisogástricas [6](85-referencias-bibliograficas.md#ref-11-6).
-
-O resultado não deve ser interpretado como prova de que a vitelogenina nunca existe em operárias ou que o corpo gorduroso das operárias seja metabolicamente inativo.
+Nesse estudo, a proteína não foi detectada nos extratos do corpo gorduroso ou dos ovários das operárias nutridoras analisadas pelo método empregado, enquanto foi detectada nos ovários das rainhas virgens e fisogástricas e no corpo gorduroso das rainhas fisogástricas [6](85-referencias-bibliograficas.md#ref-11-6). O resultado não deve ser interpretado como prova de que a vitelogenina nunca existe em operárias ou que o corpo gorduroso das operárias seja metabolicamente inativo.
 
 Ele mostra o padrão encontrado **nas condições experimentais, nos indivíduos e nos métodos empregados naquele estudo**. Essa diferença é importante porque a biologia reprodutiva das operárias de *Melipona* é bastante particular.
 
@@ -142,9 +124,7 @@ Em *Melipona*, a diferenciação de castas é, portanto, acompanhada por uma arq
 
 Cada ovariolo pode ser dividido em regiões funcionalmente distintas. Na porção mais anterior encontra-se o **filamento terminal**, seguido pelo **germário**, onde estão células associadas à linhagem germinativa e à formação dos folículos, e pelo **vitelário**, onde ocorre grande parte do crescimento do ovócito e do acúmulo de reservas. O processo é ordenado. Células germinativas dão origem às estruturas que irão formar o futuro ovo.
 
-O ovócito cresce. Células nutridoras e células foliculares participam de seu desenvolvimento. Materiais são transferidos da hemolinfa. O ovo amadurece. Ao final, o ovócito segue pelo sistema de ovidutos.
-
-O desenvolvimento ovariano de *M. quadrifasciata* foi estudado em diferentes condições sociais, revelando semelhanças entre rainhas e operárias nas etapas gerais da ovogênese, mas diferenças importantes no grau de atividade e no desenvolvimento das estruturas [7](85-referencias-bibliograficas.md#ref-11-7).
+O ovócito cresce. Células nutridoras e células foliculares participam de seu desenvolvimento. Materiais são transferidos da hemolinfa. O ovo amadurece. Ao final, o ovócito segue pelo sistema de ovidutos. O desenvolvimento ovariano de *M. quadrifasciata* foi estudado em diferentes condições sociais, revelando semelhanças entre rainhas e operárias nas etapas gerais da ovogênese, mas diferenças importantes no grau de atividade e no desenvolvimento das estruturas [7](85-referencias-bibliograficas.md#ref-11-7).
 
 ## Ovário ativo e ovário inativo
 
@@ -166,9 +146,7 @@ Essa transformação é acompanhada por morte celular programada e outras altera
 
 A reprodução feminina exige ainda uma estrutura especial: a **espermateca**. É nela que os espermatozoides recebidos durante a cópula podem ser armazenados. Em rainhas de *M. quadrifasciata*, estudos de desenvolvimento mostram que a espermateca cresce e amadurece em associação com o processo de maturação reprodutiva [10](85-referencias-bibliograficas.md#ref-11-10). A estrutura possui importância enorme porque permite que a rainha mantenha espermatozoides disponíveis para utilização posterior durante a postura.
 
-Isso cria uma separação temporal entre dois acontecimentos diferentes: **acasalamento** e **fecundação dos ovos**. A abelha não precisa realizar uma cópula para cada ovo que produz.
-
-O sistema reprodutivo da rainha permite conservar os espermatozoides e utilizar pequenas quantidades deles durante a passagem dos ovos, conforme a fisiologia reprodutiva determina.
+Isso cria uma separação temporal entre dois acontecimentos diferentes: **acasalamento** e **fecundação dos ovos**. A abelha não precisa realizar uma cópula para cada ovo que produz. O sistema reprodutivo da rainha permite conservar os espermatozoides e utilizar pequenas quantidades deles durante a passagem dos ovos, conforme a fisiologia reprodutiva determina.
 
 O funcionamento detalhado desse processo será estudado na parte dedicada à reprodução.
 
@@ -180,13 +158,9 @@ Mas essa transformação não deve ser atribuída simplesmente a “engorda”. 
 
 ## O aparelho reprodutor masculino
 
-Os machos possuem outro conjunto de estruturas. Seu sistema reprodutor inclui **dois testículos**, túbulos seminíferos, canais deferentes, vesículas seminais e o ducto ejaculatório.
+Os machos possuem outro conjunto de estruturas. Seu sistema reprodutor inclui **dois testículos**, túbulos seminíferos, canais deferentes, vesículas seminais e o ducto ejaculatório. Em um estudo comparativo envolvendo 51 espécies de abelhas, *M. quadrifasciata* apresentou o padrão classificado como **tipo IV**, caracterizado entre os Meliponini pela ausência de glândulas acessórias [11](85-referencias-bibliograficas.md#ref-11-11).
 
-Em um estudo comparativo envolvendo 51 espécies de abelhas, *M. quadrifasciata* apresentou o padrão classificado como **tipo IV**, caracterizado entre os Meliponini pela ausência de glândulas acessórias [11](85-referencias-bibliograficas.md#ref-11-11).
-
-Essa característica é particularmente relevante porque mostra que o aparelho reprodutor dos machos de abelhas sem ferrão não deve simplesmente ser tratado como uma cópia do sistema encontrado em *Apis mellifera*.
-
-A evolução produziu configurações diferentes entre as linhagens.
+Essa característica é particularmente relevante porque mostra que o aparelho reprodutor dos machos de abelhas sem ferrão não deve simplesmente ser tratado como uma cópia do sistema encontrado em *Apis mellifera*. A evolução produziu configurações diferentes entre as linhagens.
 
 ## Os testículos
 
@@ -236,17 +210,13 @@ Na região dorsal do abdômen encontra-se o sistema pulsátil que impulsiona a h
 
 Poucos exemplos demonstram tão claramente a integração interna da mandaçaia quanto o metabolismo reprodutivo. O corpo gorduroso produz e armazena moléculas. A hemolinfa transporta essas substâncias. O ovário recebe os materiais. Os folículos incorporam os componentes necessários ao crescimento dos ovócitos. Tudo isso precisa ser coordenado por sinais hormonais e pelo estado fisiológico do indivíduo.
 
-Nos ovários ativos de operárias nutridoras e rainhas fisogástricas, os estudos de microscopia encontraram rotas de intercâmbio entre hemolinfa, epitélio folicular e oócitos que não estavam abertas da mesma forma nas rainhas virgens [2](85-referencias-bibliograficas.md#ref-11-2).
-
-É uma verdadeira cadeia fisiológica. O ovo começa a ser preparado muito antes de estar dentro de uma célula de cria.
+Nos ovários ativos de operárias nutridoras e rainhas fisogástricas, os estudos de microscopia encontraram rotas de intercâmbio entre hemolinfa, epitélio folicular e oócitos que não estavam abertas da mesma forma nas rainhas virgens [2](85-referencias-bibliograficas.md#ref-11-2). É uma verdadeira cadeia fisiológica. O ovo começa a ser preparado muito antes de estar dentro de uma célula de cria.
 
 ## O abdômen muda ao longo da vida
 
 As estruturas internas não permanecem estáticas. Uma operária recém-emergida possui determinado estado fisiológico. Ao tornar-se nutridora, seu metabolismo e seus tecidos reprodutivos apresentam mudanças. Mais tarde, como forrageadora, a relação entre armazenamento, atividade muscular e reprodução pode ser diferente. As rainhas também passam por transições marcantes: virgem, fecundada, fisogástrica e outros estados fisiológicos representam condições internas distintas.
 
-Estudos sobre o corpo gorduroso, os ovários, os ovidutos e as glândulas mandibulares mostram repetidamente essa relação entre idade, casta e função [3](85-referencias-bibliograficas.md#ref-11-3)[6](85-referencias-bibliograficas.md#ref-11-6)[9](85-referencias-bibliograficas.md#ref-11-9)[10](85-referencias-bibliograficas.md#ref-11-10).
-
-A anatomia da abelha adulta é, portanto, **dinâmica**.
+Estudos sobre o corpo gorduroso, os ovários, os ovidutos e as glândulas mandibulares mostram repetidamente essa relação entre idade, casta e função [3](85-referencias-bibliograficas.md#ref-11-3)[6](85-referencias-bibliograficas.md#ref-11-6)[9](85-referencias-bibliograficas.md#ref-11-9)[10](85-referencias-bibliograficas.md#ref-11-10). A anatomia da abelha adulta é, portanto, **dinâmica**.
 
 ## O corpo como uma economia interna
 
@@ -264,9 +234,7 @@ O interior do corpo está ligado ao ambiente exterior. A anatomia não termina n
 
 Quando um pesquisador disseca uma mandaçaia sob microscópio, aquilo que aparece pode parecer completamente diferente da imagem da abelha viva. O abdômen pode revelar o intestino enrolado, os túbulos delicados, o corpo gorduroso, os ovários ou as estruturas reprodutivas masculinas. Mas uma dissecação também possui limitações. A posição dos órgãos pode mudar durante a manipulação. Tecidos podem sofrer alterações após a morte.
 
-O tamanho relativo pode depender do estado fisiológico. Por isso, a anatomia experimental precisa utilizar protocolos, fixadores, microscopia e métodos apropriados.
-
-Os estudos citados neste capítulo utilizaram diferentes técnicas, incluindo histologia, histoquímica, microscopia óptica, microscopia eletrônica e métodos de marcação de moléculas [1](85-referencias-bibliograficas.md#ref-11-1)[2](85-referencias-bibliograficas.md#ref-11-2)[3](85-referencias-bibliograficas.md#ref-11-3).
+O tamanho relativo pode depender do estado fisiológico. Por isso, a anatomia experimental precisa utilizar protocolos, fixadores, microscopia e métodos apropriados. Os estudos citados neste capítulo utilizaram diferentes técnicas, incluindo histologia, histoquímica, microscopia óptica, microscopia eletrônica e métodos de marcação de moléculas [1](85-referencias-bibliograficas.md#ref-11-1)[2](85-referencias-bibliograficas.md#ref-11-2)[3](85-referencias-bibliograficas.md#ref-11-3).
 
 A escolha do método determina aquilo que pode ser observado.
 
@@ -280,9 +248,7 @@ O sistema respiratório pode ser observado apenas parcialmente sem técnicas ade
 
 Talvez o fato mais impressionante seja que essa arquitetura muda. Durante a metamorfose, estruturas surgem, desaparecem, encurtam ou se diferenciam. Durante a vida adulta, outras estruturas mudam de atividade. Na rainha, os ovários podem crescer de maneira extraordinária. Na operária, o estado fisiológico muda com a idade. No macho, os tecidos reprodutivos passam da formação pupal à condição adulta.
 
-Nos estudos de desenvolvimento dos ovidutos, por exemplo, a redução das estruturas laterais das operárias envolve processos celulares de morte programada e reorganização do tecido [9](85-referencias-bibliograficas.md#ref-11-9).
-
-O corpo adulto não é simplesmente uma versão ampliada do corpo larval. É uma **nova arquitetura**, construída durante a metamorfose.
+Nos estudos de desenvolvimento dos ovidutos, por exemplo, a redução das estruturas laterais das operárias envolve processos celulares de morte programada e reorganização do tecido [9](85-referencias-bibliograficas.md#ref-11-9). O corpo adulto não é simplesmente uma versão ampliada do corpo larval. É uma **nova arquitetura**, construída durante a metamorfose.
 
 ## A fisiologia social inscrita no abdômen
 
