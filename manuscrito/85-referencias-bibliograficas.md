@@ -159,3 +159,47 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 
 <a id="ref-11-11"></a>
 **[11]** FERREIRA, A.; ABDALLA, F. C.; KERR, W. E.; CRUZ-LANDIM, C. Comparative anatomy of the male reproductive internal organs of 51 species of bees. *Neotropical Entomology*, v. 33, n. 5, p. 569–576, 2004. DOI: 10.1590/S1519-566X2004000500005.
+
+## Capítulo 12 — Os Sentidos da Mandaçaia
+
+<a id="ref-12-1"></a>
+**[1]** HERTEL, H.; VENTURA, D. F. Spectral sensitivity of photoreceptors in the compound eye of stingless tropical bees. *Journal of Insect Physiology*, v. 31, n. 12, p. 931–935, 1985. DOI: 10.1016/0022-1910(85)90027-7.
+
+<a id="ref-12-2"></a>
+**[2]** SOUZA, J. M.; VENTURA, D. F. Temporal summation and critical duration in bee photoreceptors: a comparison of measurement methods. *Brazilian Journal of Medical and Biological Research*, v. 20, n. 5, p. 649–652, 1987.
+
+<a id="ref-12-3"></a>
+**[3]** KOETHE, S.; BOSSEMS, J.; DYER, A. G.; LUNAU, K. Colour is more than hue: preferences for compiled colour traits in the stingless bees *Melipona mondury* and *Melipona quadrifasciata*. *Journal of Comparative Physiology A*, v. 202, n. 9–10, p. 615–627, 2016. DOI: 10.1007/s00359-016-1115-y.
+
+<a id="ref-12-4"></a>
+**[4]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, v. 101, n. 8, p. 603–611, 2014. DOI: 10.1007/s00114-014-1184-0. Erratum: DOI 10.1007/s00114-014-1203-1.
+
+<a id="ref-12-5"></a>
+**[5]** McCABE, S. I.; HARTFELDER, K.; SANTANA, W. C.; FARINA, W. M. Odor discrimination in classical conditioning of proboscis extension in two stingless bee species in comparison to Africanized honeybees. *Journal of Comparative Physiology A*, v. 193, p. 1089–1099, 2007. DOI: 10.1007/s00359-007-0260-8.
+
+<a id="ref-12-6"></a>
+**[6]** McCABE, S. I.; FARINA, W. M. Odor information transfer in the stingless bee *Melipona quadrifasciata*: effect of in-hive experiences on classical conditioning of proboscis extension. *Journal of Comparative Physiology A*, v. 195, p. 113–122, 2009. DOI: 10.1007/s00359-008-0391-6.
+
+<a id="ref-12-7"></a>
+**[7]** RAVAIANO, S. V.; et al. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, 2014. DOI: 10.1007/s00114-014-1184-0.
+
+<a id="ref-12-8"></a>
+**[8]** McCABE, S. I.; HRNCIR, M.; FARINA, W. M. Vibrating donor-partners during trophallaxis modulate associative learning ability of food receivers in the stingless bee *Melipona quadrifasciata*. *Learning & Motivation*, v. 50, p. 11–21, 2015. DOI: 10.1016/j.lmot.2014.10.005.
+
+<a id="ref-12-9"></a>
+**[9]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, 2014. DOI: 10.1007/s00114-014-1184-0.
+
+<a id="ref-12-10"></a>
+**[10]** STREINZER, M.; HUBER, W.; SPAETHE, J. Body size limits dim-light foraging activity in stingless bees (Apidae: Meliponini). *Journal of Comparative Physiology A*, v. 202, p. 643–655, 2016. DOI: 10.1007/s00359-016-1118-8.
+
+<a id="ref-12-11"></a>
+**[11]** KELBER, A.; SANTOS, H. Spatial Vision and Visually Guided Behavior in Apidae. *Insects*, v. 10, n. 12, 418, 2019. DOI: 10.3390/insects10120418.
+
+<a id="ref-12-12"></a>
+**[12]** ENGEL, M. S.; RASMUSSEN, C.; AYALA, R.; DE OLIVEIRA, F. F. Stingless bee classification and biology (Hymenoptera, Apidae): a review, with an updated key to genera and subgenera. *Journal of Hymenoptera Research*, v. 94, 2023. DOI: 10.3897/jhr.94.107870.
+
+<a id="ref-12-13"></a>
+**[13]** BERNARDO, A. R.; et al. Recent experimental and molecular studies of learning in the stingless bee *Melipona quadrifasciata*. Referência detalhada a ser consolidada na revisão bibliográfica final.
+
+<a id="ref-12-14"></a>
+**[14]** RODRIGUES, J. M. B.; et al. Neonicotinoid effects on tropical bees: imidacloprid impairs innate appetitive responsiveness, learning and memory in the stingless bee *Melipona quadrifasciata*. *Science of The Total Environment*, v. 877, 162859, 2023. DOI: 10.1016/j.scitotenv.2023.162859.
