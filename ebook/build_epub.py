@@ -15,6 +15,14 @@ TITLE = "Mandaçaia — Melipona quadrifasciata"
 AUTHOR = "Abel Barros de Carvalho"
 LANG = "pt-BR"
 
+# Marcadores internos de pesquisa/ChatGPT nunca podem chegar ao e-book.
+TECHNICAL_MARKERS = [
+    re.compile(r"[^]*", re.DOTALL),
+    re.compile(r"turn\d+(?:search|news|image|youtube|product|business|fetch|view|file)\d+", re.IGNORECASE),
+    re.compile(r"(?:cite|url|entity|image_group|video|navlist)\s*[□\u25a1]\s*", re.IGNORECASE),
+    re.compile(r"[□\u25a1]\s*(?:cite|url|entity|image_group|video|navlist)\s*[□\u25a1]", re.IGNORECASE),
+]
+
 
 def chapter_key(path: Path):
     m = re.match(r"(\d+)-", path.name)
@@ -27,6 +35,16 @@ def clean_markdown(text: str) -> str:
         parts = text.split("---", 2)
         if len(parts) == 3:
             text = parts[2].lstrip()
+
+    # Remove resíduos técnicos que não pertencem ao conteúdo editorial.
+    # As citações bibliográficas do livro usam [n] e não esses marcadores.
+    for pattern in TECHNICAL_MARKERS:
+        text = pattern.sub("", text)
+
+    # Alguns ambientes podem converter os delimitadores especiais em quadrados.
+    text = re.sub(r"□cite□[^\n]*□", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"□(?:url|entity|image_group|video|navlist)□[^\n]*□", "", text, flags=re.IGNORECASE)
+
     return text
 
 
@@ -47,6 +65,17 @@ def render_chapter(path: Path):
     first_h1 = soup.find("h1")
     title = first_h1.get_text(" ", strip=True) if first_h1 else path.stem
     return title, body
+
+
+def validate_epub_html(chapters):
+    forbidden = re.compile(r"(?:||turn\d+(?:search|news|image|youtube|product|business|fetch|view|file)\d+|□cite□|□url□|□entity□)", re.IGNORECASE)
+    errors = []
+    for item in chapters:
+        content = item.content.decode("utf-8", errors="replace") if isinstance(item.content, bytes) else str(item.content)
+        if forbidden.search(content):
+            errors.append(item.file_name)
+    if errors:
+        raise RuntimeError("Marcadores técnicos encontrados no EPUB: " + ", ".join(errors))
 
 
 def main():
@@ -89,6 +118,8 @@ blockquote { margin-left: 1.5em; margin-right: 1.5em; }
         book.add_item(item)
         chapters.append(item)
 
+    validate_epub_html(chapters)
+
     book.toc = tuple(chapters)
     book.spine = ["nav", *chapters]
     book.add_item(epub.EpubNcx())
@@ -98,6 +129,7 @@ blockquote { margin-left: 1.5em; margin-right: 1.5em; }
     epub.write_epub(str(output), book, {})
     print(f"EPUB criado: {output}")
     print(f"Capítulos incluídos: {len(chapters)}")
+    print("Validação: nenhum marcador técnico encontrado no conteúdo EPUB.")
 
 
 if __name__ == "__main__":
