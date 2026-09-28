@@ -199,7 +199,7 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 **[12]** ENGEL, M. S.; RASMUSSEN, C.; AYALA, R.; DE OLIVEIRA, F. F. Stingless bee classification and biology (Hymenoptera, Apidae): a review, with an updated key to genera and subgenera. *Journal of Hymenoptera Research*, v. 94, 2023. DOI: 10.3897/jhr.94.107870.
 
 <a id="ref-12-13"></a>
-**[13]** BERNARDO, A. R.; et al. Recent experimental and molecular studies of learning in the stingless bee *Melipona quadrifasciata*. Referência detalhada a ser consolidada na revisão bibliográfica final.
+**[13]** HERNÁNDEZ, L. G.; GARCIA, C. H. S.; DE SOUZA, J. M. F.; DA CRUZ, G. C. N.; CALÁBRIA, L. K.; MORENO, A. M.; ESPINDOLA, F. S.; DE SOUZA, D. G.; DE SOUSA, M. V. Study of *Melipona quadrifasciata* brain under operant learning using proteomic and phosphoproteomic analysis. *Anais da Academia Brasileira de Ciências*, v. 95, supl. 1, e20201317, 2023. DOI: 10.1590/0001-3765202320201317.
 
 <a id="ref-12-14"></a>
 **[14]** RODRIGUES, J. M. B.; et al. Neonicotinoid effects on tropical bees: imidacloprid impairs innate appetitive responsiveness, learning and memory in the stingless bee *Melipona quadrifasciata*. *Science of The Total Environment*, v. 877, 162859, 2023. DOI: 10.1016/j.scitotenv.2023.162859.
