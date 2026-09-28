@@ -271,3 +271,60 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 
 <a id="ref-14-8"></a>
 **[8]** KERR, W. E.; VENCOVSKY, R. Estimation of the number of alleles in a stingless bee population. *Revista Brasileira de Genética*, 1982. Referência histórica sobre o sistema de determinação sexual em Melipona.
+
+
+## Capítulo 15 — A Rainha
+
+<a id="ref-15-1"></a>
+**[1]** TANAKA, É. D.; SANTANA, W. C.; HARTFELDER, K. Ovariole structure and oogenesis in queens and workers of the stingless bee *Melipona quadrifasciata* (Hymenoptera: Apidae, Meliponini) kept under different social conditions. *Apidologie*, v. 40, n. 2, p. 163–177, 2009. DOI: 10.1051/apido/2008071.
+
+<a id="ref-15-2"></a>
+**[2]** MARTINS, G. F.; SERRÃO, J. E. Changes in the reproductive tract of *Melipona quadrifasciata anthidioides* (Hymenoptera: Apidae, Meliponini) queen after mating. *Sociobiology*, v. 44, n. 2, p. 241–254, 2004.
+
+<a id="ref-15-3"></a>
+**[3]** KERR, W. E.; STORT, A. C.; MONTENEGRO, M. J. Importância de alguns fatores ambientais na determinação das castas do gênero *Melipona*. *Anais da Academia Brasileira de Ciências*, v. 38, n. 1, p. 149–168, 1966.
+
+<a id="ref-15-4"></a>
+**[4]** CRUZ-LANDIM, C. Ovarian development in Meliponine bees (Hymenoptera: Apidae): the effect of queen presence and food on worker ovary development and egg production. *Genetics and Molecular Biology*, v. 23, n. 1, p. 83–88, 2000. DOI: 10.1590/S1415-47572000000100015.
+
+<a id="ref-15-5"></a>
+**[5]** KÄRCHER, M. H.; MENEZES, C.; ALVES, D. A.; BEVERIDGE, O. S.; IMPERATRIZ-FONSECA, V. L.; RATNIEKS, F. L. W. Factors influencing survival duration and choice of virgin queens in the stingless bee *Melipona quadrifasciata*. *Die Naturwissenschaften*, v. 100, n. 6, p. 571–580, 2013. DOI: 10.1007/s00114-013-1053-2.
+
+<a id="ref-15-6"></a>
+**[6]** PAES-DE-OLIVEIRA, V. T.; BERGER, B.; CRUZ-LANDIM, C.; SIMÕES, Z. L. P. Vitellogenin content in fat body and ovary homogenates of workers and queens of *Melipona quadrifasciata anthidioides* during vitellogenesis. *Insect Science*, v. 19, n. 2, p. 213–219, 2012. DOI: 10.1111/j.1744-7917.2011.01445.x.
+
+<a id="ref-15-7"></a>
+**[7]** CRUZ-LANDIM, C.; ROAT, T. C.; BERGER, B. Fat body, hemolymph and ovary routes for delivery of substances to ovary in *Melipona quadrifasciata anthidioides*: differences among castes through the use of electron-opaque tracers. *Microscopy*, v. 62, n. 4, p. 457–466, 2013. DOI: 10.1093/jmicro/dft018.
+
+<a id="ref-15-8"></a>
+**[8]** SERRÃO, J. E.; NAVES, A. P.; ZANUNCIO, J. C. Modifications in the oviducts of workers and queens of *Melipona quadrifasciata anthidioides* (Hymenoptera: Apidae) with different ages. *Protoplasma*, v. 248, n. 4, p. 767–773, 2011. DOI: 10.1007/s00709-010-0245-2.
+
+<a id="ref-15-9"></a>
+**[9]** SOUZA, E. A.; NEVES, C. A.; CAMPOS, L. A. O.; ZANUNCIO, J. C.; SERRÃO, J. E. Effect of mating delay on the ovary of *Melipona quadrifasciata anthidioides* (Hymenoptera: Apidae) queens. *Micron*, v. 38, n. 5, p. 471–477, 2007. DOI: 10.1016/j.micron.2006.08.005.
+
+<a id="ref-15-10"></a>
+**[10]** SOUZA, E. A.; CAMPOS, L. A. O.; NEVES, C. A.; ZANUNCIO, J. C.; SERRÃO, J. E. Effect of delayed mating on spermathecal activation in *Melipona quadrifasciata anthidioides* (Hymenoptera, Apidae) queens. *Apidologie*, v. 39, n. 3, p. 293–301, 2008. DOI: 10.1051/apido:2008008.
+
+<a id="ref-15-11"></a>
+**[11]** PAES-DE-OLIVEIRA, V. T.; CRUZ-LANDIM, C. Histological and ultrastructural aspects of the fat body in virgin and physogastric queens of *Melipona quadrifasciata anthidioides* Lepeletier, 1836 (Hymenoptera, Apidae, Meliponini). *Brazilian Journal of Morphological Sciences*, v. 23, n. 3–4, p. 385–392, 2006.
+
+<a id="ref-15-12"></a>
+**[12]** FRANÇA, A. A. P.; DESSAUNE, S. N.; SERRÃO, J. E.; NEVES, C. A. The regenerative cell in the midgut of *Melipona quadrifasciata anthidioides* (Hymenoptera, Apidae, Meliponini): a comparative study of workers and queens. *Brazilian Journal of Morphological Science*, v. 23, n. 3–4, p. 401–404, 2006.
+
+<a id="ref-15-13"></a>
+**[13]** CRUZ-LANDIM, C.; GRACIOLI-VITTI, L. F.; ABDALLA, F. C. Ultrastructure of the intramandibular gland of workers and queens of the stingless bee, *Melipona quadrifasciata*. *Journal of Insect Science*, v. 11, art. 107, 2011. DOI: 10.1673/031.011.10701.
+
+<a id="ref-15-14"></a>
+**[14]** CRUZ-LANDIM, C.; GRACIOLI-VITTI, L. F.; ABDALLA, F. C. Ultrastructural studies of the mandibular gland of *Melipona quadrifasciata* Lepeletier, 1836 (Apidae, Meliponini): a comparison between workers and queens. *Journal of Apicultural Research*, v. 50, n. 4, p. 306–315, 2011. DOI: 10.3896/IBRA.1.50.4.08.
+
+<a id="ref-15-15"></a>
+**[15]** BORGES, A. A.; FERREIRA-CALIMAN, M. J.; NASCIMENTO, F. S.; CAMPOS, L. A. O.; TAVARES, M. G. Characterization of cuticular hydrocarbons of diploid and haploid males, workers and queens of the stingless bee *Melipona quadrifasciata*. *Insectes Sociaux*, v. 59, n. 4, p. 479–486, 2012. DOI: 10.1007/s00040-012-0242-x.
+
+<a id="ref-15-16"></a>
+**[16]** BUENO, F. G. B.; DOS SANTOS, C. F.; OTESBELGUE, A.; MENEZES, C.; VAN VEEN, J.; BLOCHTEIN, B.; GLOAG, R.; HEARD, T.; IMPERATRIZ-FONSECA, V. L.; ALVES, D. A. The queens of the stingless bees: from egg to adult. *Insectes Sociaux*, v. 70, p. 43–57, 2023. DOI: 10.1007/s00040-022-00894-0.
+
+<a id="ref-15-17"></a>
+**[17]** SAKAGAMI, S. F.; MONTENEGRO, M. J.; KERR, W. E. Behavior studies of the stingless bees, with special reference to the oviposition process. V. *Melipona quadrifasciata anthidioides* Lepeletier. *Journal of the Faculty of Science, Hokkaido University. Series VI, Zoology*, v. 15, n. 4, p. 578–607, 1965.
+
+<a id="ref-15-18"></a>
+**[18]** ALVES, D. A.; MENEZES, C.; IMPERATRIZ-FONSECA, V. L.; WENSELEERS, T. First discovery of a rare polygyne colony in the stingless bee *Melipona quadrifasciata* (Apidae, Meliponini). *Apidologie*, v. 42, n. 2, p. 211–213, 2011. DOI: 10.1051/apido/2010053.
