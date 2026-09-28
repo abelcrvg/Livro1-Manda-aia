@@ -77,25 +77,25 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 **[1]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, v. 101, p. 605–613, 2014. DOI: 10.1007/s00114-014-1184-0.
 
 <a id="ref-08-2"></a>
-**[2]** SMITH, J. A.; et al. Spectral sensitivity of photoreceptors in compound eyes of stingless tropical bees. *Journal of Insect Physiology*, v. 31, n. 12, p. 931–935, 1985. DOI: 10.1016/0022-1910(85)90027-7.
+**[2]** HERTEL, H.; VENTURA, D. F. Spectral sensitivity of photoreceptors in the compound eye of stingless tropical bees. *Journal of Insect Physiology*, v. 31, n. 12, p. 931–935, 1985. DOI: 10.1016/0022-1910(85)90027-7.
 
 <a id="ref-08-3"></a>
-**[3]** [Referência do estudo temporal dos fotorreceptores da *Melipona quadrifasciata* a ser confirmada na revisão bibliográfica final.]
+**[3]** DE SOUZA, J. M.; VENTURA, D. F. Comparative study of temporal summation and response form in hymenopteran photoreceptors. *Journal of Comparative Physiology A*, v. 165, n. 2, p. 237–245, 1989. DOI: 10.1007/BF00619198.
 
 <a id="ref-08-4"></a>
 **[4]** KELBER, A.; SANTOS, H. Spatial Vision and Visually Guided Behavior in Apidae. *Insects*, v. 10, n. 12, 418, 2019. DOI: 10.3390/insects10120418.
 
 <a id="ref-08-5"></a>
-**[5]** [Referência do estudo comportamental de preferência de cor em *Melipona quadrifasciata* a ser confirmada na revisão bibliográfica final.]
+**[5]** KOETHE, S.; BOSSEMS, J.; DYER, A. G.; LUNAU, K. Colour is more than hue: preferences for compiled colour traits in the stingless bees *Melipona mondury* and *M. quadrifasciata*. *Journal of Comparative Physiology A*, v. 202, n. 9–10, p. 615–627, 2016. DOI: 10.1007/s00359-016-1115-y.
 
 <a id="ref-08-6"></a>
-**[6]** [Referência de revisão geral sobre quimiorrecepção e processamento antenal em insetos a ser confirmada na revisão bibliográfica final.]
+**[6]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, v. 101, p. 605–613, 2014. DOI: 10.1007/s00114-014-1184-0.
 
 <a id="ref-08-7"></a>
 **[7]** AZEVEDO, D. O.; MATIELLO-GUSS, C. P.; RÖNNAU, M.; ZANUNCIO, J. C.; SERRÃO, J. E. Post-embryonic development of the antennal sensilla in *Melipona quadrifasciata anthidioides* (Hymenoptera: Meliponini). *Microscopy Research and Technique*, v. 71, n. 3, p. 196–200, 2008. DOI: 10.1002/jemt.20539.
 
 <a id="ref-08-8"></a>
-**[8]** [Referência do estudo comparativo sobre tamanho corporal, olhos e atividade luminosa em Meliponini a ser confirmada na revisão bibliográfica final.]
+**[8]** STREINZER, M.; HUBER, W.; SPAETHE, J. Body size limits dim-light foraging activity in stingless bees (Apidae: Meliponini). *Journal of Comparative Physiology A*, v. 202, n. 9, p. 643–655, 2016. DOI: 10.1007/s00359-016-1118-8.
 
 ## Capítulo 9 — Aparelho Bucal
 
