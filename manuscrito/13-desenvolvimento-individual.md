@@ -2,13 +2,13 @@
 
 A vida de uma mandaçaia começa muito antes de o pequeno inseto sair do ninho. Entre o momento em que um ovo é depositado e a emergência do adulto existe uma transformação profunda, na qual uma única célula dá origem a um organismo formado por tecidos especializados, sistemas nervosos, músculos, órgãos sensoriais, estruturas reprodutivas e uma cutícula completamente diferente daquela encontrada na larva.
 
-Em *Melipona quadrifasciata*, esse processo possui uma característica particularmente importante: a maior parte do desenvolvimento ocorre **dentro de uma célula de cria que já recebeu o alimento necessário para o desenvolvimento**. Em vez de uma larva ser alimentada repetidamente por operárias durante todo o período larval, como acontece em outros grupos de abelhas, as Melipona utilizam o sistema conhecido como **aprovisionamento massal**. A célula recebe o alimento antes da postura e é fechada depois que o ovo é colocado sobre essa provisão [1][2].
+Em *Melipona quadrifasciata*, esse processo possui uma característica particularmente importante: a maior parte do desenvolvimento ocorre **dentro de uma célula de cria que já recebeu o alimento necessário para o desenvolvimento**. Em vez de uma larva ser alimentada repetidamente por operárias durante todo o período larval, como acontece em outros grupos de abelhas, as Melipona utilizam o sistema conhecido como **aprovisionamento massal**. A célula recebe o alimento antes da postura e é fechada depois que o ovo é colocado sobre essa provisão [1](85-referencias-bibliograficas.md#ref-13-1)[2](85-referencias-bibliograficas.md#ref-13-2).
 
 Esse modo de desenvolvimento produz uma relação íntima entre comportamento das operárias, nutrição da larva, fisiologia do desenvolvimento e organização social. O indivíduo que nascerá muitas semanas depois depende de acontecimentos que ocorreram em uma janela extremamente curta no início de sua vida.
 
 O desenvolvimento da mandaçaia também é um excelente exemplo de metamorfose completa. O organismo jovem não cresce simplesmente aumentando o tamanho de uma versão adulta. A larva possui uma anatomia própria, especializada principalmente em crescimento e armazenamento. Durante a pupação, grande parte dessa organização é desmontada e reconstruída. Estruturas adultas surgem, outras desaparecem ou são remodeladas, e órgãos que terão funções muito diferentes na vida adulta são formados dentro do corpo em transformação.
 
-Em condições experimentais específicas, estudos com *M. quadrifasciata* encontraram duração total próxima de **41 dias até a emergência**, quando as colônias foram mantidas a aproximadamente 28 °C e as condições de criação foram padronizadas [2]. Fontes históricas baseadas em observações de *M. quadrifasciata anthidioides* descrevem aproximadamente cinco dias de desenvolvimento embrionário, quinze dias de fase larval e dezoito dias de fase pupal, totalizando cerca de 38 dias [3]. Essas diferenças não representam necessariamente contradição: duração do desenvolvimento pode variar com temperatura, alimentação, população, método experimental e condições de criação. O número de dias deve, portanto, sempre ser apresentado como uma **estimativa dependente das condições**, e não como um relógio biológico universal.
+Em condições experimentais específicas, estudos com *M. quadrifasciata* encontraram duração total próxima de **41 dias até a emergência**, quando as colônias foram mantidas a aproximadamente 28 °C e as condições de criação foram padronizadas [2](85-referencias-bibliograficas.md#ref-13-2). Fontes históricas baseadas em observações de *M. quadrifasciata anthidioides* descrevem aproximadamente cinco dias de desenvolvimento embrionário, quinze dias de fase larval e dezoito dias de fase pupal, totalizando cerca de 38 dias [3](85-referencias-bibliograficas.md#ref-13-3). Essas diferenças não representam necessariamente contradição: duração do desenvolvimento pode variar com temperatura, alimentação, população, método experimental e condições de criação. O número de dias deve, portanto, sempre ser apresentado como uma **estimativa dependente das condições**, e não como um relógio biológico universal.
 
 ## O ovo: o início visível do novo indivíduo
 
@@ -20,7 +20,7 @@ A casca do ovo, ou **cório**, constitui uma proteção física e participa das 
 
 O processo embrionário é rápido em comparação com a duração total da vida.
 
-Em observações de *M. quadrifasciata anthidioides*, a eclosão larval foi registrada aproximadamente cinco dias depois da deposição do ovo [3]. Durante esse intervalo, uma única estrutura celular transforma-se em um organismo com segmentos, musculatura, tubo digestivo, sistema nervoso em desenvolvimento e estruturas externas próprias da larva.
+Em observações de *M. quadrifasciata anthidioides*, a eclosão larval foi registrada aproximadamente cinco dias depois da deposição do ovo [3](85-referencias-bibliograficas.md#ref-13-3). Durante esse intervalo, uma única estrutura celular transforma-se em um organismo com segmentos, musculatura, tubo digestivo, sistema nervoso em desenvolvimento e estruturas externas próprias da larva.
 
 A mudança não é apenas de tamanho.
 
@@ -30,7 +30,7 @@ A mudança não é apenas de tamanho.
 
 Uma das características mais importantes para compreender o desenvolvimento das Melipona é que a larva não recebe sua alimentação aos poucos.
 
-Antes da postura, as operárias depositam uma quantidade de alimento na célula de cria. Depois da postura, a célula é fechada. Esse processo faz parte do chamado **processo de aprovisionamento e postura**, ou POP (*Provisioning and Oviposition Process*) [2][4].
+Antes da postura, as operárias depositam uma quantidade de alimento na célula de cria. Depois da postura, a célula é fechada. Esse processo faz parte do chamado **processo de aprovisionamento e postura**, ou POP (*Provisioning and Oviposition Process*) [2](85-referencias-bibliograficas.md#ref-13-2)[4](85-referencias-bibliograficas.md#ref-13-4).
 
 A consequência fisiológica é profunda.
 
@@ -86,7 +86,7 @@ O alimento acumulado na célula precisa ser processado.
 
 O trato digestivo larval, portanto, possui grande atividade.
 
-Estudos clássicos realizados especificamente com *M. quadrifasciata anthidioides* acompanharam o desenvolvimento pós-embrionário do tubo digestivo e mostraram que suas principais transformações começam durante a fase larval e continuam durante a pré-pupa e a pupação [3].
+Estudos clássicos realizados especificamente com *M. quadrifasciata anthidioides* acompanharam o desenvolvimento pós-embrionário do tubo digestivo e mostraram que suas principais transformações começam durante a fase larval e continuam durante a pré-pupa e a pupação [3](85-referencias-bibliograficas.md#ref-13-3).
 
 Os autores observaram modificações progressivas no proventrículo, no intestino médio, nos túbulos de Malpighi e nas regiões posteriores do intestino.
 
@@ -114,7 +114,7 @@ O adulto será construído a partir dos recursos acumulados durante a fase larva
 
 ## O corpo gorduroso durante a metamorfose
 
-Estudos específicos sobre *M. quadrifasciata* acompanharam o destino do corpo gorduroso durante a metamorfose [5].
+Estudos específicos sobre *M. quadrifasciata* acompanharam o destino do corpo gorduroso durante a metamorfose [5](85-referencias-bibliograficas.md#ref-13-5).
 
 A questão é particularmente interessante porque esse tecido não permanece simplesmente igual do estágio larval ao adulto.
 
@@ -148,7 +148,7 @@ Cada muda permite que o organismo continue crescendo e avançando no programa de
 
 Durante essas fases, alterações hormonais coordenam crescimento, formação de novos tecidos e mudança de estágio.
 
-Em abelhas, o **hormônio juvenil** e os **ecdisteroides** participam da regulação da metamorfose e da diferenciação de tecidos. Em *M. quadrifasciata*, estudos clássicos demonstraram relação entre o sistema produtor de hormônio juvenil, desenvolvimento e diferenciação de castas [6].
+Em abelhas, o **hormônio juvenil** e os **ecdisteroides** participam da regulação da metamorfose e da diferenciação de tecidos. Em *M. quadrifasciata*, estudos clássicos demonstraram relação entre o sistema produtor de hormônio juvenil, desenvolvimento e diferenciação de castas [6](85-referencias-bibliograficas.md#ref-13-6).
 
 ## A pré-pupa: o início da grande transformação
 
@@ -168,17 +168,17 @@ O metabolismo também muda.
 
 Grande parte dos recursos acumulados durante a fase larval será mobilizada para sustentar essa reconstrução.
 
-Em observações de *M. quadrifasciata anthidioides*, a pré-pupa constitui um período de aproximadamente três dias e pode ser diferenciada pela sequência de modificações corporais [3].
+Em observações de *M. quadrifasciata anthidioides*, a pré-pupa constitui um período de aproximadamente três dias e pode ser diferenciada pela sequência de modificações corporais [3](85-referencias-bibliograficas.md#ref-13-3).
 
 ## A importância da pré-pupa para as castas
 
 A pré-pupa também é uma fase particularmente importante para entender a diferenciação entre rainhas e operárias.
 
-Pesquisas clássicas de Kerr, Akahira e Camargo acompanharam o número e o volume das células dos **corpora allata**, glândulas responsáveis pela produção de hormônio juvenil, em diferentes fases de desenvolvimento de *M. quadrifasciata* [6].
+Pesquisas clássicas de Kerr, Akahira e Camargo acompanharam o número e o volume das células dos **corpora allata**, glândulas responsáveis pela produção de hormônio juvenil, em diferentes fases de desenvolvimento de *M. quadrifasciata* [6](85-referencias-bibliograficas.md#ref-13-6).
 
 Os autores encontraram correlação entre características do corpo e características do sistema produtor do hormônio juvenil durante a fase pré-pupal e concluíram que esse sistema possui papel importante na determinação da casta.
 
-Posteriormente, pesquisas moleculares demonstraram que a diferenciação de castas em *Melipona* envolve expressão gênica diferencial e não pode ser reduzida a um único fator [7].
+Posteriormente, pesquisas moleculares demonstraram que a diferenciação de castas em *Melipona* envolve expressão gênica diferencial e não pode ser reduzida a um único fator [7](85-referencias-bibliograficas.md#ref-13-7).
 
 Essa história científica é importante porque a diferenciação de castas foi inicialmente explicada por modelos muito simples.
 
@@ -192,7 +192,7 @@ Ela começa a se estabelecer ainda durante o desenvolvimento.
 
 Em *Melipona*, existe uma condição particular quando comparada com muitas outras abelhas sociais. As células destinadas a rainhas e operárias não formam necessariamente estruturas físicas completamente diferentes que permitam identificar antecipadamente cada destino.
 
-Estudos clássicos de Kerr mostraram que as castas femininas de *Melipona* estão relacionadas a fatores genéticos e nutricionais [8].
+Estudos clássicos de Kerr mostraram que as castas femininas de *Melipona* estão relacionadas a fatores genéticos e nutricionais [8](85-referencias-bibliograficas.md#ref-13-8).
 
 O modelo atualmente aceito para a espécie deve ser apresentado com cuidado: há **predisposição genética à formação da casta**, mas as condições nutricionais e ambientais também influenciam se essa predisposição poderá se expressar plenamente.
 
@@ -204,7 +204,7 @@ A mandaçaia possui uma biologia própria.
 
 ## A dimensão genética da casta
 
-Trabalhos sobre *Melipona quadrifasciata* encontraram evidências de segregação genética associada à produção de rainhas e demonstraram que a quantidade de alimento recebida durante o desenvolvimento continua sendo importante para que indivíduos geneticamente predispostos alcancem o fenótipo de rainha [8][6].
+Trabalhos sobre *Melipona quadrifasciata* encontraram evidências de segregação genética associada à produção de rainhas e demonstraram que a quantidade de alimento recebida durante o desenvolvimento continua sendo importante para que indivíduos geneticamente predispostos alcancem o fenótipo de rainha [8](85-referencias-bibliograficas.md#ref-13-8)[6](85-referencias-bibliograficas.md#ref-13-6).
 
 Em outras palavras, a alimentação não cria aleatoriamente uma rainha a partir de qualquer larva.
 
@@ -224,9 +224,9 @@ O **hormônio juvenil** participa de diferentes etapas do desenvolvimento dos in
 
 Sua concentração e atividade relativa contribuem para definir transições entre estágios e podem influenciar crescimento e diferenciação.
 
-Em *M. quadrifasciata*, estudos de desenvolvimento mostraram que diferenças no sistema produtor de hormônio juvenil durante a pré-pupa estão relacionadas à diferenciação de castas [6].
+Em *M. quadrifasciata*, estudos de desenvolvimento mostraram que diferenças no sistema produtor de hormônio juvenil durante a pré-pupa estão relacionadas à diferenciação de castas [6](85-referencias-bibliograficas.md#ref-13-6).
 
-Estudos posteriores de expressão gênica reforçaram que o quadro é mais complexo. Rainhas e operárias apresentam perfis de expressão diferentes em genes associados à diferenciação de casta, e rainhas induzidas experimentalmente com análogo de hormônio juvenil não apresentam necessariamente o mesmo perfil das rainhas naturais [7].
+Estudos posteriores de expressão gênica reforçaram que o quadro é mais complexo. Rainhas e operárias apresentam perfis de expressão diferentes em genes associados à diferenciação de casta, e rainhas induzidas experimentalmente com análogo de hormônio juvenil não apresentam necessariamente o mesmo perfil das rainhas naturais [7](85-referencias-bibliograficas.md#ref-13-7).
 
 Isso revela um princípio importante da biologia do desenvolvimento: **imitar uma parte do processo hormonal não significa necessariamente reproduzir todo o processo biológico natural**.
 
@@ -268,7 +268,7 @@ Além disso, pigmentos e tecidos associados à visão precisam amadurecer.
 
 A mudança externa da cor dos olhos em diferentes fases pupais pode ser utilizada como indicador da progressão do desenvolvimento.
 
-Pesquisas com *M. quadrifasciata anthidioides* utilizaram justamente a coloração ocular e a pigmentação corporal para distinguir estágios pupais [3].
+Pesquisas com *M. quadrifasciata anthidioides* utilizaram justamente a coloração ocular e a pigmentação corporal para distinguir estágios pupais [3](85-referencias-bibliograficas.md#ref-13-3).
 
 Essa possibilidade é útil porque permite acompanhar indivíduos sem necessariamente conhecer o dia exato em que cada larva foi depositada.
 
@@ -276,7 +276,7 @@ Essa possibilidade é útil porque permite acompanhar indivíduos sem necessaria
 
 As antenas também são reconstruídas durante a metamorfose.
 
-Estudo específico com *M. quadrifasciata anthidioides* acompanhou o desenvolvimento das sensilas antenais por microscopia e mostrou que elas se formam progressivamente ao longo das fases pupais [9].
+Estudo específico com *M. quadrifasciata anthidioides* acompanhou o desenvolvimento das sensilas antenais por microscopia e mostrou que elas se formam progressivamente ao longo das fases pupais [9](85-referencias-bibliograficas.md#ref-13-9).
 
 As primeiras estruturas começam a aparecer durante fases pupais iniciais.
 
@@ -348,7 +348,7 @@ Essa reorganização demonstra novamente que metamorfose não é apenas mudança
 
 ## O aparelho digestivo também é reconstruído
 
-Estudos de Cruz-Landim e Mello demonstraram que a maior parte das grandes mudanças do trato digestivo ocorre durante a pupação, embora algumas já comecem na larva ou na pré-pupa [3].
+Estudos de Cruz-Landim e Mello demonstraram que a maior parte das grandes mudanças do trato digestivo ocorre durante a pupação, embora algumas já comecem na larva ou na pré-pupa [3](85-referencias-bibliograficas.md#ref-13-3).
 
 A região do proventrículo, o intestino médio, os túbulos de Malpighi e as estruturas posteriores passam por modificações progressivas.
 
@@ -380,7 +380,7 @@ O abdômen começa a mostrar o padrão de coloração próprio do indivíduo.
 
 Ela surge progressivamente.
 
-Por isso, diferentes fases pupais podem ser classificadas pela combinação entre cor dos olhos, pigmentação corporal e desenvolvimento das estruturas externas [3].
+Por isso, diferentes fases pupais podem ser classificadas pela combinação entre cor dos olhos, pigmentação corporal e desenvolvimento das estruturas externas [3](85-referencias-bibliograficas.md#ref-13-3).
 
 ## A diferença entre emergência e maturidade
 
@@ -412,9 +412,9 @@ Ela ainda não possui a mesma experiência comportamental de uma campeira.
 
 Seu corpo está se ajustando à vida adulta.
 
-As glândulas associadas à alimentação e à manutenção da cria passam por ciclos de desenvolvimento relacionados à idade [10].
+As glândulas associadas à alimentação e à manutenção da cria passam por ciclos de desenvolvimento relacionados à idade [10](85-referencias-bibliograficas.md#ref-13-10).
 
-Estudos com *M. quadrifasciata* também mostram diferenças na expressão de genes associados a castas e idade durante os primeiros dias de vida adulta [11].
+Estudos com *M. quadrifasciata* também mostram diferenças na expressão de genes associados a castas e idade durante os primeiros dias de vida adulta [11](85-referencias-bibliograficas.md#ref-13-11).
 
 Isso reforça a ideia de que a transformação não termina quando a cutícula adulta se rompe.
 
@@ -426,9 +426,9 @@ As mudanças pós-emergência não são apenas comportamentais.
 
 Elas podem ser observadas em tecidos.
 
-As glândulas hipofaríngeas das operárias, por exemplo, apresentam ciclos de desenvolvimento e regressão associados à idade e às necessidades da colônia [10].
+As glândulas hipofaríngeas das operárias, por exemplo, apresentam ciclos de desenvolvimento e regressão associados à idade e às necessidades da colônia [10](85-referencias-bibliograficas.md#ref-13-10).
 
-As glândulas mandibulares também apresentam mudanças entre operárias jovens, nutridoras e forrageadoras [12][13].
+As glândulas mandibulares também apresentam mudanças entre operárias jovens, nutridoras e forrageadoras [12](85-referencias-bibliograficas.md#ref-13-12)[13](85-referencias-bibliograficas.md#ref-13-13).
 
 O corpo gorduroso muda conforme o indivíduo entra em diferentes estados fisiológicos.
 
@@ -470,7 +470,7 @@ Machos seguem um caminho diferente.
 
 Os tecidos reprodutivos são especialmente importantes nessa diferenciação.
 
-Estudos sobre os ovidutos de *M. quadrifasciata* e *Frieseomelitta varia* demonstraram que durante o desenvolvimento ocorre forte redução dos ovidutos laterais das futuras operárias, acompanhada por processos de morte celular, enquanto rainhas mantêm estruturas reprodutivas mais desenvolvidas [14].
+Estudos sobre os ovidutos de *M. quadrifasciata* e *Frieseomelitta varia* demonstraram que durante o desenvolvimento ocorre forte redução dos ovidutos laterais das futuras operárias, acompanhada por processos de morte celular, enquanto rainhas mantêm estruturas reprodutivas mais desenvolvidas [14](85-referencias-bibliograficas.md#ref-13-14).
 
 Na mandaçaia, esse processo é particularmente interessante porque operárias adultas ainda podem apresentar atividade ovariana e produzir ovos em determinadas circunstâncias.
 
@@ -482,11 +482,11 @@ A diferenciação de casta, portanto, não significa simplesmente “órgão pre
 
 O desenvolvimento dos machos segue outra trajetória.
 
-Os machos podem ser **haploides**, como resultado do desenvolvimento a partir de ovos não fecundados, ou **diploides** em determinadas circunstâncias genéticas associadas ao sistema de determinação sexual dos Meliponini [15].
+Os machos podem ser **haploides**, como resultado do desenvolvimento a partir de ovos não fecundados, ou **diploides** em determinadas circunstâncias genéticas associadas ao sistema de determinação sexual dos Meliponini [15](85-referencias-bibliograficas.md#ref-13-15).
 
-Em *M. quadrifasciata*, machos diploides foram estudados comparativamente com machos haploides, rainhas e operárias, inclusive por meio da expressão de genes relacionados à casta e ao desenvolvimento [15].
+Em *M. quadrifasciata*, machos diploides foram estudados comparativamente com machos haploides, rainhas e operárias, inclusive por meio da expressão de genes relacionados à casta e ao desenvolvimento [15](85-referencias-bibliograficas.md#ref-13-15).
 
-Os estudos mostram que machos diploides podem apresentar perfis moleculares mais próximos dos machos haploides e das operárias do que das rainhas, além de diferenças na expressão gênica durante os primeiros dias de vida adulta [15].
+Os estudos mostram que machos diploides podem apresentar perfis moleculares mais próximos dos machos haploides e das operárias do que das rainhas, além de diferenças na expressão gênica durante os primeiros dias de vida adulta [15](85-referencias-bibliograficas.md#ref-13-15).
 
 Esses indivíduos são importantes para compreender a relação entre ploidia, sexo e desenvolvimento.
 
@@ -526,7 +526,7 @@ Mas tamanho final não é uma medida perfeita do destino de casta.
 
 Rainhas e operárias podem emergir com dimensões parcialmente sobrepostas.
 
-Em *Melipona*, estudos clássicos observaram relação entre peso pupal e desenvolvimento de rainhas, mas o próprio padrão de determinação de castas demonstra que tamanho, genética e nutrição precisam ser considerados conjuntamente [8].
+Em *Melipona*, estudos clássicos observaram relação entre peso pupal e desenvolvimento de rainhas, mas o próprio padrão de determinação de castas demonstra que tamanho, genética e nutrição precisam ser considerados conjuntamente [8](85-referencias-bibliograficas.md#ref-13-8).
 
 Esse cuidado é importante porque medidas corporais isoladas podem produzir interpretações equivocadas.
 
@@ -568,7 +568,7 @@ Uma das ideias mais contraintuitivas da metamorfose é que **morte celular é pa
 
 Células podem ser eliminadas porque uma estrutura não será mais necessária na forma adulta.
 
-Nos ovidutos de operárias de *M. quadrifasciata*, por exemplo, a redução das estruturas laterais envolve processos de apoptose e outras alterações celulares [14].
+Nos ovidutos de operárias de *M. quadrifasciata*, por exemplo, a redução das estruturas laterais envolve processos de apoptose e outras alterações celulares [14](85-referencias-bibliograficas.md#ref-13-14).
 
 O mesmo princípio ocorre em outras estruturas durante a metamorfose.
 
@@ -662,7 +662,7 @@ A alimentação de uma larva, a temperatura de uma célula, a diferenciação de
 
 ## Uma vida construída em aproximadamente algumas dezenas de dias
 
-Em condições favoráveis, o desenvolvimento completo da mandaçaia pode ocorrer em aproximadamente cinco a seis semanas, mas o tempo exato depende das condições experimentais e ambientais [2][3].
+Em condições favoráveis, o desenvolvimento completo da mandaçaia pode ocorrer em aproximadamente cinco a seis semanas, mas o tempo exato depende das condições experimentais e ambientais [2](85-referencias-bibliograficas.md#ref-13-2)[3](85-referencias-bibliograficas.md#ref-13-3).
 
 Esse período inclui transformações que parecem incompatíveis com a rapidez de uma vida adulta.
 
