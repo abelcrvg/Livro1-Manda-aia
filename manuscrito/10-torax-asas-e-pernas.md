@@ -4,11 +4,11 @@ Se a cabeça representa a principal interface sensorial da mandaçaia com o ambi
 
 O conjunto é muito mais complexo do que sugere sua aparência externa.
 
-O tórax de uma abelha é uma estrutura mecânica altamente especializada. Seus escleritos formam uma espécie de armação rígida e articulada, enquanto uma grande diversidade de músculos movimenta asas, articulações e pernas. Estudos recentes de anatomia comparada chegaram a documentar **58 grupos musculares do mesosoma** em diferentes linhagens de abelhas e incluíram a própria *Melipona quadrifasciata* entre as espécies examinadas [1].
+O tórax de uma abelha é uma estrutura mecânica altamente especializada. Seus escleritos formam uma espécie de armação rígida e articulada, enquanto uma grande diversidade de músculos movimenta asas, articulações e pernas. Estudos recentes de anatomia comparada chegaram a documentar **58 grupos musculares do mesosoma** em diferentes linhagens de abelhas e incluíram a própria *Melipona quadrifasciata* entre as espécies examinadas [1](85-referencias-bibliograficas.md#ref-10-1).
 
 Essa pesquisa é particularmente importante porque permite olhar para o tórax não apenas como uma região “onde ficam as asas”, mas como um sistema tridimensional de ossos — ou, mais precisamente, de escleritos — articulações e músculos.
 
-As pernas também merecem atenção especial. Em uma abelha sem ferrão, a perna posterior não é simplesmente uma estrutura para caminhar. Ela reúne modificações associadas ao transporte de pólen e outras tarefas. O penicilo, a corbícula, diferentes fileiras de cerdas e outras estruturas transformam a perna em uma ferramenta de coleta e processamento [2].
+As pernas também merecem atenção especial. Em uma abelha sem ferrão, a perna posterior não é simplesmente uma estrutura para caminhar. Ela reúne modificações associadas ao transporte de pólen e outras tarefas. O penicilo, a corbícula, diferentes fileiras de cerdas e outras estruturas transformam a perna em uma ferramenta de coleta e processamento [2](85-referencias-bibliograficas.md#ref-10-2).
 
 ## O mesosoma
 
@@ -40,7 +40,7 @@ Essas peças não existem isoladamente.
 
 Quando um músculo se contrai, sua força é transmitida aos escleritos. O movimento de uma placa modifica a posição de outra, e a soma dessas pequenas movimentações produz o deslocamento das asas ou das pernas.
 
-O estudo de Meira e Almeida mostrou justamente como essa arquitetura varia entre diferentes famílias de abelhas e como *M. quadrifasciata* possui uma configuração torácica que pode ser comparada com outras abelhas [1].
+O estudo de Meira e Almeida mostrou justamente como essa arquitetura varia entre diferentes famílias de abelhas e como *M. quadrifasciata* possui uma configuração torácica que pode ser comparada com outras abelhas [1](85-referencias-bibliograficas.md#ref-10-1).
 
 ## O tórax como uma estrutura de transmissão de força
 
@@ -74,7 +74,7 @@ Quando determinados músculos se contraem, o dorso do tórax é deslocado. Essa 
 
 O mecanismo é particularmente eficiente porque permite movimentar as asas com enorme frequência sem exigir um músculo longo que acompanhe cada movimento da asa diretamente.
 
-Na *M. quadrifasciata*, a anatomia desses músculos foi documentada em detalhe no estudo comparativo de Meira e Almeida [1].
+Na *M. quadrifasciata*, a anatomia desses músculos foi documentada em detalhe no estudo comparativo de Meira e Almeida [1](85-referencias-bibliograficas.md#ref-10-1).
 
 A ideia fundamental é simples: **a asa se movimenta porque o tórax se move internamente**.
 
@@ -90,7 +90,7 @@ Esses músculos atuam sobre pequenos escleritos axilares e podem modificar a pos
 
 Em conjunto, músculos diretos e indiretos permitem controlar não apenas o movimento para cima e para baixo, mas diferentes aspectos da orientação da asa.
 
-O estudo de Meira e Almeida identificou em *M. quadrifasciata* músculos relacionados aos escleritos mesoaxilares e metaaxilares, além de músculos associados às articulações das asas [1].
+O estudo de Meira e Almeida identificou em *M. quadrifasciata* músculos relacionados aos escleritos mesoaxilares e metaaxilares, além de músculos associados às articulações das asas [1](85-referencias-bibliograficas.md#ref-10-1).
 
 Isso revela uma anatomia muito mais refinada do que a ideia comum de que “um músculo bate a asa para cima e outro para baixo”.
 
@@ -110,7 +110,7 @@ Ao longo da margem anterior da asa posterior existe uma fileira de pequenos ganc
 
 Esse acoplamento transforma as quatro asas em um sistema aerodinâmico coordenado.
 
-A presença de hâmulos é uma característica típica das abelhas e de outros himenópteros alados. Nos Meliponini, a asa posterior também apresenta um **lobo jugal**, uma das características utilizadas na caracterização do grupo [2].
+A presença de hâmulos é uma característica típica das abelhas e de outros himenópteros alados. Nos Meliponini, a asa posterior também apresenta um **lobo jugal**, uma das características utilizadas na caracterização do grupo [2](85-referencias-bibliograficas.md#ref-10-2).
 
 ## A nervação das asas
 
@@ -120,13 +120,13 @@ Essas estruturas dão rigidez à asa sem torná-la excessivamente pesada.
 
 As nervuras delimitam células de diferentes tamanhos e também funcionam como referência para estudos de morfometria.
 
-Nos Meliponini existe uma tendência evolutiva de **redução da nervação alar** quando comparada com linhagens de abelhas que conservam uma rede mais extensa [2].
+Nos Meliponini existe uma tendência evolutiva de **redução da nervação alar** quando comparada com linhagens de abelhas que conservam uma rede mais extensa [2](85-referencias-bibliograficas.md#ref-10-2).
 
 Essa redução não significa que a asa seja frágil ou pouco funcional.
 
 Ao contrário: mostra que a estrutura foi otimizada dentro da história evolutiva do grupo.
 
-Em estudos taxonômicos, os padrões formados pela nervação podem ser tão informativos que fotografias de asas podem ser submetidas a análises geométricas capazes de diferenciar espécies de Meliponini [3].
+Em estudos taxonômicos, os padrões formados pela nervação podem ser tão informativos que fotografias de asas podem ser submetidas a análises geométricas capazes de diferenciar espécies de Meliponini [3](85-referencias-bibliograficas.md#ref-10-3).
 
 ## A asa como documento de identificação
 
@@ -136,9 +136,9 @@ Os pontos em que as nervuras se encontram funcionam como **marcos anatômicos**.
 
 Ao registrar suas posições e comparar estatisticamente as formas, os pesquisadores conseguem estudar diferenças entre espécies, sexos e populações.
 
-Francoy e colaboradores demonstraram que padrões de nervação das asas de *M. quadrifasciata* e outras abelhas sem ferrão podem ser utilizados para identificação por morfometria geométrica [3].
+Francoy e colaboradores demonstraram que padrões de nervação das asas de *M. quadrifasciata* e outras abelhas sem ferrão podem ser utilizados para identificação por morfometria geométrica [3](85-referencias-bibliograficas.md#ref-10-3).
 
-Em estudo envolvendo cinco espécies do grupo, os padrões de asa permitiram distinguir as espécies mesmo quando machos e operárias foram analisados separadamente [3].
+Em estudo envolvendo cinco espécies do grupo, os padrões de asa permitiram distinguir as espécies mesmo quando machos e operárias foram analisados separadamente [3](85-referencias-bibliograficas.md#ref-10-3).
 
 Isso é particularmente importante porque mostra que a anatomia da asa pode funcionar como uma espécie de **assinatura morfológica**.
 
@@ -150,7 +150,7 @@ Uma asa pode ser maior ou menor sem mudar substancialmente sua geometria.
 
 Da mesma maneira, duas asas podem possuir a mesma área aproximada e apresentar diferenças no posicionamento das nervuras.
 
-Em *M. quadrifasciata anthidioides*, estudos realizados em 23 localidades do semiárido baiano encontraram estruturação geográfica do **tamanho** das asas, enquanto a **forma** apresentou maior estabilidade. O tamanho também mostrou correlação com altitude: as abelhas estudadas tendiam a apresentar asas maiores em localidades de maior altitude [4].
+Em *M. quadrifasciata anthidioides*, estudos realizados em 23 localidades do semiárido baiano encontraram estruturação geográfica do **tamanho** das asas, enquanto a **forma** apresentou maior estabilidade. O tamanho também mostrou correlação com altitude: as abelhas estudadas tendiam a apresentar asas maiores em localidades de maior altitude [4](85-referencias-bibliograficas.md#ref-10-4).
 
 Esse resultado é particularmente interessante porque sugere que diferentes componentes da anatomia podem responder de maneiras diferentes às condições ecológicas.
 
@@ -278,7 +278,7 @@ As extremidades das pernas possuem estruturas que ajudam a abelha a se prender �
 
 Entre elas estão as **garras tarsais** e o **arólio**, uma estrutura membranosa associada à extremidade da perna.
 
-Nos Meliponini, as garras tarsais são simples e o grupo apresenta arólios, características incluídas entre os caracteres anatômicos utilizados para sua definição [2].
+Nos Meliponini, as garras tarsais são simples e o grupo apresenta arólios, características incluídas entre os caracteres anatômicos utilizados para sua definição [2](85-referencias-bibliograficas.md#ref-10-2).
 
 A importância dessas estruturas pode parecer pequena até observarmos uma abelha caminhando.
 
@@ -312,7 +312,7 @@ Em uma abelha, portanto, limpeza é também manutenção anatômica.
 
 É nas pernas posteriores que encontramos algumas das especializações mais impressionantes da anatomia da operária.
 
-Na tíbia posterior existe a **corbícula**, uma área relativamente côncava cercada por cerdas, utilizada para transportar principalmente pólen [5].
+Na tíbia posterior existe a **corbícula**, uma área relativamente côncava cercada por cerdas, utilizada para transportar principalmente pólen [5](85-referencias-bibliograficas.md#ref-10-5).
 
 O pólen coletado sobre o corpo não precisa permanecer espalhado pela superfície da abelha.
 
@@ -348,7 +348,7 @@ Entre os caracteres particularmente interessantes dos Meliponini está o **penic
 
 Trata-se de um conjunto compacto de cerdas localizado próximo à margem anterior da tíbia posterior.
 
-Sua função está relacionada à movimentação do pólen para cima, em direção à corbícula, durante movimentos de articulação entre a tíbia e o basitarso [5].
+Sua função está relacionada à movimentação do pólen para cima, em direção à corbícula, durante movimentos de articulação entre a tíbia e o basitarso [5](85-referencias-bibliograficas.md#ref-10-5).
 
 O penicilo é, portanto, uma estrutura especializada em **processar a carga**.
 
@@ -362,7 +362,7 @@ Outra estrutura relevante é o **rastelo**, ou *rastellum*.
 
 Ele é formado por cerdas mais robustas na região distal interna da tíbia posterior.
 
-Seu papel está relacionado à retirada de pólen da escova de pólen da perna posterior oposta durante determinados movimentos de limpeza e transferência [5].
+Seu papel está relacionado à retirada de pólen da escova de pólen da perna posterior oposta durante determinados movimentos de limpeza e transferência [5](85-referencias-bibliograficas.md#ref-10-5).
 
 A relação entre rastelo, penicilo, escovas e corbícula mostra que o transporte de pólen não depende de uma única estrutura.
 
@@ -388,7 +388,7 @@ A disposição das cerdas não é aleatória.
 
 Seu comprimento, orientação e densidade determinam como os grãos podem aderir e ser posteriormente removidos.
 
-Estudos recentes de microscopia eletrônica em Meliponini demonstraram uma diversidade muito grande de tipos de cerdas nas tíbias posteriores e nos basitarsos, incluindo estruturas associadas especificamente à limpeza das asas e ao processamento de pólen [5].
+Estudos recentes de microscopia eletrônica em Meliponini demonstraram uma diversidade muito grande de tipos de cerdas nas tíbias posteriores e nos basitarsos, incluindo estruturas associadas especificamente à limpeza das asas e ao processamento de pólen [5](85-referencias-bibliograficas.md#ref-10-5).
 
 Embora esse estudo tenha comparado espécies de Meliponini da América do Sul e não seja exclusivo de *M. quadrifasciata*, ele ajuda a compreender a diversidade estrutural existente dentro da tribo.
 
@@ -410,7 +410,7 @@ A abelha, portanto, possui uma espécie de sistema de manutenção incorporado a
 
 Os Meliponini apresentam outra característica anatômica importante: **perda das esporas das tíbias posteriores**.
 
-Essas estruturas, chamadas esporas tibiais, são comuns em outros grupos de abelhas, mas foram perdidas pelos Meliponini [2].
+Essas estruturas, chamadas esporas tibiais, são comuns em outros grupos de abelhas, mas foram perdidas pelos Meliponini [2](85-referencias-bibliograficas.md#ref-10-2).
 
 Sua ausência é mais um exemplo de como diferentes linhagens podem modificar estruturas corporais conforme sua história evolutiva.
 
@@ -474,7 +474,7 @@ As pernas não começam simplesmente na superfície externa.
 
 Seu ponto de ligação com o tórax envolve coxas, músculos e estruturas internas que formam uma articulação complexa.
 
-O estudo anatômico comparativo de Meira e Almeida identificou numerosos músculos associados às articulações das coxas e às estruturas internas do tórax em *M. quadrifasciata* [1].
+O estudo anatômico comparativo de Meira e Almeida identificou numerosos músculos associados às articulações das coxas e às estruturas internas do tórax em *M. quadrifasciata* [1](85-referencias-bibliograficas.md#ref-10-1).
 
 Isso demonstra que o sistema locomotor começa no interior do corpo.
 
@@ -594,7 +594,7 @@ Existe um único sistema capaz de alternar entre diferentes modos de locomoção
 
 O tamanho do corpo influencia a relação entre anatomia e desempenho aéreo.
 
-Estudos com Meliponini demonstram relações entre largura torácica, tamanho dos olhos e capacidade de atividade sob baixa luminosidade [6].
+Estudos com Meliponini demonstram relações entre largura torácica, tamanho dos olhos e capacidade de atividade sob baixa luminosidade [6](85-referencias-bibliograficas.md#ref-10-6).
 
 O corpo de uma abelha precisa equilibrar massa, área de asa e força muscular.
 
@@ -608,7 +608,7 @@ No caso da mandaçaia, a anatomia relativamente robusta de uma operária está i
 
 ## Asas e altitude
 
-O estudo de Nunes e colaboradores é particularmente interessante porque mostra uma relação entre altitude e tamanho das asas em *M. q. anthidioides* [4].
+O estudo de Nunes e colaboradores é particularmente interessante porque mostra uma relação entre altitude e tamanho das asas em *M. q. anthidioides* [4](85-referencias-bibliograficas.md#ref-10-4).
 
 As populações analisadas em localidades mais elevadas tendiam a apresentar asas maiores.
 
@@ -750,7 +750,7 @@ O sistema nervoso precisa coordenar seu funcionamento.
 
 O tórax é, literalmente, o centro mecânico que conecta diferentes partes do corpo.
 
-O estudo recente de sua musculatura em *M. quadrifasciata* acrescenta uma camada particularmente valiosa ao conhecimento da espécie, mostrando que o “motor” da abelha pode ser analisado em detalhes anatômicos comparáveis aos de outros grupos de abelhas [1].
+O estudo recente de sua musculatura em *M. quadrifasciata* acrescenta uma camada particularmente valiosa ao conhecimento da espécie, mostrando que o “motor” da abelha pode ser analisado em detalhes anatômicos comparáveis aos de outros grupos de abelhas [1](85-referencias-bibliograficas.md#ref-10-1).
 
 ## Anatomia que pode ser medida
 
@@ -764,7 +764,7 @@ Ela também pode ser transformada em números, coordenadas, imagens microscópic
 
 Isso permite comparar indivíduos, castas, sexos e populações de maneira objetiva.
 
-No caso da mandaçaia, estudos de morfometria das asas já demonstraram justamente o valor dessa abordagem [3][4].
+No caso da mandaçaia, estudos de morfometria das asas já demonstraram justamente o valor dessa abordagem [3](85-referencias-bibliograficas.md#ref-10-3)[4](85-referencias-bibliograficas.md#ref-10-4).
 
 ## O limite entre generalização e evidência específica
 
