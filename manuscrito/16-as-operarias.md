@@ -2,7 +2,7 @@
 
 As operárias constituem a população feminina mais numerosa da colônia de *Melipona quadrifasciata* e formam a principal força de manutenção da sociedade. São elas que constroem e reformam estruturas, cuidam da cria, processam e distribuem recursos, regulam o ambiente interno, participam da defesa, realizam limpeza, transportam materiais e exploram o ambiente externo em busca de alimento e outros recursos. Essa amplitude de tarefas pode levar à impressão de que a operária é uma “abelha que faz tudo”, mas a realidade é mais precisa: a mesma casta possui um repertório comportamental muito amplo, porém as probabilidades de executar cada atividade mudam com a idade, o estado fisiológico, a experiência, as características individuais e as necessidades da colônia.
 
-A operária também não é simplesmente a forma “não reprodutiva” da espécie. *M. quadrifasciata* apresenta uma particularidade importante entre as abelhas altamente eusociais: as fêmeas operárias mantêm ovários funcionais e podem produzir ovos em determinadas circunstâncias. Parte desses ovos é destinada à alimentação da rainha, os chamados **ovos tróficos**, enquanto outros podem ser reprodutivos e originar machos. Assim, a operária reúne em um mesmo organismo duas possibilidades biológicas que parecem, à primeira vista, contraditórias: trabalhar intensamente para a sociedade e conservar algum potencial reprodutivo [1][2].
+A operária também não é simplesmente a forma “não reprodutiva” da espécie. *M. quadrifasciata* apresenta uma particularidade importante entre as abelhas altamente eusociais: as fêmeas operárias mantêm ovários funcionais e podem produzir ovos em determinadas circunstâncias. Parte desses ovos é destinada à alimentação da rainha, os chamados **ovos tróficos**, enquanto outros podem ser reprodutivos e originar machos. Assim, a operária reúne em um mesmo organismo duas possibilidades biológicas que parecem, à primeira vista, contraditórias: trabalhar intensamente para a sociedade e conservar algum potencial reprodutivo [1](85-referencias-bibliograficas.md#ref-16-1)[2](85-referencias-bibliograficas.md#ref-16-2).
 
 Essa combinação torna a operária da mandaçaia particularmente interessante. Sua anatomia não pode ser compreendida separadamente de seu comportamento, e seu comportamento não pode ser entendido apenas pela idade. A operária é produto de uma história de desenvolvimento, vive em um contexto social e ajusta continuamente sua atividade ao ambiente e à condição da colônia.
 
@@ -10,7 +10,7 @@ Essa combinação torna a operária da mandaçaia particularmente interessante. 
 
 A operária é uma fêmea adulta que, em condições normais, não concentra a reprodução da colônia como faz a rainha. Sua principal contribuição para a sociedade é comportamental e funcional. Em uma colônia permanente, a rainha pode permanecer especializada na produção de ovos porque centenas de operárias assumem as tarefas necessárias para transformar recursos ambientais em alimento, estruturas e proteção.
 
-Essa divisão não significa que exista uma separação absoluta entre “abelhas internas” e “abelhas externas”. O sistema é graduado. As atividades variam entre indivíduos e ao longo da vida, e a colônia pode alterar essa distribuição quando perde indivíduos, quando muda a oferta de recursos ou quando apresenta expansão da cria. Estudos clássicos de *M. quadrifasciata* já demonstravam uma divisão de trabalho associada à idade, enquanto trabalhos posteriores mostraram que a idade não explica sozinha toda a variação comportamental [1][3].
+Essa divisão não significa que exista uma separação absoluta entre “abelhas internas” e “abelhas externas”. O sistema é graduado. As atividades variam entre indivíduos e ao longo da vida, e a colônia pode alterar essa distribuição quando perde indivíduos, quando muda a oferta de recursos ou quando apresenta expansão da cria. Estudos clássicos de *M. quadrifasciata* já demonstravam uma divisão de trabalho associada à idade, enquanto trabalhos posteriores mostraram que a idade não explica sozinha toda a variação comportamental [1](85-referencias-bibliograficas.md#ref-16-1)[3](85-referencias-bibliograficas.md#ref-16-3).
 
 A palavra **operária** descreve, portanto, uma casta e não uma profissão única. Uma mesma abelha pode participar de várias atividades em momentos diferentes. A organização da colônia depende justamente dessa capacidade de alternância.
 
@@ -18,13 +18,13 @@ A palavra **operária** descreve, portanto, uma casta e não uma profissão úni
 
 A operária começa sua existência como ovo produzido pela rainha ou, em certas circunstâncias, como indivíduo proveniente de um ovo de origem diferente dentro do sistema reprodutivo das fêmeas. A determinação da casta acontece durante o desenvolvimento larval e envolve interação entre fatores genéticos, nutrição e regulação do desenvolvimento. As diferenças que caracterizarão a futura operária já começam a ser construídas antes da emergência.
 
-Na fase adulta recém-emergida, o organismo ainda não apresenta o perfil fisiológico de uma forrageadora madura. Os tecidos glandulares continuam se desenvolvendo, o sistema reprodutivo sofre modificações, o corpo muda de massa e o cérebro continua passando por alterações associadas à maturação comportamental [4][5].
+Na fase adulta recém-emergida, o organismo ainda não apresenta o perfil fisiológico de uma forrageadora madura. Os tecidos glandulares continuam se desenvolvendo, o sistema reprodutivo sofre modificações, o corpo muda de massa e o cérebro continua passando por alterações associadas à maturação comportamental [4](85-referencias-bibliograficas.md#ref-16-4)[5](85-referencias-bibliograficas.md#ref-16-5).
 
 Essa observação é importante porque impede uma interpretação muito simplificada da vida de uma operária. Emergência não é sinônimo de maturidade funcional completa. A abelha já possui asas, pernas, olhos, antenas e aparelho bucal plenamente reconhecíveis, mas muitas das capacidades que definirão seu comportamento social ainda estão sendo ajustadas.
 
 ## Os primeiros dias depois da emergência
 
-As primeiras horas e os primeiros dias são marcados por mudanças fisiológicas rápidas. Em um estudo com 151 operárias de *M. quadrifasciata*, indivíduos recém-emergidos foram marcados, pesados e acompanhados por 45 dias. A massa corporal aumentou de maneira significativa durante os primeiros cinco dias, para depois entrar em uma tendência de redução progressiva até a estabilização em idades mais avançadas [4].
+As primeiras horas e os primeiros dias são marcados por mudanças fisiológicas rápidas. Em um estudo com 151 operárias de *M. quadrifasciata*, indivíduos recém-emergidos foram marcados, pesados e acompanhados por 45 dias. A massa corporal aumentou de maneira significativa durante os primeiros cinco dias, para depois entrar em uma tendência de redução progressiva até a estabilização em idades mais avançadas [4](85-referencias-bibliograficas.md#ref-16-4).
 
 Esse ganho inicial de massa não representa simplesmente acúmulo de gordura. Os autores relacionaram o aumento às transformações fisiológicas que ocorrem no início da vida adulta, especialmente o desenvolvimento glandular e ovariano. A jovem operária está entrando em uma fase em que seu organismo precisa adquirir recursos e capacidade funcional para participar da vida da colônia.
 
@@ -32,7 +32,7 @@ A mudança de massa é, portanto, um marcador indireto de maturação. Uma oper�
 
 ## A idade influencia, mas não determina
 
-A divisão de trabalho relacionada à idade é frequentemente chamada de **polietismo etário**. Em termos gerais, operárias jovens tendem a desempenhar mais tarefas dentro do ninho, enquanto indivíduos mais velhos apresentam maior probabilidade de participar de atividades externas. Essa tendência foi documentada para *M. quadrifasciata* desde os estudos clássicos e permanece como uma das referências para compreender sua organização social [1][3].
+A divisão de trabalho relacionada à idade é frequentemente chamada de **polietismo etário**. Em termos gerais, operárias jovens tendem a desempenhar mais tarefas dentro do ninho, enquanto indivíduos mais velhos apresentam maior probabilidade de participar de atividades externas. Essa tendência foi documentada para *M. quadrifasciata* desde os estudos clássicos e permanece como uma das referências para compreender sua organização social [1](85-referencias-bibliograficas.md#ref-16-1)[3](85-referencias-bibliograficas.md#ref-16-3).
 
 A palavra “tendência” é essencial. Não existe uma regra universal segundo a qual toda operária deve executar uma determinada tarefa em um dia específico. Em uma colônia real, os indivíduos não envelhecem dentro de uma programação comportamental idêntica.
 
@@ -52,11 +52,11 @@ Por isso, não é adequado dizer que uma operária “vira campeira” no sentid
 
 A mudança de tarefas durante a vida adulta está acompanhada por alterações fisiológicas. O sistema glandular, os ovários, o corpo gorduroso e o sistema nervoso não permanecem no mesmo estado desde a emergência até a morte.
 
-As glândulas hipofaringeanas constituem um exemplo particularmente claro. Em operárias nutridoras de *M. quadrifasciata*, os ácinos dessas glândulas apresentam maior desenvolvimento do que em outras categorias de trabalhadoras, e seu estado está relacionado à idade e às necessidades da colônia [6].
+As glândulas hipofaringeanas constituem um exemplo particularmente claro. Em operárias nutridoras de *M. quadrifasciata*, os ácinos dessas glândulas apresentam maior desenvolvimento do que em outras categorias de trabalhadoras, e seu estado está relacionado à idade e às necessidades da colônia [6](85-referencias-bibliograficas.md#ref-16-6).
 
 As glândulas hipofaringeanas estão associadas à produção de secreções utilizadas na alimentação e no processamento dos recursos destinados à cria. Seu desenvolvimento mostra que uma mudança de comportamento não é apenas uma decisão momentânea do animal. Ela pode envolver transformação estrutural do próprio órgão.
 
-Ao mesmo tempo, outras glândulas também variam conforme a idade e a casta. As glândulas mandibulares e intramandibulares apresentam diferenças entre operárias e rainhas, refletindo funções químicas e fisiológicas distintas [7].
+Ao mesmo tempo, outras glândulas também variam conforme a idade e a casta. As glândulas mandibulares e intramandibulares apresentam diferenças entre operárias e rainhas, refletindo funções químicas e fisiológicas distintas [7](85-referencias-bibliograficas.md#ref-16-7).
 
 ## A jovem operária como organismo em amadurecimento
 
@@ -64,7 +64,7 @@ A jovem operária passa por um período em que seu corpo se encontra em expansã
 
 Essa fase não corresponde a um “estágio infantil” comparável ao de um mamífero jovem, mas tampouco é correto considerar a abelha recém-emergida como fisiologicamente acabada.
 
-Em *M. quadrifasciata*, análises do cérebro mostraram aumento relacionado à idade no volume de estruturas envolvidas com processamento sensorial, aprendizagem e memória. Os chamados **corpos pedunculados** ou **corpos de cogumelo** apresentaram aumento de volume durante o envelhecimento, particularmente antes da idade em que as operárias passam a forragear intensamente [8].
+Em *M. quadrifasciata*, análises do cérebro mostraram aumento relacionado à idade no volume de estruturas envolvidas com processamento sensorial, aprendizagem e memória. Os chamados **corpos pedunculados** ou **corpos de cogumelo** apresentaram aumento de volume durante o envelhecimento, particularmente antes da idade em que as operárias passam a forragear intensamente [8](85-referencias-bibliograficas.md#ref-16-8).
 
 Esse padrão é interessante porque mostra que a maturação neural da operária não precisa ser desencadeada apenas pelo voo. Parte importante da reorganização cerebral acontece enquanto o animal ainda desempenha atividades no interior do ninho.
 
@@ -74,7 +74,7 @@ A mudança gradual de comportamento também envolve experiência. Para uma oper�
 
 A experiência acumulada dentro da colônia já participa desse processo. A operária entra em contato com alimentos, companheiras, estruturas do ninho, odores e diferentes contextos sociais antes de assumir atividades externas com maior frequência.
 
-Estudos sobre aprendizagem em *M. quadrifasciata* demonstraram que as abelhas conseguem associar odores a recompensas e que informações adquiridas por uma abelha durante interações alimentares podem influenciar o comportamento de outra [9]. Esse sistema de aprendizagem dá suporte à flexibilidade necessária para que a operária passe de atividades predominantemente internas para uma exploração mais complexa do ambiente.
+Estudos sobre aprendizagem em *M. quadrifasciata* demonstraram que as abelhas conseguem associar odores a recompensas e que informações adquiridas por uma abelha durante interações alimentares podem influenciar o comportamento de outra [9](85-referencias-bibliograficas.md#ref-16-9). Esse sistema de aprendizagem dá suporte à flexibilidade necessária para que a operária passe de atividades predominantemente internas para uma exploração mais complexa do ambiente.
 
 A operária não nasce sabendo forragear uma flor específica. Seu repertório é construído pela interação entre predisposições biológicas, maturação neural e experiência.
 
@@ -82,7 +82,7 @@ A operária não nasce sabendo forragear uma flor específica. Seu repertório �
 
 Uma das tarefas mais importantes da operária jovem é o cuidado com a cria. As **nutridoras** participam da alimentação e manutenção dos indivíduos imaturos e precisam manipular recursos de maneira que possam ser destinados ao desenvolvimento larval.
 
-A atividade das glândulas hipofaringeanas está diretamente relacionada a esse período. Em *M. quadrifasciata*, trabalhadoras nutridoras apresentam glândulas relativamente desenvolvidas e recebem uma dieta rica em proteínas associada às necessidades de produção de secreções destinadas ao aprovisionamento [6].
+A atividade das glândulas hipofaringeanas está diretamente relacionada a esse período. Em *M. quadrifasciata*, trabalhadoras nutridoras apresentam glândulas relativamente desenvolvidas e recebem uma dieta rica em proteínas associada às necessidades de produção de secreções destinadas ao aprovisionamento [6](85-referencias-bibliograficas.md#ref-16-6).
 
 A nutridora também precisa circular em uma região do ninho na qual temperatura, umidade, materiais e concentração de outras abelhas podem mudar rapidamente. Seu trabalho não é apenas “alimentar larvas”. Ele integra a manutenção da área de cria, o contato com alimento e a resposta às necessidades do ninho.
 
@@ -92,7 +92,7 @@ A alimentação das larvas em *Melipona* ocorre dentro de um sistema de aprovisi
 
 Construir é uma atividade central da vida colonial. As operárias manipulam cerume, resinas e outros materiais para formar células de cria, potes e estruturas do ninho.
 
-A construção de células de cria não é uma operação puramente mecânica. A operária precisa reconhecer o local de intervenção, obter ou produzir o material, moldá-lo e integrá-lo à arquitetura existente. Em estudos de genética comportamental, a construção das células de cria foi justamente uma das atividades em que diferenças entre origens coloniais apresentaram efeito significativo [3].
+A construção de células de cria não é uma operação puramente mecânica. A operária precisa reconhecer o local de intervenção, obter ou produzir o material, moldá-lo e integrá-lo à arquitetura existente. Em estudos de genética comportamental, a construção das células de cria foi justamente uma das atividades em que diferenças entre origens coloniais apresentaram efeito significativo [3](85-referencias-bibliograficas.md#ref-16-3).
 
 Esse resultado indica que o comportamento construtivo possui um componente genético detectável, embora isso não signifique determinação rígida por genes. O comportamento observado é produto de interação entre constituição individual, desenvolvimento e ambiente social.
 
@@ -102,7 +102,7 @@ Uma operária, portanto, não recebe um “projeto” externo e simplesmente o e
 
 As resinas coletadas no ambiente podem ser transportadas para o ninho e transformadas em materiais utilizados pela colônia. A manipulação desses recursos exige estruturas corporais adequadas, comportamento aprendido e coordenação social.
 
-A preparação de própolis esteve entre os comportamentos que apresentaram variação associada à origem genética das operárias nos experimentos de Waldschmidt, Campos e De Marco Júnior [3]. Novamente, esse resultado não significa que exista uma linhagem de operárias “geneticamente destinadas” a trabalhar com própolis. Significa que parte da variação comportamental observada entre grupos de abelhas pode ter componente hereditário mensurável.
+A preparação de própolis esteve entre os comportamentos que apresentaram variação associada à origem genética das operárias nos experimentos de Waldschmidt, Campos e De Marco Júnior [3](85-referencias-bibliograficas.md#ref-16-3). Novamente, esse resultado não significa que exista uma linhagem de operárias “geneticamente destinadas” a trabalhar com própolis. Significa que parte da variação comportamental observada entre grupos de abelhas pode ter componente hereditário mensurável.
 
 A sociedade aproveita essa variação. Indivíduos diferentes podem apresentar probabilidades diferentes de executar determinadas tarefas, e o conjunto dessas diferenças produz uma divisão de trabalho que não precisa ser uniforme.
 
@@ -120,7 +120,7 @@ A coleta externa só se torna útil quando o recurso trazido ao ninho é aceito,
 
 Néctar, pólen, água e materiais resinosos não chegam ao ninho em condições exatamente iguais às de uso. O processamento pode envolver mastigação, regurgitação, mistura, armazenamento e redistribuição, dependendo do recurso e de sua finalidade.
 
-As operárias também participam de trocas alimentares entre indivíduos. A **trofalaxia** cria uma rede pela qual nutrientes e informações associadas ao alimento podem circular entre companheiras. Em *M. quadrifasciata*, vibrações produzidas pelo parceiro durante trocas alimentares foram associadas a mudanças na capacidade de aprendizagem dos receptores em experimentos comportamentais [10].
+As operárias também participam de trocas alimentares entre indivíduos. A **trofalaxia** cria uma rede pela qual nutrientes e informações associadas ao alimento podem circular entre companheiras. Em *M. quadrifasciata*, vibrações produzidas pelo parceiro durante trocas alimentares foram associadas a mudanças na capacidade de aprendizagem dos receptores em experimentos comportamentais [10](85-referencias-bibliograficas.md#ref-16-10).
 
 Esse resultado mostra que o contato alimentar não precisa ser interpretado apenas como transferência de calorias. A interação entre duas operárias pode carregar sinais sociais capazes de modificar o estado comportamental de quem recebe.
 
@@ -132,7 +132,7 @@ A transição para essa atividade implica mudanças na relação entre corpo e a
 
 Forragear não significa apenas voar mais. É uma mudança de estado comportamental na qual o animal precisa integrar grande quantidade de informação sensorial e tomar decisões rápidas.
 
-Em *M. quadrifasciata*, estudos de tamanho corporal mostraram que existe variação entre forrageadoras dentro da mesma colônia e que essa variação está associada à capacidade de transporte de pólen [11]. Colônias mais fracas apresentaram, em média, forrageadoras menores, que foram capazes de transportar maior quantidade de pólen em relação ao próprio peso corporal. A eficiência de transporte também foi influenciada pela relação alométrica entre tamanho corporal e corbícula [11].
+Em *M. quadrifasciata*, estudos de tamanho corporal mostraram que existe variação entre forrageadoras dentro da mesma colônia e que essa variação está associada à capacidade de transporte de pólen [11](85-referencias-bibliograficas.md#ref-16-11). Colônias mais fracas apresentaram, em média, forrageadoras menores, que foram capazes de transportar maior quantidade de pólen em relação ao próprio peso corporal. A eficiência de transporte também foi influenciada pela relação alométrica entre tamanho corporal e corbícula [11](85-referencias-bibliograficas.md#ref-16-11).
 
 Esse resultado revela que a operária não possui um “tamanho ideal” absoluto. O efeito de determinada característica depende do contexto e da função considerada.
 
@@ -140,7 +140,7 @@ Esse resultado revela que a operária não possui um “tamanho ideal” absolut
 
 Operárias da mesma colônia não são réplicas umas das outras. Existe variação corporal mensurável, e essa variação pode refletir tanto diferenças de desenvolvimento quanto o estado da própria sociedade.
 
-O trabalho de Ramalho, Imperatriz-Fonseca e Giannini mostrou que a condição colonial estava associada à variação do tamanho das forrageadoras de *M. q. anthidioides*. Colônias fortes e fracas não apresentaram exatamente a mesma distribuição de tamanho corporal entre as operárias coletoras [11].
+O trabalho de Ramalho, Imperatriz-Fonseca e Giannini mostrou que a condição colonial estava associada à variação do tamanho das forrageadoras de *M. q. anthidioides*. Colônias fortes e fracas não apresentaram exatamente a mesma distribuição de tamanho corporal entre as operárias coletoras [11](85-referencias-bibliograficas.md#ref-16-11).
 
 Isso é particularmente importante para uma espécie na qual a produção da cria ocorre durante todo o ciclo da colônia. O alimento disponível à larva pode mudar de acordo com a situação do ninho e, por consequência, influenciar características dos adultos que emergirão posteriormente.
 
@@ -150,7 +150,7 @@ O tamanho corporal, portanto, não deve ser interpretado apenas como uma caracte
 
 Uma característica que diferencia *Melipona quadrifasciata* de alguns outros insetos eusociais é a manutenção da capacidade reprodutiva potencial pelas operárias. Os ovários não são completamente degenerados durante o desenvolvimento.
 
-Tanaka e colaboradores estudaram diretamente a organização dos ovaríolos em rainhas e operárias e mostraram que as operárias de *M. quadrifasciata* podem apresentar desenvolvimento folicular compatível tanto com a produção de ovos tróficos quanto com a possibilidade de formação de ovos reprodutivos [2].
+Tanaka e colaboradores estudaram diretamente a organização dos ovaríolos em rainhas e operárias e mostraram que as operárias de *M. quadrifasciata* podem apresentar desenvolvimento folicular compatível tanto com a produção de ovos tróficos quanto com a possibilidade de formação de ovos reprodutivos [2](85-referencias-bibliograficas.md#ref-16-2).
 
 O termo **ovo trófico** designa um ovo produzido por uma operária e destinado, em grande parte, a ser consumido pela rainha. Ele funciona como recurso alimentar de alto valor nutricional dentro da sociedade. Não é correto tratá-lo simplesmente como um “ovo abortado” ou como um erro da operária. Trata-se de uma forma particular de investimento reprodutivo da casta.
 
@@ -158,9 +158,9 @@ Ao lado desses ovos, as operárias também podem produzir ovos reprodutivos. Em 
 
 ## Por que uma operária produz um ovo trófico
 
-A existência de ovos tróficos cria uma relação interessante entre os interesses individuais e os da colônia. Uma operária pode investir recursos próprios na formação de um ovo que não dará origem a uma nova operária, mas que será consumido pela rainha. Esse investimento ajuda a sustentar a elevada atividade reprodutiva da rainha e, indiretamente, a produção de descendentes da colônia [2][12].
+A existência de ovos tróficos cria uma relação interessante entre os interesses individuais e os da colônia. Uma operária pode investir recursos próprios na formação de um ovo que não dará origem a uma nova operária, mas que será consumido pela rainha. Esse investimento ajuda a sustentar a elevada atividade reprodutiva da rainha e, indiretamente, a produção de descendentes da colônia [2](85-referencias-bibliograficas.md#ref-16-2)[12](85-referencias-bibliograficas.md#ref-16-12).
 
-A fisiologia desse fenômeno está relacionada ao metabolismo de vitelogenina e de outros nutrientes. Em *M. quadrifasciata*, estudos do corpo gorduroso e do ovário mostraram que operárias nutridoras possuem atividade metabólica associada à vitelogênese e que materiais nutricionais são direcionados aos oócitos por vias semelhantes às observadas em fêmeas reprodutivas [12].
+A fisiologia desse fenômeno está relacionada ao metabolismo de vitelogenina e de outros nutrientes. Em *M. quadrifasciata*, estudos do corpo gorduroso e do ovário mostraram que operárias nutridoras possuem atividade metabólica associada à vitelogênese e que materiais nutricionais são direcionados aos oócitos por vias semelhantes às observadas em fêmeas reprodutivas [12](85-referencias-bibliograficas.md#ref-16-12).
 
 Isso significa que a operária não é fisiologicamente “vazia”. Ela conserva um sistema reprodutivo ativo que pode ser utilizado de acordo com a organização social.
 
@@ -168,7 +168,7 @@ Isso significa que a operária não é fisiologicamente “vazia”. Ela conserv
 
 O potencial reprodutivo das operárias também produz consequências para a genética da colônia. Quando uma operária deposita um ovo reprodutivo que se desenvolve em macho, esse indivíduo não é necessariamente filho direto da rainha.
 
-A contribuição dos ovos de operárias para a produção masculina foi objeto de estudos clássicos em *Melipona*, e a própria biologia ovariana de *M. quadrifasciata* sustenta a possibilidade de produção tanto de ovos tróficos como reprodutivos [2][13].
+A contribuição dos ovos de operárias para a produção masculina foi objeto de estudos clássicos em *Melipona*, e a própria biologia ovariana de *M. quadrifasciata* sustenta a possibilidade de produção tanto de ovos tróficos como reprodutivos [2](85-referencias-bibliograficas.md#ref-16-2)[13](85-referencias-bibliograficas.md#ref-16-13).
 
 Esse sistema ajuda a compreender por que a sociedade não pode ser descrita simplesmente como um grupo no qual “a rainha põe todos os ovos”. A rainha concentra a reprodução feminina da colônia, mas não elimina completamente a reprodução das operárias.
 
@@ -176,7 +176,7 @@ Ao mesmo tempo, a presença de ovos de operárias não significa que elas se rep
 
 ## A ausência da rainha e a operária reprodutiva
 
-A condição social influencia profundamente o estado dos ovários das operárias. Estudos de desenvolvimento ovariano em Meliponini mostraram que a presença da rainha, a alimentação e o estado social interferem na atividade ovariana das trabalhadoras [14].
+A condição social influencia profundamente o estado dos ovários das operárias. Estudos de desenvolvimento ovariano em Meliponini mostraram que a presença da rainha, a alimentação e o estado social interferem na atividade ovariana das trabalhadoras [14](85-referencias-bibliograficas.md#ref-16-14).
 
 Em *M. quadrifasciata*, a perda da rainha pode favorecer alterações reprodutivas nas operárias. Algumas podem desenvolver maior atividade ovariana e participar da continuidade reprodutiva masculina enquanto a colônia busca restabelecer uma rainha funcional.
 
@@ -186,9 +186,9 @@ Esse comportamento mostra que esterilidade da operária não é um estado absolu
 
 Os ovários não são isolados do restante da fisiologia. Corpo gorduroso, vitelogenina, glândulas, aparelho digestivo e sistema nervoso participam da transição entre diferentes estados comportamentais.
 
-Trabalhos recentes comparando operárias nutridoras e forrageadoras de *M. quadrifasciata* encontraram padrões distintos na expressão de genes relacionados à maturação comportamental e ao metabolismo, indicando que a divisão de trabalho envolve alterações moleculares além da simples passagem do tempo [15].
+Trabalhos recentes comparando operárias nutridoras e forrageadoras de *M. quadrifasciata* encontraram padrões distintos na expressão de genes relacionados à maturação comportamental e ao metabolismo, indicando que a divisão de trabalho envolve alterações moleculares além da simples passagem do tempo [15](85-referencias-bibliograficas.md#ref-16-15).
 
-Em particular, operárias nutridoras apresentaram maior expressão abdominal de vitelogenina, compatível com seu potencial reprodutivo e com a produção de ovos. Nas forrageadoras, genes associados à busca de alimento apresentaram padrões diferentes, mostrando que a mudança comportamental está acompanhada de alterações na regulação molecular [15].
+Em particular, operárias nutridoras apresentaram maior expressão abdominal de vitelogenina, compatível com seu potencial reprodutivo e com a produção de ovos. Nas forrageadoras, genes associados à busca de alimento apresentaram padrões diferentes, mostrando que a mudança comportamental está acompanhada de alterações na regulação molecular [15](85-referencias-bibliograficas.md#ref-16-15).
 
 Esses dados reforçam uma ideia que atravessa toda a biologia da operária: comportamento, reprodução e metabolismo estão interligados.
 
@@ -198,11 +198,11 @@ O **corpo gorduroso** é um dos principais órgãos metabólicos do inseto. Ele 
 
 Em operárias de *M. quadrifasciata*, diferenças no estado do corpo gorduroso acompanham fases distintas da vida adulta. Durante períodos de atividade reprodutiva, os tecidos precisam disponibilizar componentes que serão transferidos aos oócitos; durante outras fases, o metabolismo pode priorizar manutenção, defesa fisiológica e atividade comportamental.
 
-Estudos citológicos demonstraram relações entre corpo gorduroso, hemolinfa e ovários em operárias nutridoras e fêmeas reprodutivas [12]. Isso significa que a reprodução da operária, quando ocorre, depende de uma infraestrutura metabólica que se comunica com o restante do organismo.
+Estudos citológicos demonstraram relações entre corpo gorduroso, hemolinfa e ovários em operárias nutridoras e fêmeas reprodutivas [12](85-referencias-bibliograficas.md#ref-16-12). Isso significa que a reprodução da operária, quando ocorre, depende de uma infraestrutura metabólica que se comunica com o restante do organismo.
 
 ## A operária e as glândulas hipofaringeanas
 
-As glândulas hipofaringeanas localizam-se na cabeça e são compostas por unidades secretoras chamadas ácinos. Em *M. quadrifasciata*, o tamanho e o estado funcional dessas unidades variam conforme a idade e o comportamento das operárias [6].
+As glândulas hipofaringeanas localizam-se na cabeça e são compostas por unidades secretoras chamadas ácinos. Em *M. quadrifasciata*, o tamanho e o estado funcional dessas unidades variam conforme a idade e o comportamento das operárias [6](85-referencias-bibliograficas.md#ref-16-6).
 
 As nutridoras apresentam ácinos maiores do que outras categorias, coerentes com a produção de secreções envolvidas na alimentação da cria. Quando a operária passa para atividades diferentes, a glândula pode entrar em um estado de menor desenvolvimento ou degeneração.
 
@@ -212,7 +212,7 @@ O fenômeno é um dos exemplos mais concretos de como a divisão de trabalho se 
 
 ## As glândulas mandibulares
 
-As glândulas mandibulares também apresentam dimorfismo de casta e diferenças relacionadas ao estado fisiológico. Estudos ultraestruturais de *M. quadrifasciata* mostraram que as glândulas mandibulares das operárias apresentam características distintas das encontradas nas rainhas [7].
+As glândulas mandibulares também apresentam dimorfismo de casta e diferenças relacionadas ao estado fisiológico. Estudos ultraestruturais de *M. quadrifasciata* mostraram que as glândulas mandibulares das operárias apresentam características distintas das encontradas nas rainhas [7](85-referencias-bibliograficas.md#ref-16-7).
 
 Nas operárias, a glândula participa de funções que podem envolver manipulação de alimentos, processamento de materiais e comunicação química. O fato de ela possuir organização secretora diferenciada em relação à rainha é mais uma indicação de que as castas não são simplesmente versões maiores ou menores umas das outras.
 
@@ -222,7 +222,7 @@ A mesma mandíbula usada pela operária para manipular cerume e resina está ass
 
 A vida de uma operária não é composta apenas de respostas automáticas. O aprendizado permite que o indivíduo ajuste seu comportamento às condições encontradas.
 
-Em experimentos de condicionamento clássico, *M. quadrifasciata* conseguiu discriminar odores e aprender associações entre estímulos e recompensas [9]. Outros experimentos demonstraram que informações relacionadas ao alimento podem ser transferidas entre indivíduos durante interações sociais dentro do ninho [9][10].
+Em experimentos de condicionamento clássico, *M. quadrifasciata* conseguiu discriminar odores e aprender associações entre estímulos e recompensas [9](85-referencias-bibliograficas.md#ref-16-9). Outros experimentos demonstraram que informações relacionadas ao alimento podem ser transferidas entre indivíduos durante interações sociais dentro do ninho [9](85-referencias-bibliograficas.md#ref-16-9)[10](85-referencias-bibliograficas.md#ref-16-10).
 
 Isso significa que uma operária pode chegar ao ambiente externo depois de adquirir informação e experiência dentro da própria colônia. A sociedade funciona como uma fonte de aprendizagem, além de fornecer recursos.
 
@@ -240,7 +240,7 @@ A colônia consegue, desse modo, distribuir trabalho sem criar uma profissão fi
 
 ## O componente genético do comportamento
 
-A divisão de trabalho possui elementos genéticos mensuráveis, mas isso não equivale a determinismo. Em experimentos com colônias de observação formadas por operárias jovens de diferentes colônias-mãe, Waldschmidt, Campos e De Marco Júnior encontraram ampla variação entre origens para os comportamentos analisados. Diferenças significativas foram identificadas especialmente na construção das células de cria e na preparação de própolis [3].
+A divisão de trabalho possui elementos genéticos mensuráveis, mas isso não equivale a determinismo. Em experimentos com colônias de observação formadas por operárias jovens de diferentes colônias-mãe, Waldschmidt, Campos e De Marco Júnior encontraram ampla variação entre origens para os comportamentos analisados. Diferenças significativas foram identificadas especialmente na construção das células de cria e na preparação de própolis [3](85-referencias-bibliograficas.md#ref-16-3).
 
 Esse resultado é importante porque demonstra que a variação genética pode influenciar o repertório comportamental. Ao mesmo tempo, os próprios experimentos reforçam a influência das condições sociais e da idade.
 
@@ -248,7 +248,7 @@ Uma operária não recebe um único programa comportamental codificado em seu ge
 
 ## A operária e o cérebro plástico
 
-O cérebro da operária muda com a idade e a experiência. Em *M. quadrifasciata anthidioides*, os corpos de cogumelo aumentam de volume ao longo do envelhecimento, e essa alteração ocorre ainda durante a fase predominantemente intranidal [8].
+O cérebro da operária muda com a idade e a experiência. Em *M. quadrifasciata anthidioides*, os corpos de cogumelo aumentam de volume ao longo do envelhecimento, e essa alteração ocorre ainda durante a fase predominantemente intranidal [8](85-referencias-bibliograficas.md#ref-16-8).
 
 Os corpos de cogumelo são estruturas importantes para integração de informações sensoriais, aprendizagem e memória. Seu crescimento antes da intensificação do forrageamento indica que a maturação cerebral prepara a operária para demandas comportamentais progressivamente complexas.
 
@@ -260,13 +260,13 @@ A experiência, por sua vez, retroage sobre o organismo. Uma operária que passa
 
 Para uma operária forrageadora, os olhos são fundamentais. O ambiente externo apresenta padrões de cor, contraste, movimento e orientação espacial que precisam ser interpretados rapidamente.
 
-*M. quadrifasciata* apresenta fotorreceptores sensíveis a faixas de comprimento de onda que incluem ultravioleta, azul e verde, permitindo uma percepção do ambiente floral diferente daquela disponível aos seres humanos. Estudos de visão e preferência de cor mostram ainda que a escolha de recursos não depende apenas de uma “cor” isolada, mas do conjunto de propriedades visuais do alvo [16].
+*M. quadrifasciata* apresenta fotorreceptores sensíveis a faixas de comprimento de onda que incluem ultravioleta, azul e verde, permitindo uma percepção do ambiente floral diferente daquela disponível aos seres humanos. Estudos de visão e preferência de cor mostram ainda que a escolha de recursos não depende apenas de uma “cor” isolada, mas do conjunto de propriedades visuais do alvo [16](85-referencias-bibliograficas.md#ref-16-16).
 
 O olho da operária, portanto, torna-se parte de uma ferramenta de orientação. Quanto maior a experiência, maior tende a ser a capacidade do indivíduo de utilizar informações visuais de maneira eficiente.
 
 ## As antenas e a leitura química do mundo
 
-As antenas participam de uma grande variedade de comportamentos. Em *M. quadrifasciata*, estudos microscópicos identificaram numerosos tipos de sensilas antenais e diferenças na distribuição dessas estruturas entre sexos e castas [17].
+As antenas participam de uma grande variedade de comportamentos. Em *M. quadrifasciata*, estudos microscópicos identificaram numerosos tipos de sensilas antenais e diferenças na distribuição dessas estruturas entre sexos e castas [17](85-referencias-bibliograficas.md#ref-16-17).
 
 As sensilas quimiorreceptoras permitem detectar substâncias presentes no ambiente, nos alimentos e nas companheiras. Outras estruturas sensoriais participam da mecanorrecepção.
 
@@ -280,7 +280,7 @@ A cooperação depende de troca contínua de informações. Parte dessa comunica
 
 As operárias frequentemente entram em contato físico com outras abelhas e com o substrato do ninho. Durante essas interações, podem receber informações sobre alimento, estado social ou condições locais.
 
-Em *M. quadrifasciata*, experimentos com vibrações durante a trofalaxia mostraram que o comportamento do indivíduo doador pode alterar a aprendizagem da abelha receptora [10]. Isso não significa que cada vibração possua uma tradução fixa em uma “palavra”. Significa que o sistema de comunicação é capaz de modular o estado comportamental de quem recebe o sinal.
+Em *M. quadrifasciata*, experimentos com vibrações durante a trofalaxia mostraram que o comportamento do indivíduo doador pode alterar a aprendizagem da abelha receptora [10](85-referencias-bibliograficas.md#ref-16-10). Isso não significa que cada vibração possua uma tradução fixa em uma “palavra”. Significa que o sistema de comunicação é capaz de modular o estado comportamental de quem recebe o sinal.
 
 A comunicação da operária é, portanto, contínua e integrada às próprias tarefas.
 
@@ -306,9 +306,9 @@ Uma colônia capaz de reunir indivíduos com características diferentes pode re
 
 A vida de uma operária envolve desgaste. Atividades internas e externas exigem energia, e o forrageamento acrescenta riscos ambientais que não existem da mesma maneira para indivíduos confinados ao ninho.
 
-O envelhecimento pode ser acompanhado por mudanças de massa corporal, composição fisiológica e atividade. Em *M. quadrifasciata*, o estudo de massa corporal mostrou redução progressiva depois dos primeiros dias de vida, associada pelos autores a mudanças nas atividades de provisão, trofalaxia e início do forrageamento [4].
+O envelhecimento pode ser acompanhado por mudanças de massa corporal, composição fisiológica e atividade. Em *M. quadrifasciata*, o estudo de massa corporal mostrou redução progressiva depois dos primeiros dias de vida, associada pelos autores a mudanças nas atividades de provisão, trofalaxia e início do forrageamento [4](85-referencias-bibliograficas.md#ref-16-4).
 
-A atividade externa também expõe a operária a desidratação, temperaturas extremas, predadores, acidentes e produtos químicos. Estudos experimentais mostraram que inseticidas podem alterar comportamento e estruturas neurais de operárias da espécie, evidenciando que a função da operária pode ser comprometida mesmo quando a exposição não resulta imediatamente em mortalidade [8][18].
+A atividade externa também expõe a operária a desidratação, temperaturas extremas, predadores, acidentes e produtos químicos. Estudos experimentais mostraram que inseticidas podem alterar comportamento e estruturas neurais de operárias da espécie, evidenciando que a função da operária pode ser comprometida mesmo quando a exposição não resulta imediatamente em mortalidade [8](85-referencias-bibliograficas.md#ref-16-8)[18](85-referencias-bibliograficas.md#ref-16-18).
 
 Uma colônia saudável, portanto, depende não apenas da produção de novas operárias, mas da manutenção das condições que permitem que elas completem suas funções.
 
@@ -316,9 +316,9 @@ Uma colônia saudável, portanto, depende não apenas da produção de novas ope
 
 A sensibilidade da operária a alterações ambientais possui consequências para toda a colônia. Uma forrageadora afetada pode apresentar menor capacidade locomotora, alteração de aprendizagem ou dificuldade de orientação, reduzindo a eficiência com que os recursos chegam ao ninho.
 
-Em *M. quadrifasciata anthidioides*, estudos experimentais com imidacloprido mostraram comprometimento do desenvolvimento dos corpos de cogumelo em jovens adultas e alterações de atividade locomotora [18]. O resultado é importante porque demonstra que os efeitos de um contaminante podem aparecer em estruturas e comportamentos fundamentais para a vida social.
+Em *M. quadrifasciata anthidioides*, estudos experimentais com imidacloprido mostraram comprometimento do desenvolvimento dos corpos de cogumelo em jovens adultas e alterações de atividade locomotora [18](85-referencias-bibliograficas.md#ref-16-18). O resultado é importante porque demonstra que os efeitos de um contaminante podem aparecer em estruturas e comportamentos fundamentais para a vida social.
 
-Estudos mais recentes também mostram que a exposição a diferentes agroquímicos pode ser analisada em níveis subletais, justamente porque a sobrevivência de algumas operárias não garante que a colônia permaneça funcionalmente intacta [19].
+Estudos mais recentes também mostram que a exposição a diferentes agroquímicos pode ser analisada em níveis subletais, justamente porque a sobrevivência de algumas operárias não garante que a colônia permaneça funcionalmente intacta [19](85-referencias-bibliograficas.md#ref-16-19).
 
 Essa distinção é essencial: uma operária viva, mas com capacidade reduzida de aprendizagem, locomoção ou forrageamento, pode representar uma perda funcional para a sociedade.
 
