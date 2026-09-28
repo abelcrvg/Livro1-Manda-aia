@@ -10,21 +10,15 @@ As pernas também merecem atenção especial. Em uma abelha sem ferrão, a perna
 
 ## O mesosoma
 
-Na terminologia anatômica das abelhas, é comum encontrar o termo **mesosoma** para designar a região corporal que reúne o tórax e estruturas associadas.
-
-O uso da palavra exige algum cuidado porque diferentes autores podem empregar “tórax” e “mesosoma” com pequenas diferenças de abrangência. Neste livro, o termo será usado principalmente no sentido anatômico empregado na literatura de Hymenoptera para a região locomotora do corpo da abelha.
+Na terminologia anatômica das abelhas, é comum encontrar o termo **mesosoma** para designar a região corporal que reúne o tórax e estruturas associadas. O uso da palavra exige algum cuidado porque diferentes autores podem empregar “tórax” e “mesosoma” com pequenas diferenças de abrangência. Neste livro, o termo será usado principalmente no sentido anatômico empregado na literatura de Hymenoptera para a região locomotora do corpo da abelha.
 
 Externamente, podemos reconhecer três grandes segmentos torácicos: **Protórax**, associado ao primeiro par de pernas. **Mesotórax**, associado principalmente ao segundo par de pernas e às asas anteriores. **Metatórax**, associado ao terceiro par de pernas e às asas posteriores.
 
-Nos himenópteros, entretanto, essa organização externa se tornou altamente modificada e integrada. A região anterior do abdômen está funcionalmente associada ao tórax por meio de uma cintura estreita, o que torna o corpo extremamente móvel.
-
-Para compreender uma abelha em voo, é mais útil imaginar o tórax como uma estrutura elástica e articulada do que como uma caixa rígida.
+Nos himenópteros, entretanto, essa organização externa se tornou altamente modificada e integrada. A região anterior do abdômen está funcionalmente associada ao tórax por meio de uma cintura estreita, o que torna o corpo extremamente móvel. Para compreender uma abelha em voo, é mais útil imaginar o tórax como uma estrutura elástica e articulada do que como uma caixa rígida.
 
 ## Escleritos: a estrutura do tórax
 
-O exoesqueleto torácico é constituído por diferentes placas chamadas **escleritos**. Entre elas estão estruturas dorsais, laterais e ventrais, cada uma associada a pontos específicos de articulação e inserção muscular.
-
-No dorso encontram-se grandes placas como o **pronoto**, o **mesoscuto** e o **escutelo**. Lateralmente ficam escleritos como o mesepisterno e o mesepímero. Internamente existem estruturas em forma de processos e furcas que funcionam como pontos de apoio para a musculatura.
+O exoesqueleto torácico é constituído por diferentes placas chamadas **escleritos**. Entre elas estão estruturas dorsais, laterais e ventrais, cada uma associada a pontos específicos de articulação e inserção muscular. No dorso encontram-se grandes placas como o **pronoto**, o **mesoscuto** e o **escutelo**. Lateralmente ficam escleritos como o mesepisterno e o mesepímero. Internamente existem estruturas em forma de processos e furcas que funcionam como pontos de apoio para a musculatura.
 
 Essas peças não existem isoladamente. Quando um músculo se contrai, sua força é transmitida aos escleritos. O movimento de uma placa modifica a posição de outra, e a soma dessas pequenas movimentações produz o deslocamento das asas ou das pernas.
 
@@ -34,33 +28,23 @@ O estudo de Meira e Almeida mostrou justamente como essa arquitetura varia entre
 
 Uma das melhores maneiras de compreender o tórax da mandaçaia é pensar em uma **cadeia de transmissão de força**. O músculo produz força. Essa força é aplicada a um esclerito. O esclerito se movimenta ou se deforma ligeiramente. A articulação transmite o movimento. A asa ou a perna recebe o deslocamento. O resultado aparece no ambiente como voo, pouso, caminhada ou manipulação.
 
-Em organismos tão pequenos, a eficiência dessa transmissão é essencial. Não existe espaço para sistemas mecânicos grandes e separados. Os componentes precisam ser compactos e funcionar em conjunto.
-
-É por isso que a anatomia torácica parece cheia de pequenas peças quando examinada em detalhe.
+Em organismos tão pequenos, a eficiência dessa transmissão é essencial. Não existe espaço para sistemas mecânicos grandes e separados. Os componentes precisam ser compactos e funcionar em conjunto. É por isso que a anatomia torácica parece cheia de pequenas peças quando examinada em detalhe.
 
 ## Musculatura indireta do voo
 
 O voo das abelhas depende de músculos extremamente especializados. Os chamados **músculos indiretos de voo** não precisam se ligar diretamente à asa para produzir seu movimento principal. Em vez disso, eles deformam a própria caixa torácica. Quando determinados músculos se contraem, o dorso do tórax é deslocado. Essa alteração de forma movimenta a base das asas e contribui para produzir o batimento.
 
-O mecanismo é particularmente eficiente porque permite movimentar as asas com enorme frequência sem exigir um músculo longo que acompanhe cada movimento da asa diretamente.
-
-Na *M. quadrifasciata*, a anatomia desses músculos foi documentada em detalhe no estudo comparativo de Meira e Almeida [1](85-referencias-bibliograficas.md#ref-10-1).
-
-A ideia fundamental é simples: **a asa se movimenta porque o tórax se move internamente**. O voo, portanto, começa antes da asa. Começa na musculatura torácica.
+O mecanismo é particularmente eficiente porque permite movimentar as asas com enorme frequência sem exigir um músculo longo que acompanhe cada movimento da asa diretamente. Na *M. quadrifasciata*, a anatomia desses músculos foi documentada em detalhe no estudo comparativo de Meira e Almeida [1](85-referencias-bibliograficas.md#ref-10-1). A ideia fundamental é simples: **a asa se movimenta porque o tórax se move internamente**. O voo, portanto, começa antes da asa. Começa na musculatura torácica.
 
 ## Músculos diretos do voo
 
 Além da musculatura indireta, as abelhas também possuem **músculos diretos associados à base das asas**. Esses músculos atuam sobre pequenos escleritos axilares e podem modificar a posição e a orientação das asas. Em conjunto, músculos diretos e indiretos permitem controlar não apenas o movimento para cima e para baixo, mas diferentes aspectos da orientação da asa.
 
-O estudo de Meira e Almeida identificou em *M. quadrifasciata* músculos relacionados aos escleritos mesoaxilares e metaaxilares, além de músculos associados às articulações das asas [1](85-referencias-bibliograficas.md#ref-10-1).
-
-Isso revela uma anatomia muito mais refinada do que a ideia comum de que “um músculo bate a asa para cima e outro para baixo”. O voo depende de uma rede.
+O estudo de Meira e Almeida identificou em *M. quadrifasciata* músculos relacionados aos escleritos mesoaxilares e metaaxilares, além de músculos associados às articulações das asas [1](85-referencias-bibliograficas.md#ref-10-1). Isso revela uma anatomia muito mais refinada do que a ideia comum de que “um músculo bate a asa para cima e outro para baixo”. O voo depende de uma rede.
 
 ## As asas anteriores e posteriores
 
-A mandaçaia possui dois pares de asas membranosas. As **asas anteriores** são maiores. As **asas posteriores** são menores. Durante o voo, porém, elas não funcionam como quatro superfícies completamente independentes.
-
-Ao longo da margem anterior da asa posterior existe uma fileira de pequenos ganchos denominados **hâmulos**. Esses ganchos se prendem à asa anterior e permitem que os dois pares atuem mecanicamente juntos.
+A mandaçaia possui dois pares de asas membranosas. As **asas anteriores** são maiores. As **asas posteriores** são menores. Durante o voo, porém, elas não funcionam como quatro superfícies completamente independentes. Ao longo da margem anterior da asa posterior existe uma fileira de pequenos ganchos denominados **hâmulos**. Esses ganchos se prendem à asa anterior e permitem que os dois pares atuem mecanicamente juntos.
 
 Esse acoplamento transforma as quatro asas em um sistema aerodinâmico coordenado. A presença de hâmulos é uma característica típica das abelhas e de outros himenópteros alados. Nos Meliponini, a asa posterior também apresenta um **lobo jugal**, uma das características utilizadas na caracterização do grupo [2](85-referencias-bibliograficas.md#ref-10-2).
 
@@ -68,9 +52,7 @@ Esse acoplamento transforma as quatro asas em um sistema aerodinâmico coordenad
 
 A membrana das asas é sustentada por uma rede de nervuras. Essas estruturas dão rigidez à asa sem torná-la excessivamente pesada. As nervuras delimitam células de diferentes tamanhos e também funcionam como referência para estudos de morfometria.
 
-Nos Meliponini existe uma tendência evolutiva de **redução da nervação alar** quando comparada com linhagens de abelhas que conservam uma rede mais extensa [2](85-referencias-bibliograficas.md#ref-10-2).
-
-Essa redução não significa que a asa seja frágil ou pouco funcional. Ao contrário: mostra que a estrutura foi otimizada dentro da história evolutiva do grupo.
+Nos Meliponini existe uma tendência evolutiva de **redução da nervação alar** quando comparada com linhagens de abelhas que conservam uma rede mais extensa [2](85-referencias-bibliograficas.md#ref-10-2). Essa redução não significa que a asa seja frágil ou pouco funcional. Ao contrário: mostra que a estrutura foi otimizada dentro da história evolutiva do grupo.
 
 Em estudos taxonômicos, os padrões formados pela nervação podem ser tão informativos que fotografias de asas podem ser submetidas a análises geométricas capazes de diferenciar espécies de Meliponini [3](85-referencias-bibliograficas.md#ref-10-3).
 
@@ -80,9 +62,7 @@ Uma asa aparentemente transparente pode carregar uma quantidade considerável de
 
 Francoy e colaboradores demonstraram que padrões de nervação das asas de *M. quadrifasciata* e outras abelhas sem ferrão podem ser utilizados para identificação por morfometria geométrica [3](85-referencias-bibliograficas.md#ref-10-3).
 
-Em estudo envolvendo cinco espécies do grupo, os padrões de asa permitiram distinguir as espécies mesmo quando machos e operárias foram analisados separadamente [3](85-referencias-bibliograficas.md#ref-10-3).
-
-Isso é particularmente importante porque mostra que a anatomia da asa pode funcionar como uma espécie de **assinatura morfológica**.
+Em estudo envolvendo cinco espécies do grupo, os padrões de asa permitiram distinguir as espécies mesmo quando machos e operárias foram analisados separadamente [3](85-referencias-bibliograficas.md#ref-10-3). Isso é particularmente importante porque mostra que a anatomia da asa pode funcionar como uma espécie de **assinatura morfológica**.
 
 ## Tamanho e forma não são a mesma coisa
 
@@ -90,15 +70,11 @@ Ao estudar as asas da mandaçaia, é necessário separar duas características: 
 
 Em *M. quadrifasciata anthidioides*, estudos realizados em 23 localidades do semiárido baiano encontraram estruturação geográfica do **tamanho** das asas, enquanto a **forma** apresentou maior estabilidade. O tamanho também mostrou correlação com altitude: as abelhas estudadas tendiam a apresentar asas maiores em localidades de maior altitude [4](85-referencias-bibliograficas.md#ref-10-4).
 
-Esse resultado é particularmente interessante porque sugere que diferentes componentes da anatomia podem responder de maneiras diferentes às condições ecológicas.
-
-A forma da asa está fortemente ligada à aerodinâmica. Alterá-la pode modificar como a asa interage com o ar. Já o tamanho pode variar dentro de limites sem alterar completamente a arquitetura funcional.
+Esse resultado é particularmente interessante porque sugere que diferentes componentes da anatomia podem responder de maneiras diferentes às condições ecológicas. A forma da asa está fortemente ligada à aerodinâmica. Alterá-la pode modificar como a asa interage com o ar. Já o tamanho pode variar dentro de limites sem alterar completamente a arquitetura funcional.
 
 ## O que uma asa maior significa?
 
-Não devemos transformar automaticamente uma relação entre tamanho de asa e altitude em uma explicação fisiológica definitiva. O estudo citado demonstrou uma associação estatística, não uma única causa universal.
-
-Em ambientes de maior altitude, mudanças na densidade do ar, temperatura, disponibilidade de recursos e história populacional podem estar relacionadas a diferenças corporais. Para determinar exatamente os mecanismos responsáveis, seria necessário separar experimentalmente esses fatores.
+Não devemos transformar automaticamente uma relação entre tamanho de asa e altitude em uma explicação fisiológica definitiva. O estudo citado demonstrou uma associação estatística, não uma única causa universal. Em ambientes de maior altitude, mudanças na densidade do ar, temperatura, disponibilidade de recursos e história populacional podem estar relacionadas a diferenças corporais. Para determinar exatamente os mecanismos responsáveis, seria necessário separar experimentalmente esses fatores.
 
 Isso é importante porque a morfometria mostra **o padrão**, mas nem sempre explica sozinha **a causa**. O valor científico está justamente em usar a anatomia como ponto de partida para novas perguntas.
 
@@ -118,9 +94,7 @@ A força necessária para voar não vem da asa sozinha. Os músculos do tórax p
 
 O voo é energeticamente caro. Os músculos torácicos precisam trabalhar repetidamente e em alta velocidade durante os deslocamentos. Para sustentar esse desempenho, a abelha precisa de um metabolismo capaz de disponibilizar energia rapidamente. A energia utilizada pela musculatura vem principalmente do processamento de nutrientes, enquanto o oxigênio chega aos tecidos por meio do sistema traqueal. O tórax, portanto, é também uma região de enorme demanda fisiológica.
 
-Quando uma operária entra em atividade externa, não está simplesmente “abrindo as asas”. Está ativando um conjunto muscular que exige coordenação com respiração, circulação e metabolismo.
-
-Esse custo ajuda a compreender por que fatores ambientais como temperatura podem modificar a atividade de voo, assunto que será retomado posteriormente no estudo do comportamento.
+Quando uma operária entra em atividade externa, não está simplesmente “abrindo as asas”. Está ativando um conjunto muscular que exige coordenação com respiração, circulação e metabolismo. Esse custo ajuda a compreender por que fatores ambientais como temperatura podem modificar a atividade de voo, assunto que será retomado posteriormente no estudo do comportamento.
 
 ## Primeiro, segundo e terceiro pares de pernas
 
@@ -136,9 +110,7 @@ Essa construção modular permite que a abelha ajuste com precisão a posição 
 
 ## O tarso e a fixação
 
-As extremidades das pernas possuem estruturas que ajudam a abelha a se prender às superfícies. Entre elas estão as **garras tarsais** e o **arólio**, uma estrutura membranosa associada à extremidade da perna.
-
-Nos Meliponini, as garras tarsais são simples e o grupo apresenta arólios, características incluídas entre os caracteres anatômicos utilizados para sua definição [2](85-referencias-bibliograficas.md#ref-10-2).
+As extremidades das pernas possuem estruturas que ajudam a abelha a se prender às superfícies. Entre elas estão as **garras tarsais** e o **arólio**, uma estrutura membranosa associada à extremidade da perna. Nos Meliponini, as garras tarsais são simples e o grupo apresenta arólios, características incluídas entre os caracteres anatômicos utilizados para sua definição [2](85-referencias-bibliograficas.md#ref-10-2).
 
 A importância dessas estruturas pode parecer pequena até observarmos uma abelha caminhando. Ela precisa permanecer presa a folhas, flores, madeira e paredes do ninho em diferentes orientações. Durante o voo, a aderência também é essencial para o controle do pouso. Uma pequena estrutura terminal consegue, portanto, resolver um problema mecânico importante.
 
@@ -162,17 +134,13 @@ A observação de uma operária chegando ao ninho com duas cargas de pólen nas 
 
 ## O penicilo
 
-Entre os caracteres particularmente interessantes dos Meliponini está o **penicilo**. Trata-se de um conjunto compacto de cerdas localizado próximo à margem anterior da tíbia posterior.
-
-Sua função está relacionada à movimentação do pólen para cima, em direção à corbícula, durante movimentos de articulação entre a tíbia e o basitarso [5](85-referencias-bibliograficas.md#ref-10-5).
+Entre os caracteres particularmente interessantes dos Meliponini está o **penicilo**. Trata-se de um conjunto compacto de cerdas localizado próximo à margem anterior da tíbia posterior. Sua função está relacionada à movimentação do pólen para cima, em direção à corbícula, durante movimentos de articulação entre a tíbia e o basitarso [5](85-referencias-bibliograficas.md#ref-10-5).
 
 O penicilo é, portanto, uma estrutura especializada em **processar a carga**. Ele ajuda a transformar partículas inicialmente espalhadas pela superfície corporal em uma massa organizada para transporte. Sua existência é uma excelente demonstração de como pequenas estruturas de cerdas podem assumir importância mecânica considerável.
 
 ## O rastelo
 
-Outra estrutura relevante é o **rastelo**, ou *rastellum*. Ele é formado por cerdas mais robustas na região distal interna da tíbia posterior.
-
-Seu papel está relacionado à retirada de pólen da escova de pólen da perna posterior oposta durante determinados movimentos de limpeza e transferência [5](85-referencias-bibliograficas.md#ref-10-5).
+Outra estrutura relevante é o **rastelo**, ou *rastellum*. Ele é formado por cerdas mais robustas na região distal interna da tíbia posterior. Seu papel está relacionado à retirada de pólen da escova de pólen da perna posterior oposta durante determinados movimentos de limpeza e transferência [5](85-referencias-bibliograficas.md#ref-10-5).
 
 A relação entre rastelo, penicilo, escovas e corbícula mostra que o transporte de pólen não depende de uma única estrutura. Trata-se de uma cadeia mecânica. Uma região coleta. Outra remove. Outra organiza. Outra armazena. O resultado é uma carga compacta que pode ser transportada ao ninho.
 
@@ -216,9 +184,7 @@ Ao caminhar sobre uma parede, precisa reorganizar continuamente os pontos de apo
 
 ## O tórax também precisa suportar as pernas
 
-As pernas não começam simplesmente na superfície externa. Seu ponto de ligação com o tórax envolve coxas, músculos e estruturas internas que formam uma articulação complexa.
-
-O estudo anatômico comparativo de Meira e Almeida identificou numerosos músculos associados às articulações das coxas e às estruturas internas do tórax em *M. quadrifasciata* [1](85-referencias-bibliograficas.md#ref-10-1).
+As pernas não começam simplesmente na superfície externa. Seu ponto de ligação com o tórax envolve coxas, músculos e estruturas internas que formam uma articulação complexa. O estudo anatômico comparativo de Meira e Almeida identificou numerosos músculos associados às articulações das coxas e às estruturas internas do tórax em *M. quadrifasciata* [1](85-referencias-bibliograficas.md#ref-10-1).
 
 Isso demonstra que o sistema locomotor começa no interior do corpo. A força que movimenta uma perna não é gerada na própria tíbia ou no tarso. Ela é produzida por músculos presos a estruturas próximas às articulações e transmitida por um sistema de alavancas.
 
@@ -258,9 +224,7 @@ Elas ajudam a explicar limites ecológicos. No caso da mandaçaia, a anatomia re
 
 ## Asas e altitude
 
-O estudo de Nunes e colaboradores é particularmente interessante porque mostra uma relação entre altitude e tamanho das asas em *M. q. anthidioides* [4](85-referencias-bibliograficas.md#ref-10-4).
-
-As populações analisadas em localidades mais elevadas tendiam a apresentar asas maiores. A forma, porém, mostrou muito menos variação. Isso sugere que a geometria funcional da asa permanece relativamente conservada. A espécie pode ajustar uma dimensão da estrutura sem alterar completamente sua arquitetura. É um bom exemplo de como o corpo de uma espécie não é necessariamente uma forma rígida e imutável.
+O estudo de Nunes e colaboradores é particularmente interessante porque mostra uma relação entre altitude e tamanho das asas em *M. q. anthidioides* [4](85-referencias-bibliograficas.md#ref-10-4). As populações analisadas em localidades mais elevadas tendiam a apresentar asas maiores. A forma, porém, mostrou muito menos variação. Isso sugere que a geometria funcional da asa permanece relativamente conservada. A espécie pode ajustar uma dimensão da estrutura sem alterar completamente sua arquitetura. É um bom exemplo de como o corpo de uma espécie não é necessariamente uma forma rígida e imutável.
 
 ## Uma asa também é um órgão sensorial indireto
 
@@ -274,15 +238,11 @@ Uma asa danificada pode comprometer significativamente a capacidade de voo. Para
 
 O corpo de uma operária muda ao longo da vida. A estrutura fundamental permanece, mas o desgaste pode aumentar. A pilosidade pode se alterar. As asas podem apresentar desgaste nas bordas. As articulações podem sofrer repetição mecânica. As tarefas realizadas também mudam.
 
-Esse aspecto será especialmente importante quando estudarmos a vida de uma operária, porque indivíduos que passam mais tempo em atividade externa estão expostos a exigências mecânicas diferentes daqueles que permanecem no ninho.
-
-A anatomia do adulto é, portanto, também um registro de sua história.
+Esse aspecto será especialmente importante quando estudarmos a vida de uma operária, porque indivíduos que passam mais tempo em atividade externa estão expostos a exigências mecânicas diferentes daqueles que permanecem no ninho. A anatomia do adulto é, portanto, também um registro de sua história.
 
 ## Não existe uma “perna do pólen”
 
-Apesar de a corbícula estar associada diretamente ao transporte de pólen, seria incorreto imaginar que a perna posterior seja especializada exclusivamente para essa função.
-
-Ela continua sendo uma perna. Serve para caminhar. Ajuda no pouso. Participa da limpeza. Interage com o substrato. Manipula materiais. Transporta carga. Essa multiplicidade é um dos princípios mais importantes da anatomia funcional da mandaçaia. Uma estrutura não precisa ter apenas uma função.
+Apesar de a corbícula estar associada diretamente ao transporte de pólen, seria incorreto imaginar que a perna posterior seja especializada exclusivamente para essa função. Ela continua sendo uma perna. Serve para caminhar. Ajuda no pouso. Participa da limpeza. Interage com o substrato. Manipula materiais. Transporta carga. Essa multiplicidade é um dos princípios mais importantes da anatomia funcional da mandaçaia. Uma estrutura não precisa ter apenas uma função.
 
 ## A grande especialização do pequeno corpo
 
@@ -312,9 +272,7 @@ Isso permite comparar indivíduos, castas, sexos e populações de maneira objet
 
 Grande parte da anatomia básica apresentada neste capítulo é compartilhada por outras abelhas. Quando uma característica é própria de *M. quadrifasciata*, procuramos destacá-la. Quando uma característica é típica dos Meliponini, indicamos esse contexto. Quando uma função é inferida a partir de estudos comparativos, isso também é explicitado. Essa distinção é necessária porque a biologia comparada é poderosa, mas pode gerar extrapolações indevidas.
 
-O fato de uma estrutura ter determinada função em *Apis mellifera* não significa automaticamente que a mesma função foi demonstrada experimentalmente em *M. quadrifasciata*.
-
-Uma obra realmente científica precisa manter essa fronteira.
+O fato de uma estrutura ter determinada função em *Apis mellifera* não significa automaticamente que a mesma função foi demonstrada experimentalmente em *M. quadrifasciata*. Uma obra realmente científica precisa manter essa fronteira.
 
 ## O movimento escondido atrás da aparência
 
@@ -326,6 +284,4 @@ Essa transformação rápida é possível porque a anatomia foi construída para
 
 As estruturas estudadas neste capítulo não são apenas peças evolutivas. São ferramentas de sobrevivência. Sem o tórax, o voo não existiria. Sem as asas, a colônia perderia acesso à paisagem. Sem as pernas, a abelha teria grande dificuldade para pousar, caminhar, limpar-se e transportar recursos. Sem a corbícula e suas estruturas associadas, o transporte de pólen seria realizado de outra maneira. A evolução transformou cada milímetro do corpo em parte de uma solução.
 
-Essa é a melhor maneira de olhar para a anatomia da mandaçaia: não como um catálogo de estruturas, mas como **um sistema mecânico vivo**.
-
-No próximo capítulo, o estudo do corpo continuará em outra dimensão. Depois de examinar cabeça, aparelho bucal, tórax, asas e pernas, será a vez de entrar no **abdômen e nas estruturas internas**, observando aquilo que o olho humano não consegue ver: órgãos, sistemas, músculos, digestão, circulação, respiração, reprodução e as estruturas que mantêm funcionando a pequena sociedade.
+Essa é a melhor maneira de olhar para a anatomia da mandaçaia: não como um catálogo de estruturas, mas como **um sistema mecânico vivo**. No próximo capítulo, o estudo do corpo continuará em outra dimensão. Depois de examinar cabeça, aparelho bucal, tórax, asas e pernas, será a vez de entrar no **abdômen e nas estruturas internas**, observando aquilo que o olho humano não consegue ver: órgãos, sistemas, músculos, digestão, circulação, respiração, reprodução e as estruturas que mantêm funcionando a pequena sociedade.
