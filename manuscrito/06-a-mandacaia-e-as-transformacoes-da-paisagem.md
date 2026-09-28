@@ -22,7 +22,7 @@ Para uma abelha que depende de árvores para nidificação e utiliza plantas dis
 
 Um fragmento menor pode possuir menos árvores maduras. Um fragmento isolado pode ficar distante de outras áreas com recursos. Uma borda muito extensa pode estar submetida a condições diferentes das encontradas no interior. O resultado final não depende, portanto, apenas da área de floresta que restou, mas da **configuração espacial da paisagem**.
 
-Modelagens ecológicas que utilizaram *M. quadrifasciata* como espécie focal incorporaram justamente essa dimensão. Em trabalhos voltados à conservação, a adequação do habitat foi analisada em conjunto com variáveis climáticas e fatores relacionados à distribuição de árvores importantes para a nidificação e à capacidade de deslocamento da espécie [1].
+Modelagens ecológicas que utilizaram *M. quadrifasciata* como espécie focal incorporaram justamente essa dimensão. Em trabalhos voltados à conservação, a adequação do habitat foi analisada em conjunto com variáveis climáticas e fatores relacionados à distribuição de árvores importantes para a nidificação e à capacidade de deslocamento da espécie [1](85-referencias-bibliograficas.md#ref-06-1).
 
 A conectividade, nesse contexto, não significa simplesmente que duas manchas verdes estejam ligadas visualmente. Significa que os elementos da paisagem permitem algum grau de movimento ou utilização entre áreas relevantes. Uma matriz agrícola, um jardim, uma faixa arborizada ou um corredor ripário podem exercer funções distintas conforme a estrutura da paisagem e as necessidades da espécie.
 
@@ -32,7 +32,7 @@ Entre as transformações da paisagem, a retirada de árvores maduras merece ate
 
 Uma árvore jovem pode substituir parte das funções de uma árvore antiga, mas não a substitui imediatamente como estrutura ecológica. Cavidades, grandes galhos, troncos espessos e outras características associadas a indivíduos maduros levam tempo para se formar.
 
-Para a *M. quadrifasciata*, esse aspecto é particularmente relevante porque a espécie utiliza cavidades para instalar seus ninhos. Em estudo realizado no Cerrado, Antonini e Martins encontraram associação entre a ocorrência de ninhos e características estruturais das árvores, incluindo o diâmetro do tronco e dos galhos, a altura e a disponibilidade de estruturas adequadas para nidificação [2].
+Para a *M. quadrifasciata*, esse aspecto é particularmente relevante porque a espécie utiliza cavidades para instalar seus ninhos. Em estudo realizado no Cerrado, Antonini e Martins encontraram associação entre a ocorrência de ninhos e características estruturais das árvores, incluindo o diâmetro do tronco e dos galhos, a altura e a disponibilidade de estruturas adequadas para nidificação [2](85-referencias-bibliograficas.md#ref-06-2).
 
 Esse resultado tem uma consequência importante: **uma paisagem pode perder capacidade de sustentar novas colônias antes mesmo de parecer intensamente desmatada**.
 
@@ -46,7 +46,7 @@ A conservação da vegetação, portanto, não pode ser medida apenas em hectare
 
 Fragmentação não significa que todo fragmento pequeno seja irrelevante.
 
-Estudos realizados em ambientes urbanos demonstram que a *M. quadrifasciata* pode utilizar remanescentes florestais inseridos em paisagens muito modificadas. Em Belo Horizonte, Antonini, Costa e Martins registraram a espécie visitando 22 das 103 espécies de plantas em florescimento observadas no fragmento estudado [3].
+Estudos realizados em ambientes urbanos demonstram que a *M. quadrifasciata* pode utilizar remanescentes florestais inseridos em paisagens muito modificadas. Em Belo Horizonte, Antonini, Costa e Martins registraram a espécie visitando 22 das 103 espécies de plantas em florescimento observadas no fragmento estudado [3](85-referencias-bibliograficas.md#ref-06-3).
 
 Esse tipo de evidência é importante porque mostra que **qualidade do fragmento e contexto da paisagem precisam ser analisados em conjunto**.
 
@@ -62,7 +62,7 @@ Essa distinção entre **presença local**, **persistência** e **manutenção p
 
 Pesquisas mais recentes tornaram essa relação ainda mais evidente.
 
-Antonini, Martins e Cardoso avaliaram, em 2025, fragmentos florestais inseridos em uma grande metrópole brasileira e investigaram quais características locais e da paisagem estavam associadas à ocorrência de *M. quadrifasciata*. A espécie foi encontrada em pouco mais da metade dos fragmentos amostrados. Os fragmentos com presença da abelha apresentavam melhores indicadores de estrutura florestal, enquanto maior perturbação local e maior urbanização no entorno estiveram associadas à ausência da espécie [4].
+Antonini, Martins e Cardoso avaliaram, em 2025, fragmentos florestais inseridos em uma grande metrópole brasileira e investigaram quais características locais e da paisagem estavam associadas à ocorrência de *M. quadrifasciata*. A espécie foi encontrada em pouco mais da metade dos fragmentos amostrados. Os fragmentos com presença da abelha apresentavam melhores indicadores de estrutura florestal, enquanto maior perturbação local e maior urbanização no entorno estiveram associadas à ausência da espécie [4](85-referencias-bibliograficas.md#ref-06-4).
 
 Esse resultado não deve ser transformado em uma porcentagem geral de ocupação urbana da mandaçaia. O estudo foi realizado em uma área geográfica específica e em um conjunto determinado de fragmentos. Seu valor está em demonstrar que **uma espécie amplamente distribuída regionalmente pode apresentar ausência local associada à qualidade do habitat e ao grau de urbanização**.
 
@@ -88,7 +88,7 @@ Essa heterogeneidade explica por que a pergunta “a mandaçaia vive na cidade?�
 
 A questão relevante é **quais componentes da cidade fornecem condições para que a colônia continue existindo**.
 
-O estudo de Antonini, Costa e Martins já havia demonstrado a utilização de recursos florais em um fragmento florestal urbano [3]. O estudo de Antonini, Martins e Cardoso mostrou, em escala mais ampla, que a ocorrência entre fragmentos urbanos estava relacionada à estrutura da vegetação e à intensidade da perturbação [4]. Em conjunto, essas evidências apontam para uma conclusão cuidadosa: cidades podem conter habitat funcional para a mandaçaia, mas a simples presença de “área verde” não garante adequação.
+O estudo de Antonini, Costa e Martins já havia demonstrado a utilização de recursos florais em um fragmento florestal urbano [3](85-referencias-bibliograficas.md#ref-06-3). O estudo de Antonini, Martins e Cardoso mostrou, em escala mais ampla, que a ocorrência entre fragmentos urbanos estava relacionada à estrutura da vegetação e à intensidade da perturbação [4](85-referencias-bibliograficas.md#ref-06-4). Em conjunto, essas evidências apontam para uma conclusão cuidadosa: cidades podem conter habitat funcional para a mandaçaia, mas a simples presença de “área verde” não garante adequação.
 
 ## Plantas ornamentais, plantas exóticas e recursos
 
@@ -96,7 +96,7 @@ Outro efeito importante da urbanização é a alteração da composição vegeta
 
 Uma planta ornamental ou exótica pode fornecer néctar ou pólen e, portanto, ser utilizada pelas abelhas. Porém, a presença de algumas plantas floridas não significa que a paisagem possua a mesma diversidade e estabilidade de recursos proporcionadas por uma comunidade vegetal mais complexa.
 
-Pesquisas recentes sobre o forrageamento de *M. quadrifasciata* em São Paulo analisaram a composição do pólen coletado pelas colônias e a relação desse material com características da paisagem urbana [5]. O estudo encontrou utilização de plantas nativas e introduzidas, evidenciando que a espécie consegue explorar uma flora heterogênea em ambiente altamente modificado.
+Pesquisas recentes sobre o forrageamento de *M. quadrifasciata* em São Paulo analisaram a composição do pólen coletado pelas colônias e a relação desse material com características da paisagem urbana [5](85-referencias-bibliograficas.md#ref-06-5). O estudo encontrou utilização de plantas nativas e introduzidas, evidenciando que a espécie consegue explorar uma flora heterogênea em ambiente altamente modificado.
 
 Esse resultado é relevante porque demonstra **flexibilidade de uso**, mas não deve ser interpretado como equivalência ecológica entre uma vegetação nativa diversificada e um conjunto de espécies ornamentais.
 
@@ -114,7 +114,7 @@ A conversão da vegetação natural em sistemas agrícolas também costuma simpl
 
 Além disso, determinadas práticas agrícolas introduzem uma segunda dimensão: a exposição a produtos químicos.
 
-Experimentos com *M. quadrifasciata* mostraram que diferentes inseticidas e acaricidas podem produzir respostas distintas de acordo com a substância e a via de exposição. Em estudo com produtos utilizados em morangueiro, Piovesan e colaboradores observaram efeitos letais e subletais que variaram conforme o pesticida, a espécie e a via de exposição [6].
+Experimentos com *M. quadrifasciata* mostraram que diferentes inseticidas e acaricidas podem produzir respostas distintas de acordo com a substância e a via de exposição. Em estudo com produtos utilizados em morangueiro, Piovesan e colaboradores observaram efeitos letais e subletais que variaram conforme o pesticida, a espécie e a via de exposição [6](85-referencias-bibliograficas.md#ref-06-6).
 
 Esses resultados não autorizam transformar qualquer aplicação agrícola em uma explicação automática para alterações observadas em uma colônia. Formulação, concentração, via de contato, persistência, frequência de aplicação e condições ambientais podem mudar consideravelmente a exposição real.
 
@@ -126,7 +126,7 @@ Uma cultura pode fornecer alimento e, simultaneamente, criar uma oportunidade de
 
 A exposição também não se limita às abelhas adultas.
 
-Em estudo experimental publicado em 2018, Seide e colaboradores avaliaram glyphosate e proteínas Cry em fases imaturas de *M. quadrifasciata*. Nas condições experimentais, o glyphosate provocou mortalidade larval, enquanto determinadas proteínas Cry alteraram o desenvolvimento das larvas [7].
+Em estudo experimental publicado em 2018, Seide e colaboradores avaliaram glyphosate e proteínas Cry em fases imaturas de *M. quadrifasciata*. Nas condições experimentais, o glyphosate provocou mortalidade larval, enquanto determinadas proteínas Cry alteraram o desenvolvimento das larvas [7](85-referencias-bibliograficas.md#ref-06-7).
 
 O significado desse resultado é importante para a biologia da colônia. Uma colônia não é constituída apenas pelos indivíduos que voam para fora do ninho. Grande parte de seu potencial futuro está representada por indivíduos em desenvolvimento.
 
@@ -144,11 +144,11 @@ Uma árvore capaz de oferecer alimento pode estar em um local, enquanto outra fo
 
 Por isso, a qualidade de uma paisagem não depende apenas de **quanto recurso existe**, mas também de **onde esse recurso está**.
 
-Pesquisas recentes sobre a capacidade de retorno da *M. quadrifasciata* em paisagens fragmentadas ajudaram a medir esse problema de maneira experimental. Toppa e colaboradores liberaram 1.200 operárias marcadas por RFID em diferentes períodos sazonais; 165 retornaram às colônias. Duas retornaram a partir de 7,5 km, a maior distância de retorno registrada para a espécie nesse estudo [8].
+Pesquisas recentes sobre a capacidade de retorno da *M. quadrifasciata* em paisagens fragmentadas ajudaram a medir esse problema de maneira experimental. Toppa e colaboradores liberaram 1.200 operárias marcadas por RFID em diferentes períodos sazonais; 165 retornaram às colônias. Duas retornaram a partir de 7,5 km, a maior distância de retorno registrada para a espécie nesse estudo [8](85-referencias-bibliograficas.md#ref-06-8).
 
 A interpretação correta desse resultado exige cuidado. Trata-se de uma medida de **homing**, ou capacidade de retorno ao ninho após deslocamento experimental. Não equivale automaticamente à distância rotineira de forrageamento de uma colônia nem define um limite universal para a espécie.
 
-Ainda assim, o experimento demonstrou uma tendência importante: a probabilidade de retorno diminuiu acentuadamente com a distância, e a condição da vegetação ao longo das rotas também esteve relacionada ao sucesso de retorno [8].
+Ainda assim, o experimento demonstrou uma tendência importante: a probabilidade de retorno diminuiu acentuadamente com a distância, e a condição da vegetação ao longo das rotas também esteve relacionada ao sucesso de retorno [8](85-referencias-bibliograficas.md#ref-06-8).
 
 Isso acrescenta uma dimensão importante ao conceito de conectividade.
 
@@ -158,9 +158,9 @@ A ideia de **conectividade funcional** ajuda a explicar por que duas paisagens v
 
 Duas áreas verdes podem estar próximas no mapa, mas separadas por um ambiente pouco favorável ao deslocamento. Da mesma maneira, áreas fisicamente separadas podem apresentar elementos intermediários que facilitam algum grau de circulação.
 
-Em estudos de modelagem para *M. quadrifasciata*, características da cobertura vegetal e da estrutura do território foram consideradas na identificação de áreas importantes para a conservação, justamente porque a simples presença de habitat adequado em pontos isolados não responde à questão da conectividade [1].
+Em estudos de modelagem para *M. quadrifasciata*, características da cobertura vegetal e da estrutura do território foram consideradas na identificação de áreas importantes para a conservação, justamente porque a simples presença de habitat adequado em pontos isolados não responde à questão da conectividade [1](85-referencias-bibliograficas.md#ref-06-1).
 
-O conceito é especialmente importante para espécies sociais. Durante a formação natural de uma nova colônia de abelhas sem ferrão, o novo local precisa ser preparado antes da separação da colônia de origem, o que restringe a distância em que a expansão natural ocorre. Estudos sobre fragmentos urbanos destacam esse aspecto como uma das características que tornam os Meliponini sensíveis à perda e ao isolamento do habitat [4].
+O conceito é especialmente importante para espécies sociais. Durante a formação natural de uma nova colônia de abelhas sem ferrão, o novo local precisa ser preparado antes da separação da colônia de origem, o que restringe a distância em que a expansão natural ocorre. Estudos sobre fragmentos urbanos destacam esse aspecto como uma das características que tornam os Meliponini sensíveis à perda e ao isolamento do habitat [4](85-referencias-bibliograficas.md#ref-06-4).
 
 A conservação, nesse contexto, deixa de ser simplesmente a proteção de “ilhas verdes” e passa a incluir a **qualidade das conexões entre elas**.
 
@@ -174,7 +174,7 @@ Ainda assim, quando diversos elementos se combinam, podem reduzir a distância e
 
 Para uma abelha que precisa sair do ninho, localizar fontes alimentares e retornar, uma paisagem com recursos distribuídos de maneira contínua ou semiconectada pode ser diferente de uma paisagem formada por grandes vazios ecológicos.
 
-O estudo de Toppa e colaboradores é especialmente interessante nesse contexto porque não tratou a distância como único fator. O sucesso de retorno esteve associado também a características da cobertura vegetal ao longo das rotas possíveis [8].
+O estudo de Toppa e colaboradores é especialmente interessante nesse contexto porque não tratou a distância como único fator. O sucesso de retorno esteve associado também a características da cobertura vegetal ao longo das rotas possíveis [8](85-referencias-bibliograficas.md#ref-06-8).
 
 Isso reforça uma ideia que pode parecer simples, mas possui grande importância para a conservação: **o caminho entre dois pontos também faz parte do habitat funcional**.
 
@@ -184,7 +184,7 @@ As transformações da paisagem não acontecem apenas no espaço. Também aconte
 
 Mudanças de temperatura e precipitação podem alterar períodos de floração, disponibilidade de água e condições de atividade das abelhas. Uma paisagem que atualmente oferece uma combinação adequada de recursos pode apresentar outra configuração ecológica no futuro.
 
-Modelagens que utilizaram *M. quadrifasciata* como espécie focal já combinaram mudanças climáticas e configuração de habitat para avaliar como diferentes cenários podem modificar áreas de adequação e possibilidades de conservação [1].
+Modelagens que utilizaram *M. quadrifasciata* como espécie focal já combinaram mudanças climáticas e configuração de habitat para avaliar como diferentes cenários podem modificar áreas de adequação e possibilidades de conservação [1](85-referencias-bibliograficas.md#ref-06-1).
 
 Esses resultados devem ser interpretados como **projeções condicionadas a modelos e premissas**, não como previsões exatas do futuro de cada colônia.
 
