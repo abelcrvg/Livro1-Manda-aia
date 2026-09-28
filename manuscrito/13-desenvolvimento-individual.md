@@ -482,11 +482,11 @@ A diferenciação de casta, portanto, não significa simplesmente “órgão pre
 
 O desenvolvimento dos machos segue outra trajetória.
 
-Os machos podem ser **haploides**, como resultado do desenvolvimento a partir de ovos não fecundados, ou **diploides** em determinadas circunstâncias genéticas associadas ao sistema de determinação sexual dos Meliponini [15](85-referencias-bibliograficas.md#ref-13-15).
+Os machos podem ser **haploides**, como resultado do desenvolvimento a partir de ovos não fecundados, ou **diploides** em determinadas circunstâncias genéticas associadas ao sistema de determinação sexual dos Meliponini [11](85-referencias-bibliograficas.md#ref-13-11).
 
-Em *M. quadrifasciata*, machos diploides foram estudados comparativamente com machos haploides, rainhas e operárias, inclusive por meio da expressão de genes relacionados à casta e ao desenvolvimento [15](85-referencias-bibliograficas.md#ref-13-15).
+Em *M. quadrifasciata*, machos diploides foram estudados comparativamente com machos haploides, rainhas e operárias, inclusive por meio da expressão de genes relacionados à casta e ao desenvolvimento [11](85-referencias-bibliograficas.md#ref-13-11).
 
-Os estudos mostram que machos diploides podem apresentar perfis moleculares mais próximos dos machos haploides e das operárias do que das rainhas, além de diferenças na expressão gênica durante os primeiros dias de vida adulta [15](85-referencias-bibliograficas.md#ref-13-15).
+Os estudos mostram que machos diploides podem apresentar perfis moleculares mais próximos dos machos haploides e das operárias do que das rainhas, além de diferenças na expressão gênica durante os primeiros dias de vida adulta [11](85-referencias-bibliograficas.md#ref-13-11).
 
 Esses indivíduos são importantes para compreender a relação entre ploidia, sexo e desenvolvimento.
 
