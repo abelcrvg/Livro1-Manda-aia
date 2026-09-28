@@ -248,3 +248,29 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 <a id="ref-13-14"></a>
 **[14]** SERRÃO, J. E.; NAVES, A. P.; ZANUNCIO, J. C. Modifications in the oviducts of workers and queens of *Melipona quadrifasciata anthidioides* (Hymenoptera: Apidae) with different ages. *Protoplasma*, v. 248, n. 4, p. 767–773, 2011. DOI: 10.1007/s00709-010-0245-2.
 
+
+## Capítulo 14 — A Colônia
+
+<a id="ref-14-1"></a>
+**[1]** TÓTH, É.; QUIRINO, J. M. E.; FRANCOY, T. M.; LIMA, K. A.; IMPERATRIZ-FONSECA, V. L. Comunicação e organização social em colônias de Meliponini. Referência de base utilizada para estimativas de população colonial de *Melipona quadrifasciata*.
+
+<a id="ref-14-2"></a>
+**[2]** RAMALHO, M.; IMPERATRIZ-FONSECA, V. L.; GIANNINI, T. C. Within-colony size variation of foragers and pollen load capacity in the stingless bee *Melipona quadrifasciata anthidioides* Lepeletier (Apidae, Hymenoptera). *Apidologie*, v. 29, n. 3, p. 221–228, 1998. DOI: 10.1051/apido:19980302.
+
+<a id="ref-14-3"></a>
+**[3]** ENGEL, M. S.; RASMUSSEN, C.; AYALA, R.; DE OLIVEIRA, F. F. Stingless bee classification and biology (Hymenoptera, Apidae): a review, with an updated key to genera and subgenera. *Journal of Hymenoptera Research*, v. 94, 2023. DOI: 10.3897/jhr.94.107870.
+
+<a id="ref-14-4"></a>
+**[4]** BERNARDES, R. C.; et al. Estudos sobre fisiologia reprodutiva e organização social de *Melipona quadrifasciata*. Referência consolidada na bibliografia temática sobre castas e reprodução.
+
+<a id="ref-14-5"></a>
+**[5]** WALDSCHMIDT, A. M.; CAMPOS, L. A. O.; DE MARCO JÚNIOR, P. Genetic variability of behavior in *Melipona quadrifasciata* (Hymenoptera: Meliponinae). *Brazilian Journal of Genetics*, v. 20, n. 4, 1997. DOI: 10.1590/S0100-84551997000400007.
+
+<a id="ref-14-6"></a>
+**[6]** CRUZ-LANDIM, C. Ovarian development in Meliponine bees (Hymenoptera: Apidae): the effect of queen presence and food on worker ovary development and egg production. *Genetics and Molecular Biology*, v. 23, n. 1, p. 83–88, 2000. DOI: 10.1590/S1415-47572000000100015.
+
+<a id="ref-14-7"></a>
+**[7]** ALVES, D. A.; MENEZES, C.; IMPERATRIZ-FONSECA, V. L.; WENSELEERS, T. First discovery of a rare polygyne colony in the stingless bee *Melipona quadrifasciata* (Apidae, Meliponini). *Apidologie*, v. 42, n. 2, p. 211–213, 2011. DOI: 10.1051/apido/2010053.
+
+<a id="ref-14-8"></a>
+**[8]** KERR, W. E.; VENCOVSKY, R. Estimation of the number of alleles in a stingless bee population. *Revista Brasileira de Genética*, 1982. Referência histórica sobre o sistema de determinação sexual em Melipona.
