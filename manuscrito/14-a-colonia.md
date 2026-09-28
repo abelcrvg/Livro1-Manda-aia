@@ -2,7 +2,7 @@
 
 Uma mandaçaia isolada é um animal; uma colônia de mandaçaias é uma sociedade. A diferença entre essas duas escalas é fundamental para compreender *Melipona quadrifasciata*. Muitos dos comportamentos que parecem extraordinários quando observados em uma única abelha só adquirem seu verdadeiro significado quando considerados dentro do conjunto de indivíduos que compartilha o mesmo ninho, utiliza os mesmos recursos e participa de uma mesma estrutura reprodutiva.
 
-A colônia é a unidade social na qual a espécie mantém sua existência ao longo do tempo. Ela reúne indivíduos pertencentes a diferentes castas e fases da vida, além de crias em desenvolvimento e estruturas construídas ou utilizadas pela própria sociedade. Em condições típicas, uma colônia de *M. quadrifasciata* possui uma única rainha reprodutiva e algumas centenas de operárias adultas; a literatura frequentemente cita aproximadamente **300 a 400 adultos**, embora colônias fortes possam atingir populações consideravelmente maiores e estudos de criação já tenham trabalhado com ninhos contendo cerca de 800 a 900 indivíduos [1][2].
+A colônia é a unidade social na qual a espécie mantém sua existência ao longo do tempo. Ela reúne indivíduos pertencentes a diferentes castas e fases da vida, além de crias em desenvolvimento e estruturas construídas ou utilizadas pela própria sociedade. Em condições típicas, uma colônia de *M. quadrifasciata* possui uma única rainha reprodutiva e algumas centenas de operárias adultas; a literatura frequentemente cita aproximadamente **300 a 400 adultos**, embora colônias fortes possam atingir populações consideravelmente maiores e estudos de criação já tenham trabalhado com ninhos contendo cerca de 800 a 900 indivíduos [1](85-referencias-bibliograficas.md#ref-14-1)[2](85-referencias-bibliograficas.md#ref-14-2).
 
 Esse número, entretanto, não deve ser transformado em uma medida fixa. A população de uma colônia varia com seu estado, idade, condições ambientais, disponibilidade de alimento, produção de cria e história recente. Uma colônia em crescimento não possui necessariamente a mesma composição de uma colônia que atravessou um período de escassez. Da mesma forma, a força observada em um determinado dia não permite concluir, sozinha, como estará a colônia meses depois.
 
@@ -10,7 +10,7 @@ A colônia precisa ser compreendida como um **sistema dinâmico**.
 
 ## Uma sociedade permanente
 
-As abelhas sem ferrão pertencem ao grupo das abelhas altamente eusociais. A eusocialidade é caracterizada, entre outros aspectos, pela existência de reprodução concentrada em determinados indivíduos e por uma divisão de trabalho entre gerações e castas. Em *M. quadrifasciata*, essa organização assume uma forma particularmente elaborada porque a colônia permanece viva por sucessivos períodos reprodutivos, produzindo continuamente novos indivíduos enquanto conserva uma estrutura social relativamente estável [3].
+As abelhas sem ferrão pertencem ao grupo das abelhas altamente eusociais. A eusocialidade é caracterizada, entre outros aspectos, pela existência de reprodução concentrada em determinados indivíduos e por uma divisão de trabalho entre gerações e castas. Em *M. quadrifasciata*, essa organização assume uma forma particularmente elaborada porque a colônia permanece viva por sucessivos períodos reprodutivos, produzindo continuamente novos indivíduos enquanto conserva uma estrutura social relativamente estável [3](85-referencias-bibliograficas.md#ref-14-3).
 
 Essa permanência distingue a mandaçaia de muitos insetos sociais de vida anual.
 
@@ -44,7 +44,7 @@ Essas expressões podem ser úteis, mas precisam ser tratadas com precisão.
 
 A força de uma colônia não corresponde apenas ao número de adultos. A quantidade e a distribuição da cria, o estado da rainha, a disponibilidade de alimento, a atividade de forrageamento, a organização do ninho e a capacidade de responder às mudanças ambientais também contribuem para o estado geral da sociedade.
 
-Estudos experimentais com *M. quadrifasciata* já trabalharam com colônias de aproximadamente 800 a 900 indivíduos e mostraram que características como tamanho corporal das operárias podem variar de acordo com o estado da colônia [2]. Colônias classificadas como mais fracas apresentaram, em média, forrageadoras menores, mas essas abelhas também apresentaram maior capacidade relativa de transporte de pólen por unidade de massa corporal. O resultado demonstra que a população de uma colônia não deve ser analisada isoladamente de sua composição e de seu desempenho [2].
+Estudos experimentais com *M. quadrifasciata* já trabalharam com colônias de aproximadamente 800 a 900 indivíduos e mostraram que características como tamanho corporal das operárias podem variar de acordo com o estado da colônia [2](85-referencias-bibliograficas.md#ref-14-2). Colônias classificadas como mais fracas apresentaram, em média, forrageadoras menores, mas essas abelhas também apresentaram maior capacidade relativa de transporte de pólen por unidade de massa corporal. O resultado demonstra que a população de uma colônia não deve ser analisada isoladamente de sua composição e de seu desempenho [2](85-referencias-bibliograficas.md#ref-14-2).
 
 Uma colônia numerosa não é automaticamente uma colônia eficiente, assim como uma colônia pequena não é necessariamente incapaz de sobreviver.
 
@@ -68,7 +68,7 @@ A colônia é, portanto, uma estrutura em que cada componente possui importânci
 
 ## A rainha como centro reprodutivo
 
-Em condições típicas, uma colônia de *M. quadrifasciata* é organizada em torno de uma **única rainha fisogástrica** [3][4].
+Em condições típicas, uma colônia de *M. quadrifasciata* é organizada em torno de uma **única rainha fisogástrica** [3](85-referencias-bibliograficas.md#ref-14-3)[4](85-referencias-bibliograficas.md#ref-14-4).
 
 Essa rainha é especializada na produção de ovos e apresenta uma fisiologia profundamente diferente da das operárias.
 
@@ -126,7 +126,7 @@ Uma das propriedades mais impressionantes de *M. quadrifasciata* é a divisão d
 
 As operárias não desempenham todas as tarefas com a mesma frequência durante toda a vida.
 
-Estudos de comportamento realizados especificamente com a espécie demonstraram que a idade e as necessidades da colônia influenciam fortemente a distribuição das atividades [5].
+Estudos de comportamento realizados especificamente com a espécie demonstraram que a idade e as necessidades da colônia influenciam fortemente a distribuição das atividades [5](85-referencias-bibliograficas.md#ref-14-5).
 
 Isso é conhecido como **polietismo etário**, ou divisão de trabalho relacionada à idade.
 
@@ -152,7 +152,7 @@ Se a população diminui, as tarefas precisam ser redistribuídas entre menos in
 
 Essa flexibilidade é uma propriedade da sociedade, não de uma única abelha.
 
-Estudos com colônias experimentais contendo operárias jovens de diferentes origens demonstraram variação genética em alguns comportamentos, especialmente na construção de células de cria e no processamento de própolis [5]. Os autores concluíram que idade e necessidades da colônia são fatores importantes na expressão da divisão de trabalho.
+Estudos com colônias experimentais contendo operárias jovens de diferentes origens demonstraram variação genética em alguns comportamentos, especialmente na construção de células de cria e no processamento de própolis [5](85-referencias-bibliograficas.md#ref-14-5). Os autores concluíram que idade e necessidades da colônia são fatores importantes na expressão da divisão de trabalho.
 
 A organização social, portanto, resulta da interação entre **biologia individual, história do desenvolvimento, genética e estado da colônia**.
 
@@ -180,9 +180,9 @@ O comportamento emerge da interação entre ambos.
 
 A relação entre tamanho corporal das operárias e estado da colônia oferece outro exemplo dessa flexibilidade.
 
-Ramalho, Imperatriz-Fonseca e Giannini estudaram a variação de tamanho das forrageadoras de *M. q. anthidioides* dentro das colônias e encontraram diferenças relacionadas ao estado da sociedade [2].
+Ramalho, Imperatriz-Fonseca e Giannini estudaram a variação de tamanho das forrageadoras de *M. q. anthidioides* dentro das colônias e encontraram diferenças relacionadas ao estado da sociedade [2](85-referencias-bibliograficas.md#ref-14-2).
 
-Em média, operárias de colônias fracas apresentaram tamanho menor do que aquelas de colônias fortes. Ao mesmo tempo, as menores conseguiram transportar uma quantidade de pólen relativamente maior quando comparada ao próprio peso corporal [2].
+Em média, operárias de colônias fracas apresentaram tamanho menor do que aquelas de colônias fortes. Ao mesmo tempo, as menores conseguiram transportar uma quantidade de pólen relativamente maior quando comparada ao próprio peso corporal [2](85-referencias-bibliograficas.md#ref-14-2).
 
 Esse resultado não significa que uma colônia “produza abelhas pequenas de propósito” sempre que fica fraca.
 
@@ -232,7 +232,7 @@ A presença da rainha tem efeitos que vão além da produção de ovos.
 
 Em abelhas sociais, sinais associados à rainha podem influenciar comportamento, fisiologia reprodutiva e organização social.
 
-Na mandaçaia, a presença ou ausência da rainha pode alterar o estado reprodutivo das operárias, que possuem ovários capazes de se desenvolver em determinadas circunstâncias [6].
+Na mandaçaia, a presença ou ausência da rainha pode alterar o estado reprodutivo das operárias, que possuem ovários capazes de se desenvolver em determinadas circunstâncias [6](85-referencias-bibliograficas.md#ref-14-6).
 
 Essa relação demonstra que a sociedade não funciona apenas por regras internas fixas.
 
@@ -266,7 +266,7 @@ A substituição da rainha, portanto, representa um processo crítico para a con
 
 Apesar do padrão normalmente monogínico, *M. quadrifasciata* possui um registro excepcional de **poliginia temporal**.
 
-Alves e colaboradores documentaram uma colônia na qual **oito rainhas fisiogástricas em postura coexistiam**, e análises genéticas indicaram reprodução efetivamente compartilhada por várias delas, embora com forte assimetria na contribuição reprodutiva [7].
+Alves e colaboradores documentaram uma colônia na qual **oito rainhas fisiogástricas em postura coexistiam**, e análises genéticas indicaram reprodução efetivamente compartilhada por várias delas, embora com forte assimetria na contribuição reprodutiva [7](85-referencias-bibliograficas.md#ref-14-7).
 
 Esse caso é extremamente importante justamente porque não deve ser tratado como regra.
 
@@ -284,7 +284,7 @@ Em Meliponini, novas rainhas podem surgir antes que uma delas assuma definitivam
 
 Isso pode produzir situações temporárias de competição, aceitação, rejeição e reorganização.
 
-Em *Melipona*, rainhas virgens também podem ser mantidas pelas operárias em determinadas estruturas do ninho [3].
+Em *Melipona*, rainhas virgens também podem ser mantidas pelas operárias em determinadas estruturas do ninho [3](85-referencias-bibliograficas.md#ref-14-3).
 
 A sociedade possui, portanto, mecanismos para produzir e administrar possíveis substitutas.
 
@@ -304,7 +304,7 @@ Isso significa que sua presença na colônia pode variar de acordo com o estado 
 
 Em determinados períodos, o número de machos pode aumentar, enquanto em outros eles podem ser menos numerosos.
 
-A existência de machos também possui consequências genéticas importantes, particularmente em uma espécie com determinação sexual baseada em alelos XO, na qual cruzamentos entre indivíduos geneticamente incompatíveis podem aumentar a produção de machos diploides [8].
+A existência de machos também possui consequências genéticas importantes, particularmente em uma espécie com determinação sexual baseada em alelos XO, na qual cruzamentos entre indivíduos geneticamente incompatíveis podem aumentar a produção de machos diploides [8](85-referencias-bibliograficas.md#ref-14-8).
 
 Assim, a presença masculina não deve ser vista apenas como uma categoria visual.
 
@@ -314,11 +314,11 @@ Ela está ligada à genética e à dinâmica reprodutiva da colônia.
 
 *Melipona quadrifasciata* possui um sistema de determinação sexual no qual a homozigose em loci relacionados ao sexo pode produzir machos diploides.
 
-Esses indivíduos foram estudados especificamente na espécie, inclusive por meio de análises citogenéticas e de expressão gênica [8].
+Esses indivíduos foram estudados especificamente na espécie, inclusive por meio de análises citogenéticas e de expressão gênica [8](85-referencias-bibliograficas.md#ref-14-8).
 
 A ocorrência de machos diploides está relacionada à estrutura genética da população e ao parentesco entre parceiros reprodutivos.
 
-Em populações pequenas, a diversidade dos alelos sexuais pode ser reduzida, aumentando a possibilidade de cruzamentos que produzam descendentes diploides masculinos [9].
+Em populações pequenas, a diversidade dos alelos sexuais pode ser reduzida, aumentando a possibilidade de cruzamentos que produzam descendentes diploides masculinos [9](85-referencias-bibliograficas.md#ref-14-9).
 
 Isso mostra que a organização da colônia não pode ser separada completamente da estrutura genética da população.
 
@@ -470,7 +470,7 @@ Também não existe uma rainha ordenando quem deve sair para forragear ou quem d
 
 A divisão de trabalho emerge da interação entre idade, fisiologia, estímulos ambientais, necessidades da colônia e características individuais.
 
-Estudos de comportamento em *M. quadrifasciata* demonstram que a idade e as necessidades sociais participam fortemente da determinação das atividades [5].
+Estudos de comportamento em *M. quadrifasciata* demonstram que a idade e as necessidades sociais participam fortemente da determinação das atividades [5](85-referencias-bibliograficas.md#ref-14-5).
 
 O sistema é descentralizado.
 
