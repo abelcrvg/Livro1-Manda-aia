@@ -290,11 +290,7 @@ Em *M. quadrifasciata*, estudos realizados durante a alimentação social demons
 
 Esse é um dos exemplos mais fortes de integração sensorial específica da mandaçaia.
 
-A informação não é apenas química.
-
-Não é apenas gustativa.
-
-Não é apenas mecânica.
+A informação não é apenas química, gustativa ou mecânica; ela pode resultar da integração de diferentes modalidades sensoriais.
 
 O animal recebe um conjunto de sinais ao mesmo tempo.
 
@@ -406,15 +402,9 @@ A experiência subjetiva é outra questão.
 
 Os sentidos não têm valor isoladamente.
 
-Uma luz detectada pelo olho precisa produzir alguma diferença no comportamento.
+Uma luz detectada pelo olho pode produzir uma diferença no comportamento, assim como um odor pode ser associado a um recurso ou a outro estímulo e uma vibração pode adquirir significado funcional dentro de determinado contexto.
 
-Um odor precisa ser associado a um recurso ou a outro estímulo.
-
-Uma vibração precisa ser interpretada dentro de um contexto.
-
-O sistema nervoso é responsável por integrar essas informações.
-
-Em *M. quadrifasciata*, estudos de aprendizagem e condicionamento mostram claramente que a informação sensorial pode produzir memória e alterar respostas futuras [5][6][13].
+O sistema nervoso é responsável por integrar essas informações. Em *M. quadrifasciata*, estudos de aprendizagem e condicionamento mostram claramente que a informação sensorial pode produzir memória e alterar respostas futuras [5][6][13].
 
 Pesquisas proteômicas e fosfoproteômicas recentes também utilizaram a própria espécie para investigar alterações moleculares relacionadas à aprendizagem operante no cérebro [13].
 
@@ -638,11 +628,7 @@ Há, portanto, um campo científico inteiro ainda aberto.
 
 Todo comportamento depende, em algum momento, de informação.
 
-A mandaçaia precisa detectar.
-
-Depois precisa integrar.
-
-E então precisa responder.
+A mandaçaia precisa detectar os estímulos, integrá-los e produzir uma resposta adequada ao contexto.
 
 Essa sequência não é necessariamente consciente nem linear.
 
@@ -684,15 +670,7 @@ O ambiente não chega ao animal inteiro.
 
 Ele chega em forma de sinais.
 
-A luz chega aos fotorreceptores.
-
-As moléculas chegam às sensilas.
-
-A superfície chega aos mecanorreceptores.
-
-A vibração chega ao corpo.
-
-A temperatura e a umidade podem chegar a receptores especializados.
+A luz alcança os fotorreceptores, as moléculas são detectadas pelas sensilas, as deformações da superfície corporal são registradas por mecanorreceptores e as vibrações são transmitidas aos sistemas capazes de detectá-las; em determinadas condições, informações térmicas e de umidade também podem ser incorporadas ao conjunto sensorial.
 
 O sistema nervoso transforma tudo isso em informação.
 
