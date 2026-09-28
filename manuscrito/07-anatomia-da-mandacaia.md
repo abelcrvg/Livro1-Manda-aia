@@ -6,7 +6,7 @@ O corpo de *Melipona quadrifasciata* é resultado de uma longa história evoluti
 
 Estudar a anatomia da mandaçaia, portanto, não significa memorizar nomes. Significa compreender como **forma e função estão integradas em um organismo capaz de voar, coletar recursos, reconhecer o ambiente, comunicar-se e participar da vida de uma colônia social**.
 
-A anatomia também ajuda a explicar por que indivíduos pertencentes à mesma espécie podem apresentar diferenças. Operárias, rainhas e machos não possuem exatamente a mesma conformação. Algumas diferenças são relacionadas ao sexo; outras estão associadas à casta, ao desenvolvimento e à função exercida pelo indivíduo. Estudos morfométricos mostram ainda que características corporais podem variar entre populações, inclusive em estruturas relacionadas ao voo [1].
+A anatomia também ajuda a explicar por que indivíduos pertencentes à mesma espécie podem apresentar diferenças. Operárias, rainhas e machos não possuem exatamente a mesma conformação. Algumas diferenças são relacionadas ao sexo; outras estão associadas à casta, ao desenvolvimento e à função exercida pelo indivíduo. Estudos morfométricos mostram ainda que características corporais podem variar entre populações, inclusive em estruturas relacionadas ao voo [1](85-referencias-bibliograficas.md#ref-07-1).
 
 Este capítulo apresenta a organização geral do corpo da mandaçaia. As estruturas serão estudadas aqui em seu contexto anatômico e funcional. Nos capítulos seguintes, cada região será examinada separadamente, com maior profundidade.
 
@@ -50,7 +50,7 @@ A segmentação não significa que cada segmento seja uma unidade independente. 
 
 No abdômen, por exemplo, os segmentos anteriores estão integrados à região corporal que contém os principais órgãos internos, enquanto os segmentos posteriores participam das estruturas terminais do sistema reprodutivo.
 
-Em abelhas sociais, a comparação dos segmentos abdominais também possui valor para a identificação. No caso de *M. quadrifasciata*, as faixas amarelas que caracterizam o dorso abdominal são descritas em relação aos tergos metassomáticos. Estudos de distribuição e variação do padrão classificaram diferentes formas de desenho das faixas, incluindo padrões interrompidos, contínuos e intermediários [2].
+Em abelhas sociais, a comparação dos segmentos abdominais também possui valor para a identificação. No caso de *M. quadrifasciata*, as faixas amarelas que caracterizam o dorso abdominal são descritas em relação aos tergos metassomáticos. Estudos de distribuição e variação do padrão classificaram diferentes formas de desenho das faixas, incluindo padrões interrompidos, contínuos e intermediários [2](85-referencias-bibliograficas.md#ref-07-2).
 
 É importante, entretanto, separar **anatomia do tegumento** de **interpretação taxonômica**. A faixa colorida é uma característica externa do corpo. Sua distribuição geográfica e sua relação com linhagens populacionais são questões estudadas por genética, morfometria e biogeografia.
 
@@ -68,7 +68,7 @@ Da mesma maneira, fotografias realizadas sob iluminações diferentes podem prod
 
 Por isso, quando se utiliza a aparência externa para identificação, é importante considerar idade aproximada, conservação do indivíduo, iluminação, ângulo de observação e origem geográfica.
 
-No caso específico das faixas abdominais de *M. quadrifasciata*, a literatura demonstra que existe variação geográfica e que também existem fenótipos intermediários. Esse assunto foi tratado detalhadamente no capítulo de taxonomia e distribuição e não deve ser reduzido a uma regra visual absoluta [2].
+No caso específico das faixas abdominais de *M. quadrifasciata*, a literatura demonstra que existe variação geográfica e que também existem fenótipos intermediários. Esse assunto foi tratado detalhadamente no capítulo de taxonomia e distribuição e não deve ser reduzido a uma regra visual absoluta [2](85-referencias-bibliograficas.md#ref-07-2).
 
 ## A cabeça: centro sensorial e alimentar
 
@@ -80,9 +80,9 @@ O conjunto forma uma região extremamente especializada.
 
 Uma abelha que pousa sobre uma flor precisa reconhecer formas, luminosidade e movimento, perceber sinais químicos e táteis, posicionar corretamente o corpo e manipular o recurso. Essas tarefas não dependem de um único órgão sensorial.
 
-As antenas de *M. quadrifasciata*, por exemplo, apresentam grande variedade de sensilas. Um estudo realizado por microscopia eletrônica encontrou **13 tipos de sensilas** distribuídas nas antenas da espécie, incluindo sensilas dos tipos trichodea, chaetica, placodea, basiconica, ampullacea, coeloconica e coelocapitula [3].
+As antenas de *M. quadrifasciata*, por exemplo, apresentam grande variedade de sensilas. Um estudo realizado por microscopia eletrônica encontrou **13 tipos de sensilas** distribuídas nas antenas da espécie, incluindo sensilas dos tipos trichodea, chaetica, placodea, basiconica, ampullacea, coeloconica e coelocapitula [3](85-referencias-bibliograficas.md#ref-07-3).
 
-A distribuição dessas estruturas varia ao longo da antena e também entre sexos e castas. Algumas sensilas encontradas em fêmeas não foram observadas nos machos estudados [3].
+A distribuição dessas estruturas varia ao longo da antena e também entre sexos e castas. Algumas sensilas encontradas em fêmeas não foram observadas nos machos estudados [3](85-referencias-bibliograficas.md#ref-07-3).
 
 Isso demonstra que a antena não é simplesmente uma “vara” utilizada para sentir o ambiente. Ela é uma superfície sensorial especializada.
 
@@ -108,7 +108,7 @@ As antenas são um dos elementos mais importantes da anatomia funcional das abel
 
 Cada antena apresenta uma base, um pedicelo e um flagelo segmentado. Em sua superfície existem numerosas sensilas capazes de detectar estímulos químicos, mecânicos e ambientais.
 
-Em *M. quadrifasciata*, o estudo de Rocha e colaboradores mostrou diferenças na composição e no tamanho das sensilas entre trabalhadores, rainhas e machos, além de características particulares nos machos diploides e nos chamados machos de fenótipo semelhante ao de rainhas [3].
+Em *M. quadrifasciata*, o estudo de Rocha e colaboradores mostrou diferenças na composição e no tamanho das sensilas entre trabalhadores, rainhas e machos, além de características particulares nos machos diploides e nos chamados machos de fenótipo semelhante ao de rainhas [3](85-referencias-bibliograficas.md#ref-07-3).
 
 Essa diferenciação anatômica é particularmente interessante porque mostra que a anatomia sensorial acompanha a biologia do indivíduo.
 
@@ -150,13 +150,13 @@ A mandaçaia possui dois pares de asas membranosas.
 
 As asas anteriores são maiores e desempenham a principal função aerodinâmica. As asas posteriores são menores e possuem estruturas que permitem sua associação mecânica às asas anteriores durante o voo.
 
-Nos Meliponini, a nervação alar apresenta redução em comparação com grupos de abelhas mais basais. A revisão moderna da tribo destaca a **redução da venação das asas** como uma das características morfológicas associadas ao grupo [4].
+Nos Meliponini, a nervação alar apresenta redução em comparação com grupos de abelhas mais basais. A revisão moderna da tribo destaca a **redução da venação das asas** como uma das características morfológicas associadas ao grupo [4](85-referencias-bibliograficas.md#ref-07-4).
 
 Embora pareçam delicadas, as asas são estruturas altamente especializadas.
 
 A membrana alar é sustentada por nervuras e recebe uma trama de músculos e articulações na base. Pequenas modificações na posição e no movimento das asas alteram sustentação, direção, velocidade e estabilidade.
 
-Pesquisas morfométricas em *M. quadrifasciata* também mostram que o tamanho das asas pode variar geograficamente. Nunes e colaboradores encontraram associação entre tamanho das asas e altitude em populações estudadas de *M. q. anthidioides*, enquanto a forma geral das asas apresentou maior estabilidade [1].
+Pesquisas morfométricas em *M. quadrifasciata* também mostram que o tamanho das asas pode variar geograficamente. Nunes e colaboradores encontraram associação entre tamanho das asas e altitude em populações estudadas de *M. q. anthidioides*, enquanto a forma geral das asas apresentou maior estabilidade [1](85-referencias-bibliograficas.md#ref-07-1).
 
 Esse resultado é um bom exemplo de como anatomia e ecologia podem se relacionar. Uma estrutura corporal pode manter uma arquitetura funcionalmente restrita e, ao mesmo tempo, variar em tamanho conforme condições populacionais e ambientais.
 
@@ -170,7 +170,7 @@ Essa nomenclatura permite descrever com precisão uma estrutura que, à primeira
 
 As pernas participam da caminhada, da fixação sobre flores, da limpeza corporal e da manipulação de materiais. Nas operárias, as pernas posteriores possuem adaptações especialmente importantes para o transporte de cargas.
 
-Entre os Meliponini existe uma **corbícula**, ou cesta de pólen, localizada na tíbia posterior. O grupo também apresenta estruturas de limpeza e transporte particulares, como o penicilo, enquanto algumas estruturas presentes em outras abelhas foram modificadas ou reduzidas. A revisão taxonômica de Engel e colaboradores destaca, entre os caracteres da tribo, a presença do penicilo, a ausência do “pollen press” proximal no metabasitarso, a perda das esporas metatibiais e a presença de arólios [4].
+Entre os Meliponini existe uma **corbícula**, ou cesta de pólen, localizada na tíbia posterior. O grupo também apresenta estruturas de limpeza e transporte particulares, como o penicilo, enquanto algumas estruturas presentes em outras abelhas foram modificadas ou reduzidas. A revisão taxonômica de Engel e colaboradores destaca, entre os caracteres da tribo, a presença do penicilo, a ausência do “pollen press” proximal no metabasitarso, a perda das esporas metatibiais e a presença de arólios [4](85-referencias-bibliograficas.md#ref-07-4).
 
 Essas características mostram que a perna das meliponíneas é uma estrutura funcionalmente especializada.
 
@@ -186,7 +186,7 @@ Sua parede é formada por segmentos articulados e por placas dorsais e ventrais.
 
 Internamente, encontram-se partes importantes do aparelho digestivo, do sistema reprodutor, do corpo gorduroso e de estruturas relacionadas à excreção.
 
-A análise histológica de operárias de *M. q. anthidioides* mostrou, por exemplo, a presença de tecidos e estruturas associados ao corpo gorduroso e aos ovários, e demonstrou que características fisiológicas desses tecidos variam entre fases da vida da operária [5].
+A análise histológica de operárias de *M. q. anthidioides* mostrou, por exemplo, a presença de tecidos e estruturas associados ao corpo gorduroso e aos ovários, e demonstrou que características fisiológicas desses tecidos variam entre fases da vida da operária [5](85-referencias-bibliograficas.md#ref-07-5).
 
 Isso ajuda a corrigir outra percepção comum: o abdômen não é simplesmente um “reservatório de mel”.
 
@@ -248,7 +248,7 @@ Nas fêmeas, existem diferenças entre rainhas e operárias. As duas são fêmea
 
 Os machos possuem estruturas associadas à reprodução masculina e não apresentam as mesmas estruturas reprodutivas das fêmeas. As pernas e outras estruturas externas também podem apresentar diferenças.
 
-A anatomia sensorial das antenas oferece um exemplo especialmente bem estudado. Rocha e colaboradores identificaram diferenças na composição e distribuição das sensilas entre operárias, rainhas e machos de *M. quadrifasciata* [3].
+A anatomia sensorial das antenas oferece um exemplo especialmente bem estudado. Rocha e colaboradores identificaram diferenças na composição e distribuição das sensilas entre operárias, rainhas e machos de *M. quadrifasciata* [3](85-referencias-bibliograficas.md#ref-07-3).
 
 Essas diferenças mostram que a organização social começa no corpo, mas não termina nele.
 
@@ -260,9 +260,9 @@ A rainha é especializada na reprodução e possui um aparelho reprodutor desenv
 
 Essas diferenças não significam que a operária seja um indivíduo “incompleto”. Ela é uma forma funcional especializada.
 
-Estudos em *M. quadrifasciata anthidioides* demonstraram que operárias podem desenvolver ovários e produzir ovos em determinadas circunstâncias [6]. Isso reforça a ideia de que a anatomia reprodutiva da operária é funcionalmente diferente da de uma rainha, mas não simplesmente ausente.
+Estudos em *M. quadrifasciata anthidioides* demonstraram que operárias podem desenvolver ovários e produzir ovos em determinadas circunstâncias [6](85-referencias-bibliograficas.md#ref-07-6). Isso reforça a ideia de que a anatomia reprodutiva da operária é funcionalmente diferente da de uma rainha, mas não simplesmente ausente.
 
-A diferenciação de castas em *Melipona* também possui uma história particular. Estudos clássicos sobre o gênero demonstraram que a diferenciação entre rainhas e operárias envolve fatores genéticos e não pode ser explicada apenas como consequência da quantidade de alimento recebida pelas larvas [7].
+A diferenciação de castas em *Melipona* também possui uma história particular. Estudos clássicos sobre o gênero demonstraram que a diferenciação entre rainhas e operárias envolve fatores genéticos e não pode ser explicada apenas como consequência da quantidade de alimento recebida pelas larvas [7](85-referencias-bibliograficas.md#ref-07-7).
 
 A anatomia das castas será estudada mais tarde, nos capítulos dedicados à rainha, às operárias, aos machos e à diferenciação de castas.
 
@@ -272,7 +272,7 @@ O nome “abelha sem ferrão” pode provocar uma interpretação literal: a de 
 
 Anatomicamente, a realidade é mais interessante.
 
-Os Meliponini possuem um **complexo de estruturas homólogas ao aparelho de ferrão**, mas essas estruturas são fortemente reduzidas e, de maneira geral, o conjunto é vestigial e não funcional como o ferrão das abelhas que ferroam. A revisão moderna da tribo trata justamente a redução generalizada dos escleritos associados ao complexo do ferrão como uma das características dos Meliponini [4].
+Os Meliponini possuem um **complexo de estruturas homólogas ao aparelho de ferrão**, mas essas estruturas são fortemente reduzidas e, de maneira geral, o conjunto é vestigial e não funcional como o ferrão das abelhas que ferroam. A revisão moderna da tribo trata justamente a redução generalizada dos escleritos associados ao complexo do ferrão como uma das características dos Meliponini [4](85-referencias-bibliograficas.md#ref-07-4).
 
 Portanto, dizer que a mandaçaia é “sem ferrão” é biologicamente correto no sentido funcional, mas isso não significa que a anatomia ancestral relacionada ao ferrão tenha simplesmente desaparecido por completo.
 
@@ -304,7 +304,7 @@ Medições corporais dependem do indivíduo, da casta, do sexo, da população e
 
 Estudos morfométricos mostram que o tamanho corporal pode variar geograficamente e que determinadas estruturas podem responder a fatores ambientais.
 
-Em populações de *M. q. anthidioides* da Bahia, por exemplo, Nunes e colaboradores encontraram relação significativa entre tamanho das asas e altitude, enquanto a forma das asas permaneceu relativamente estável [1].
+Em populações de *M. q. anthidioides* da Bahia, por exemplo, Nunes e colaboradores encontraram relação significativa entre tamanho das asas e altitude, enquanto a forma das asas permaneceu relativamente estável [1](85-referencias-bibliograficas.md#ref-07-1).
 
 Esse resultado é particularmente instrutivo. Ele mostra que uma espécie pode conservar uma arquitetura corporal funcionalmente estável sem apresentar exatamente as mesmas dimensões em todas as populações.
 
@@ -322,7 +322,7 @@ Em *M. quadrifasciata*, pesquisadores utilizaram medidas corporais, tamanho das 
 
 A morfometria geométrica, por exemplo, permite comparar a forma de uma asa utilizando pontos de referência e eliminando parte dos efeitos relacionados a posição, escala e orientação. Isso possibilita investigar se duas populações apresentam diferenças de forma mesmo quando a aparência geral parece extremamente semelhante.
 
-Estudos de asas em *M. quadrifasciata* mostram que a forma pode ser relativamente conservada, enquanto o tamanho apresenta maior variação geográfica em determinadas populações [1].
+Estudos de asas em *M. quadrifasciata* mostram que a forma pode ser relativamente conservada, enquanto o tamanho apresenta maior variação geográfica em determinadas populações [1](85-referencias-bibliograficas.md#ref-07-1).
 
 A importância disso vai além da pesquisa acadêmica.
 
@@ -336,9 +336,9 @@ Ela não mostra a musculatura. Não mostra as traqueias. Não mostra a rede nerv
 
 Mesmo aquilo que aparece externamente pode esconder complexidade microscópica.
 
-As antenas são um excelente exemplo. A olho nu, parecem segmentos finos. Sob microscopia eletrônica, apresentam uma superfície densamente equipada com sensilas de diferentes tipos [3].
+As antenas são um excelente exemplo. A olho nu, parecem segmentos finos. Sob microscopia eletrônica, apresentam uma superfície densamente equipada com sensilas de diferentes tipos [3](85-referencias-bibliograficas.md#ref-07-3).
 
-As asas oferecem outro exemplo. À distância, parecem simples membranas. Uma análise morfométrica revela diferenças de tamanho e forma que podem ser relacionadas a população e altitude [1].
+As asas oferecem outro exemplo. À distância, parecem simples membranas. Uma análise morfométrica revela diferenças de tamanho e forma que podem ser relacionadas a população e altitude [1](85-referencias-bibliograficas.md#ref-07-1).
 
 As cerdas também parecem apenas “pelos”, mas podem apresentar formas e distribuições distintas, com funções sensoriais e mecânicas.
 
@@ -382,7 +382,7 @@ Quanto mais próximo observamos a mandaçaia, menos adequado se torna descrevê-
 
 Seu corpo reúne estruturas especializadas em percepção, voo, alimentação, manipulação, transporte, respiração, digestão, reprodução e interação social.
 
-A espécie também demonstra variação anatômica em escala populacional. O tamanho das asas pode acompanhar diferenças ambientais e geográficas; as antenas apresentam diversidade de sensilas entre sexos e castas; o tegumento e a pilosidade oferecem caracteres de identificação; e o abdômen apresenta padrões de coloração cuja distribuição possui história populacional complexa [1][2][3].
+A espécie também demonstra variação anatômica em escala populacional. O tamanho das asas pode acompanhar diferenças ambientais e geográficas; as antenas apresentam diversidade de sensilas entre sexos e castas; o tegumento e a pilosidade oferecem caracteres de identificação; e o abdômen apresenta padrões de coloração cuja distribuição possui história populacional complexa [1](85-referencias-bibliograficas.md#ref-07-1)[2](85-referencias-bibliograficas.md#ref-07-2)[3](85-referencias-bibliograficas.md#ref-07-3).
 
 Isso significa que a anatomia pode contar parte da história evolutiva da espécie.
 
