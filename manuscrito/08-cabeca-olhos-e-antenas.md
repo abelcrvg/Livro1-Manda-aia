@@ -8,7 +8,7 @@ A cabeça, portanto, não é apenas a extremidade anterior do corpo. Ela funcion
 
 A visão permite que a abelha obtenha informações sobre luz, formas, movimento e características espectrais do ambiente. As antenas acrescentam uma dimensão diferente, porque possuem uma enorme variedade de receptores capazes de detectar sinais químicos e físicos. Esses sistemas trabalham em conjunto com o sistema nervoso e com os demais órgãos sensoriais do corpo.
 
-Estudos realizados especificamente com *Melipona quadrifasciata* demonstraram que sua superfície antenal possui uma diversidade considerável de sensilas e que a composição dessas estruturas varia entre sexos e castas [1]. A espécie também foi utilizada em experimentos fisiológicos que investigaram diretamente a resposta de seus fotorreceptores à luz [2][3].
+Estudos realizados especificamente com *Melipona quadrifasciata* demonstraram que sua superfície antenal possui uma diversidade considerável de sensilas e que a composição dessas estruturas varia entre sexos e castas [1](85-referencias-bibliograficas.md#ref-08-1). A espécie também foi utilizada em experimentos fisiológicos que investigaram diretamente a resposta de seus fotorreceptores à luz [2](85-referencias-bibliograficas.md#ref-08-2)[3](85-referencias-bibliograficas.md#ref-08-3).
 
 O resultado é um órgão aparentemente simples por fora, mas extremamente sofisticado em escala microscópica.
 
@@ -42,7 +42,7 @@ A cabeça não precisa ser movimentada para que a abelha receba informação de 
 
 A visão de uma abelha também não deve ser imaginada como uma câmera humana em miniatura. A quantidade de detalhes espaciais, a forma de processamento neural e a importância relativa de movimento, brilho e cor são diferentes.
 
-Pesquisas sobre visão espacial em abelhas mostram que o sistema visual das Apidae está fortemente relacionado a comportamentos como orientação durante o voo, detecção de estruturas do ambiente e localização de recursos [4].
+Pesquisas sobre visão espacial em abelhas mostram que o sistema visual das Apidae está fortemente relacionado a comportamentos como orientação durante o voo, detecção de estruturas do ambiente e localização de recursos [4](85-referencias-bibliograficas.md#ref-08-4).
 
 No caso das abelhas sem ferrão, essas capacidades precisam ainda ser interpretadas em relação ao tamanho corporal e ao ambiente em que cada espécie realiza suas atividades.
 
@@ -66,7 +66,7 @@ Nenhuma dessas etapas funciona isoladamente.
 
 Um dos aspectos mais interessantes da visão das abelhas é que seu sistema visual não corresponde ao espectro percebido pelo ser humano.
 
-Experimentos eletrofisiológicos realizados com *Melipona quadrifasciata* demonstraram fotorreceptores com máximos de sensibilidade nas regiões do **ultravioleta, azul e verde** [2].
+Experimentos eletrofisiológicos realizados com *Melipona quadrifasciata* demonstraram fotorreceptores com máximos de sensibilidade nas regiões do **ultravioleta, azul e verde** [2](85-referencias-bibliograficas.md#ref-08-2).
 
 Esse conjunto é característico de muitos sistemas visuais de abelhas e permite construir informações de cor a partir da comparação entre diferentes canais espectrais.
 
@@ -86,7 +86,7 @@ Isso pode permitir que determinadas flores apresentem contrastes que não conseg
 
 Muitas flores possuem estruturas conhecidas como **guias de néctar**, padrões de contraste ou regiões cuja refletância diferencial pode orientar visitantes florais. Nem todo padrão floral visível para uma pessoa possui a mesma aparência para uma abelha, e parte do sinal utilizado pelo inseto pode estar em regiões espectrais invisíveis para nós.
 
-No caso da *M. quadrifasciata*, trabalhos experimentais de visão e comportamento utilizam especificamente as sensibilidades UV, azul e verde da espécie para modelar sua percepção cromática [5].
+No caso da *M. quadrifasciata*, trabalhos experimentais de visão e comportamento utilizam especificamente as sensibilidades UV, azul e verde da espécie para modelar sua percepção cromática [5](85-referencias-bibliograficas.md#ref-08-5).
 
 É importante evitar, entretanto, transformar isso em afirmações antropomórficas como “a abelha vê uma flor roxa como tal cor”. A experiência visual subjetiva da abelha não pode ser inferida simplesmente a partir das curvas de sensibilidade. O que a ciência consegue medir é a resposta dos receptores e o comportamento produzido diante de estímulos.
 
@@ -96,7 +96,7 @@ Além do ultravioleta, os canais azul e verde formam componentes importantes do 
 
 O contraste entre uma flor e o fundo não depende exclusivamente da cor percebida. Brilho, saturação, textura, forma e movimento também podem influenciar a detecção.
 
-Em estudos com abelhas, estímulos coloridos são frequentemente analisados em modelos de espaço cromático que levam em consideração a sensibilidade específica dos receptores. Pesquisas comportamentais envolvendo *M. quadrifasciata* utilizaram justamente esse tipo de modelo para analisar preferências de cor [5].
+Em estudos com abelhas, estímulos coloridos são frequentemente analisados em modelos de espaço cromático que levam em consideração a sensibilidade específica dos receptores. Pesquisas comportamentais envolvendo *M. quadrifasciata* utilizaram justamente esse tipo de modelo para analisar preferências de cor [5](85-referencias-bibliograficas.md#ref-08-5).
 
 Isso é importante para o leitor porque impede uma conclusão excessivamente simples: “a mandaçaia enxerga três cores”.
 
@@ -114,9 +114,9 @@ Durante o voo, o movimento relativo do ambiente também fornece informação sob
 
 Assim, a visão pode contribuir para estabilização do voo, orientação e reconhecimento de obstáculos.
 
-Pesquisas experimentais e revisões sobre visão espacial em Apidae mostram a importância do sistema visual para o controle da orientação e para comportamentos guiados visualmente [4].
+Pesquisas experimentais e revisões sobre visão espacial em Apidae mostram a importância do sistema visual para o controle da orientação e para comportamentos guiados visualmente [4](85-referencias-bibliograficas.md#ref-08-4).
 
-No caso da mandaçaia, os fotorreceptores também apresentam respostas temporais que foram medidas diretamente em laboratório. Em um estudo clássico, a soma temporal das respostas dos fotorreceptores foi investigada em células do olho composto de *M. quadrifasciata* [3].
+No caso da mandaçaia, os fotorreceptores também apresentam respostas temporais que foram medidas diretamente em laboratório. Em um estudo clássico, a soma temporal das respostas dos fotorreceptores foi investigada em células do olho composto de *M. quadrifasciata* [3](85-referencias-bibliograficas.md#ref-08-3).
 
 Isso significa que o sistema visual não responde simplesmente à quantidade de luz presente. Ele também responde a **quando** a luz aparece, por quanto tempo permanece e como sua intensidade muda.
 
@@ -126,13 +126,13 @@ Entre os dois olhos compostos existem três estruturas menores: os **ocelos**.
 
 São dois ocelos laterais e um mediano, formando o conjunto característico das abelhas adultas.
 
-Apesar de serem muito menores que os olhos compostos, os ocelos possuem características ópticas distintas. Em abelhas, apresentam grande abertura e alta sensibilidade luminosa, mas resolução espacial relativamente baixa [4].
+Apesar de serem muito menores que os olhos compostos, os ocelos possuem características ópticas distintas. Em abelhas, apresentam grande abertura e alta sensibilidade luminosa, mas resolução espacial relativamente baixa [4](85-referencias-bibliograficas.md#ref-08-4).
 
 Isso significa que os ocelos não devem ser imaginados como três pequenos olhos capazes de produzir três imagens detalhadas do ambiente.
 
 Sua função está mais relacionada à informação geral sobre iluminação e orientação visual.
 
-Em abelhas, estudos indicam que os ocelos podem contribuir para controle de atitude durante o voo, detecção da posição do horizonte e avaliação da luz do céu. Eles também podem participar da utilização de padrões de polarização da luz celeste [4].
+Em abelhas, estudos indicam que os ocelos podem contribuir para controle de atitude durante o voo, detecção da posição do horizonte e avaliação da luz do céu. Eles também podem participar da utilização de padrões de polarização da luz celeste [4](85-referencias-bibliograficas.md#ref-08-4).
 
 No caso específico da *M. quadrifasciata*, os dados experimentais disponíveis sobre a função dos ocelos são muito menos extensos do que aqueles disponíveis para os olhos compostos. Portanto, é mais rigoroso apresentar essas funções como parte do conhecimento geral sobre a visão de abelhas, e não como uma descrição experimental completa de todos os mecanismos da espécie.
 
@@ -144,7 +144,7 @@ Durante um voo diurno, uma abelha não encontra apenas flores e árvores. Ela en
 
 A distribuição da luz celeste fornece informações úteis para orientação.
 
-A polarização da luz do céu pode fornecer uma referência direcional para insetos capazes de detectá-la. Pesquisas sobre o sistema visual das abelhas mostram que diferentes regiões dos olhos e dos ocelos podem contribuir para a análise dessa informação [4].
+A polarização da luz do céu pode fornecer uma referência direcional para insetos capazes de detectá-la. Pesquisas sobre o sistema visual das abelhas mostram que diferentes regiões dos olhos e dos ocelos podem contribuir para a análise dessa informação [4](85-referencias-bibliograficas.md#ref-08-4).
 
 Novamente, isso não significa que a mandaçaia tenha um “GPS interno” simples.
 
@@ -172,7 +172,7 @@ Ao contrário de uma antena humana, que seria apenas uma estrutura móvel sem re
 
 ## Treze tipos de sensilas
 
-O estudo mais detalhado realizado especificamente com *Melipona quadrifasciata* encontrou **13 tipos de sensilas antenais** [1].
+O estudo mais detalhado realizado especificamente com *Melipona quadrifasciata* encontrou **13 tipos de sensilas antenais** [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Foram identificadas sensilas:
 
@@ -182,11 +182,11 @@ Foram identificadas sensilas:
 - basiconica;
 - ampullacea;
 - coeloconica;
-- coelocapitula [1].
+- coelocapitula [1](85-referencias-bibliograficas.md#ref-08-1).
 
 A nomenclatura pode parecer excessivamente técnica, mas ela é necessária porque diferentes sensilas possuem formas, tamanhos, distribuição e prováveis funções distintas.
 
-O estudo demonstrou ainda que a distribuição das sensilas não é homogênea ao longo da antena. Algumas regiões possuem grande concentração de determinados tipos, enquanto outras apresentam combinações diferentes [1].
+O estudo demonstrou ainda que a distribuição das sensilas não é homogênea ao longo da antena. Algumas regiões possuem grande concentração de determinados tipos, enquanto outras apresentam combinações diferentes [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Isso significa que a antena pode ser entendida como um **mosaico sensorial**.
 
@@ -196,13 +196,13 @@ Não existe uma única “sensação de cheiro” espalhada de maneira uniforme 
 
 As sensilas trichodea estão entre as estruturas mais abundantes encontradas nas antenas da mandaçaia.
 
-No estudo de Ravaiano e colaboradores, as sensilas trichodea do tipo I foram as mais numerosas [1].
+No estudo de Ravaiano e colaboradores, as sensilas trichodea do tipo I foram as mais numerosas [1](85-referencias-bibliograficas.md#ref-08-1).
 
 A forma dessas estruturas, combinada com sua anatomia interna e distribuição, é compatível com funções sensoriais. Em insetos, sensilas desse grupo podem participar de mecanorrecepção ou quimiorrecepção dependendo da morfologia específica.
 
 No caso da mandaçaia, a identificação microscópica demonstra sua existência e distribuição, mas a função de cada subtipo não deve ser tratada como absolutamente determinada somente pela aparência.
 
-Os pesquisadores discutiram as funções presumidas com base na morfologia e na comparação com outros insetos [1].
+Os pesquisadores discutiram as funções presumidas com base na morfologia e na comparação com outros insetos [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Esse é um bom exemplo de como a ciência trabalha com diferentes níveis de evidência.
 
@@ -214,7 +214,7 @@ São três níveis diferentes de conhecimento.
 
 As sensilas placodea formam outra categoria particularmente importante.
 
-No estudo de *M. quadrifasciata*, elas foram o segundo tipo mais abundante depois das trichodea I e foram apontadas como estruturas que podem estar relacionadas à percepção olfatória [1].
+No estudo de *M. quadrifasciata*, elas foram o segundo tipo mais abundante depois das trichodea I e foram apontadas como estruturas que podem estar relacionadas à percepção olfatória [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Sua superfície possui uma organização diferente das sensilas que se projetam como pelos ou cerdas.
 
@@ -222,7 +222,7 @@ Para um animal que precisa reconhecer odores produzidos por plantas, alimentos, 
 
 A informação química captada pelas sensilas não permanece na antena. Os neurônios receptores associados a esses sinais enviam seus prolongamentos para o sistema nervoso, onde a informação é processada.
 
-Em insetos, o **lobo antenal** constitui um importante centro inicial de processamento olfatório. Esse princípio é bem estabelecido para os insetos e estudado especialmente em abelhas [6].
+Em insetos, o **lobo antenal** constitui um importante centro inicial de processamento olfatório. Esse princípio é bem estabelecido para os insetos e estudado especialmente em abelhas [6](85-referencias-bibliograficas.md#ref-08-6).
 
 É importante, novamente, diferenciar o nível de generalização. A anatomia das sensilas placodea foi diretamente descrita em *M. quadrifasciata*; os circuitos neurais associados são melhor caracterizados em abelhas-modelo e outros insetos.
 
@@ -230,7 +230,7 @@ Em insetos, o **lobo antenal** constitui um importante centro inicial de process
 
 Quando falamos que as antenas “sentem cheiro”, estamos reduzindo demais suas capacidades.
 
-As antenas dos insetos podem conter receptores relacionados a diferentes modalidades sensoriais, incluindo quimiorrecepção, mecanorrecepção, termorrecepção e higrorecepção. A composição exata varia entre espécies e tipos de sensilas [6].
+As antenas dos insetos podem conter receptores relacionados a diferentes modalidades sensoriais, incluindo quimiorrecepção, mecanorrecepção, termorrecepção e higrorecepção. A composição exata varia entre espécies e tipos de sensilas [6](85-referencias-bibliograficas.md#ref-08-6).
 
 Isso torna as antenas instrumentos particularmente eficientes para investigar microambientes.
 
@@ -244,11 +244,11 @@ A superfície corporal de um indivíduo pode carregar sinais químicos relaciona
 
 ## Antenas diferentes para vidas diferentes
 
-Talvez o aspecto mais interessante do estudo de Ravaiano e colaboradores seja a comparação entre **operárias, rainhas e machos** de *M. quadrifasciata* [1].
+Talvez o aspecto mais interessante do estudo de Ravaiano e colaboradores seja a comparação entre **operárias, rainhas e machos** de *M. quadrifasciata* [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Foram observadas diferenças na composição e no tamanho das sensilas entre essas classes.
 
-Algumas categorias de sensilas encontradas nas fêmeas — incluindo basiconica, chaetica I, coeloconica e ampullacea — não foram observadas nos machos estudados [1].
+Algumas categorias de sensilas encontradas nas fêmeas — incluindo basiconica, chaetica I, coeloconica e ampullacea — não foram observadas nos machos estudados [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Essa diferença dificilmente pode ser considerada uma simples peculiaridade anatômica.
 
@@ -264,7 +264,7 @@ A rainha vive em um ambiente diferente daquele encontrado por uma operária camp
 
 Sua interação com os membros da colônia, com estruturas do ninho e com sinais químicos internos é contínua. Não seria biologicamente surpreendente encontrar especializações sensoriais relacionadas a esse modo de vida.
 
-O estudo específico da mandaçaia confirma que a composição e o tamanho das sensilas variam entre rainhas e operárias [1].
+O estudo específico da mandaçaia confirma que a composição e o tamanho das sensilas variam entre rainhas e operárias [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Entretanto, não devemos concluir que cada diferença microscópica possui uma função comportamental já comprovada.
 
@@ -276,9 +276,9 @@ Essa cautela evita atribuir à anatomia uma certeza maior do que os dados permit
 
 Os machos também possuem antenas sensorialmente especializadas.
 
-No estudo de *M. quadrifasciata*, machos haploides, machos diploides e machos com fenótipo semelhante ao de rainhas foram comparados [1].
+No estudo de *M. quadrifasciata*, machos haploides, machos diploides e machos com fenótipo semelhante ao de rainhas foram comparados [1](85-referencias-bibliograficas.md#ref-08-1).
 
-Um dos resultados mais interessantes foi que os chamados **machos de fenótipo semelhante ao de rainha** possuíam antenas que, em composição e tamanho das sensilas, se assemelhavam mais às dos machos diploides, apesar de apresentarem fenótipo corporal semelhante ao de uma rainha [1].
+Um dos resultados mais interessantes foi que os chamados **machos de fenótipo semelhante ao de rainha** possuíam antenas que, em composição e tamanho das sensilas, se assemelhavam mais às dos machos diploides, apesar de apresentarem fenótipo corporal semelhante ao de uma rainha [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Esse resultado oferece uma lição importante sobre desenvolvimento e anatomia.
 
@@ -294,11 +294,11 @@ As antenas não surgem prontas.
 
 Durante o desenvolvimento pupal, as estruturas sensoriais são formadas progressivamente.
 
-Um estudo realizado com *Melipona quadrifasciata anthidioides* acompanhou o desenvolvimento das sensilas por microscopia óptica e eletrônica [7].
+Um estudo realizado com *Melipona quadrifasciata anthidioides* acompanhou o desenvolvimento das sensilas por microscopia óptica e eletrônica [7](85-referencias-bibliograficas.md#ref-08-7).
 
-Os primeiros sinais de formação foram observados na transição entre a pré-pupa e a pupa de olhos brancos. O desenvolvimento continuou nas fases pupais seguintes e as sensilas terminaram sua diferenciação antes da emergência do adulto [7].
+Os primeiros sinais de formação foram observados na transição entre a pré-pupa e a pupa de olhos brancos. O desenvolvimento continuou nas fases pupais seguintes e as sensilas terminaram sua diferenciação antes da emergência do adulto [7](85-referencias-bibliograficas.md#ref-08-7).
 
-Os pesquisadores observaram que as sensilas tornam-se expostas ao ambiente nas fases finais da metamorfose, quando a antiga cutícula é digerida [7].
+Os pesquisadores observaram que as sensilas tornam-se expostas ao ambiente nas fases finais da metamorfose, quando a antiga cutícula é digerida [7](85-referencias-bibliograficas.md#ref-08-7).
 
 Essa descoberta ajuda a compreender a sequência de maturação sensorial.
 
@@ -390,13 +390,13 @@ Ela precisa sair da entrada do ninho, deslocar-se entre obstáculos, localizar f
 
 A visão fornece informações fundamentais para esses deslocamentos.
 
-Experimentos com *M. quadrifasciata* mostram que seus fotorreceptores possuem capacidade de responder à luz em escalas temporais curtas, enquanto estudos comparativos indicam como a visão das abelhas participa da orientação espacial e do controle do voo [3][4].
+Experimentos com *M. quadrifasciata* mostram que seus fotorreceptores possuem capacidade de responder à luz em escalas temporais curtas, enquanto estudos comparativos indicam como a visão das abelhas participa da orientação espacial e do controle do voo [3](85-referencias-bibliograficas.md#ref-08-3)[4](85-referencias-bibliograficas.md#ref-08-4).
 
 Isso também ajuda a entender por que alterações na luminosidade podem modificar a atividade de voo.
 
 Uma manhã ainda escura e uma manhã plenamente iluminada não oferecem as mesmas condições visuais. A disponibilidade de luz impõe limites físicos ao desempenho do sistema visual.
 
-Pesquisas com Meliponini mostram uma relação geral entre tamanho corporal, características ópticas dos olhos e atividade em níveis baixos de luminosidade [8]. Esses resultados são importantes para compreender por que diferentes espécies de abelhas sem ferrão apresentam horários de atividade distintos.
+Pesquisas com Meliponini mostram uma relação geral entre tamanho corporal, características ópticas dos olhos e atividade em níveis baixos de luminosidade [8](85-referencias-bibliograficas.md#ref-08-8). Esses resultados são importantes para compreender por que diferentes espécies de abelhas sem ferrão apresentam horários de atividade distintos.
 
 Para a mandaçaia, esses aspectos precisam ser estudados considerando suas condições ambientais específicas.
 
@@ -406,7 +406,7 @@ O desempenho dos olhos depende da quantidade de luz disponível.
 
 Em condições de baixa luminosidade, o sistema visual precisa aumentar sua sensibilidade, mas isso pode ocorrer às custas de outras propriedades, como resolução temporal e espacial.
 
-É por essa razão que o tamanho do corpo, o tamanho dos olhos e o regime de atividade estão relacionados em estudos de abelhas sem ferrão [8].
+É por essa razão que o tamanho do corpo, o tamanho dos olhos e o regime de atividade estão relacionados em estudos de abelhas sem ferrão [8](85-referencias-bibliograficas.md#ref-08-8).
 
 Abelhas maiores, em termos gerais, podem possuir vantagens ópticas diferentes de espécies muito pequenas. Mas a biologia não depende exclusivamente de tamanho corporal: comportamento, estrutura ocular, ambiente e horário de atividade também influenciam.
 
@@ -422,7 +422,7 @@ Mas a identificação de uma espécie não deve depender de uma fotografia gené
 
 Alguns detalhes são microscópicos. Outros são visíveis apenas em determinadas ampliações. Alguns caracteres também variam com sexo e casta.
 
-No caso de *M. quadrifasciata*, a anatomia das antenas demonstra claramente que operárias, rainhas e machos possuem conjuntos sensoriais diferentes [1].
+No caso de *M. quadrifasciata*, a anatomia das antenas demonstra claramente que operárias, rainhas e machos possuem conjuntos sensoriais diferentes [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Assim, uma descrição profissional deve sempre informar **qual indivíduo está sendo observado**.
 
@@ -444,11 +444,11 @@ A anatomia da cabeça é o ponto de partida físico para tudo isso.
 
 A cabeça da mandaçaia resume de maneira impressionante a complexidade de um inseto social.
 
-Dois olhos compostos fornecem informação visual distribuída por milhares de unidades receptoras. Três ocelos fornecem um sistema sensível às condições gerais de luminosidade e potencialmente à orientação. Duas antenas carregam uma diversidade extraordinária de sensilas, incluindo **13 tipos descritos diretamente para *M. quadrifasciata*** [1].
+Dois olhos compostos fornecem informação visual distribuída por milhares de unidades receptoras. Três ocelos fornecem um sistema sensível às condições gerais de luminosidade e potencialmente à orientação. Duas antenas carregam uma diversidade extraordinária de sensilas, incluindo **13 tipos descritos diretamente para *M. quadrifasciata*** [1](85-referencias-bibliograficas.md#ref-08-1).
 
 Em escala microscópica, essa superfície se torna ainda mais complexa.
 
-A espécie possui receptores visuais sensíveis ao ultravioleta, azul e verde [2]. Suas antenas apresentam diferenças entre operárias, rainhas e machos [1]. Durante a metamorfose, as estruturas sensoriais se desenvolvem progressivamente até estarem prontas para a vida adulta [7].
+A espécie possui receptores visuais sensíveis ao ultravioleta, azul e verde [2](85-referencias-bibliograficas.md#ref-08-2). Suas antenas apresentam diferenças entre operárias, rainhas e machos [1](85-referencias-bibliograficas.md#ref-08-1). Durante a metamorfose, as estruturas sensoriais se desenvolvem progressivamente até estarem prontas para a vida adulta [7](85-referencias-bibliograficas.md#ref-08-7).
 
 Tudo isso acontece em uma cabeça que cabe facilmente sobre a ponta de um dedo humano.
 
