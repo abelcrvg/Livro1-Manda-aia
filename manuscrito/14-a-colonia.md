@@ -68,7 +68,7 @@ A colônia é, portanto, uma estrutura em que cada componente possui importânci
 
 ## A rainha como centro reprodutivo
 
-Em condições típicas, uma colônia de *M. quadrifasciata* é organizada em torno de uma **única rainha fisogástrica** [3](85-referencias-bibliograficas.md#ref-14-3)[4](85-referencias-bibliograficas.md#ref-14-4).
+Em condições típicas, uma colônia de *M. quadrifasciata* é organizada em torno de uma **única rainha fisogástrica** [3](85-referencias-bibliograficas.md#ref-14-3)[3](85-referencias-bibliograficas.md#ref-14-3).
 
 Essa rainha é especializada na produção de ovos e apresenta uma fisiologia profundamente diferente da das operárias.
 
