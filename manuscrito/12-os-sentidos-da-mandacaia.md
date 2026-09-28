@@ -2,7 +2,7 @@
 
 O corpo da mandaçaia não apenas reage ao ambiente: ele precisa **percebê-lo**. Antes de qualquer comportamento, existe uma etapa menos visível na qual estímulos físicos e químicos são captados por receptores especializados, convertidos em sinais nervosos e integrados pelo sistema nervoso. É desse processo que surge a percepção que permite ao animal orientar movimentos, selecionar recursos, reconhecer indivíduos, avaliar condições ambientais e modificar seu comportamento.
 
-Em *Melipona quadrifasciata*, essa capacidade sensorial pode ser estudada em diferentes escalas. A visão já foi investigada por eletrofisiologia e por experimentos comportamentais, demonstrando sensibilidade espectral e capacidade de discriminar estímulos visuais [1][2][3]. As antenas foram examinadas por microscopia eletrônica, revelando uma diversidade de **13 tipos de sensilas** com distribuição diferente ao longo dos segmentos antenais e entre operárias, rainhas e machos [4]. Também existem experimentos demonstrando que as operárias conseguem aprender e discriminar odores, conservar informações olfativas e utilizar experiências anteriores para modificar respostas alimentares [5][6].
+Em *Melipona quadrifasciata*, essa capacidade sensorial pode ser estudada em diferentes escalas. A visão já foi investigada por eletrofisiologia e por experimentos comportamentais, demonstrando sensibilidade espectral e capacidade de discriminar estímulos visuais [1](85-referencias-bibliograficas.md#ref-12-1)[2](85-referencias-bibliograficas.md#ref-12-2)[3](85-referencias-bibliograficas.md#ref-12-3). As antenas foram examinadas por microscopia eletrônica, revelando uma diversidade de **13 tipos de sensilas** com distribuição diferente ao longo dos segmentos antenais e entre operárias, rainhas e machos [4](85-referencias-bibliograficas.md#ref-12-4). Também existem experimentos demonstrando que as operárias conseguem aprender e discriminar odores, conservar informações olfativas e utilizar experiências anteriores para modificar respostas alimentares [5](85-referencias-bibliograficas.md#ref-12-5)[6](85-referencias-bibliograficas.md#ref-12-6).
 
 Outros sentidos são menos conhecidos diretamente na espécie. A anatomia indica a existência de estruturas compatíveis com mecanorrecepção e, em alguns casos, com termorrecepção e higroreceptação, mas a atribuição funcional de cada receptor nem sempre foi demonstrada experimentalmente em *M. quadrifasciata*. Essa diferença entre **estrutura observada**, **função inferida** e **função experimentalmente demonstrada** será mantida ao longo deste capítulo.
 
@@ -12,11 +12,11 @@ Essa cautela não diminui a complexidade sensorial da mandaçaia. Pelo contrári
 
 Os seres humanos costumam organizar os sentidos em cinco categorias: visão, audição, olfato, paladar e tato. Essa divisão funciona bem como descrição da experiência humana, mas não deve ser aplicada automaticamente aos insetos.
 
-Na mandaçaia, diferentes modalidades sensoriais estão distribuídas por várias regiões do corpo. Os olhos detectam luz. As antenas possuem receptores químicos e mecânicos e apresentam sensilas de diferentes tipos. Estruturas das pernas e do exoesqueleto também podem detectar deformações e contatos. Algumas sensilas antenais são morfologicamente compatíveis com a detecção de temperatura e umidade, embora a função específica de cada tipo na mandaçaia nem sempre tenha sido validada por registros fisiológicos diretos [4][7].
+Na mandaçaia, diferentes modalidades sensoriais estão distribuídas por várias regiões do corpo. Os olhos detectam luz. As antenas possuem receptores químicos e mecânicos e apresentam sensilas de diferentes tipos. Estruturas das pernas e do exoesqueleto também podem detectar deformações e contatos. Algumas sensilas antenais são morfologicamente compatíveis com a detecção de temperatura e umidade, embora a função específica de cada tipo na mandaçaia nem sempre tenha sido validada por registros fisiológicos diretos [4](85-referencias-bibliograficas.md#ref-12-4)[7](85-referencias-bibliograficas.md#ref-12-7).
 
 Além disso, um único comportamento pode reunir múltiplas modalidades sensoriais.
 
-Durante uma interação de alimentação dentro da colônia, por exemplo, *M. quadrifasciata* pode receber simultaneamente informações relacionadas ao sabor ou concentração do recurso, ao odor associado a ele e às vibrações produzidas pelo indivíduo que fornece o alimento [8]. A informação não chega ao organismo como uma sequência isolada de sentidos. Ela pode chegar como um **conjunto multimodal**.
+Durante uma interação de alimentação dentro da colônia, por exemplo, *M. quadrifasciata* pode receber simultaneamente informações relacionadas ao sabor ou concentração do recurso, ao odor associado a ele e às vibrações produzidas pelo indivíduo que fornece o alimento [8](85-referencias-bibliograficas.md#ref-12-8). A informação não chega ao organismo como uma sequência isolada de sentidos. Ela pode chegar como um **conjunto multimodal**.
 
 Essa integração é fundamental para compreender a vida social.
 
@@ -36,7 +36,7 @@ Só então podemos falar, em sentido funcional, de processamento sensorial.
 
 Esse princípio é particularmente importante quando analisamos experiências de laboratório.
 
-Se uma operária estende a probóscide ao entrar em contato com uma solução açucarada, observamos uma resposta comportamental. Se essa resposta pode ser modificada por condicionamento com determinado odor, temos evidência de que o sistema sensorial consegue detectar aquele odor e que o sistema nervoso pode estabelecer uma associação entre o estímulo e uma consequência [5][6].
+Se uma operária estende a probóscide ao entrar em contato com uma solução açucarada, observamos uma resposta comportamental. Se essa resposta pode ser modificada por condicionamento com determinado odor, temos evidência de que o sistema sensorial consegue detectar aquele odor e que o sistema nervoso pode estabelecer uma associação entre o estímulo e uma consequência [5](85-referencias-bibliograficas.md#ref-12-5)[6](85-referencias-bibliograficas.md#ref-12-6).
 
 O estudo dos sentidos precisa, portanto, acompanhar toda a cadeia entre **estímulo, receptor, processamento e resposta**.
 
@@ -46,7 +46,7 @@ A visão é o sistema sensorial melhor caracterizado experimentalmente em *M. qu
 
 Os olhos compostos possuem numerosos omatídeos, cada um com estruturas ópticas e fotorreceptoras. A informação luminosa é transformada em sinais elétricos e posteriormente processada pelo sistema nervoso.
 
-Experimentos realizados com a espécie demonstraram três regiões principais de sensibilidade espectral nos fotorreceptores: **ultravioleta, azul e verde** [1].
+Experimentos realizados com a espécie demonstraram três regiões principais de sensibilidade espectral nos fotorreceptores: **ultravioleta, azul e verde** [1](85-referencias-bibliograficas.md#ref-12-1).
 
 Isso coloca a visão da mandaçaia em uma situação muito diferente daquela da visão humana.
 
@@ -64,7 +64,7 @@ Um responde mais fortemente à região ultravioleta.
 
 Outro está associado à região azul.
 
-Outro apresenta maior sensibilidade na região verde [1].
+Outro apresenta maior sensibilidade na região verde [1](85-referencias-bibliograficas.md#ref-12-1).
 
 Isso não significa que a abelha veja apenas três cores.
 
@@ -80,7 +80,7 @@ Essa comparação permite que a abelha diferencie estímulos cuja distribuição
 
 Experimentos comportamentais com *M. quadrifasciata* demonstraram que a escolha visual não depende de uma única variável chamada “cor”.
 
-Koethe e colaboradores testaram diferentes combinações de intensidade, pureza espectral e comprimento de onda dominante em operárias de *Melipona quadrifasciata* e *M. mondury*. A mandaçaia apresentou preferência por determinados estímulos classificados no espaço visual das abelhas como verde, enquanto a outra espécie apresentou padrão distinto [3].
+Koethe e colaboradores testaram diferentes combinações de intensidade, pureza espectral e comprimento de onda dominante em operárias de *Melipona quadrifasciata* e *M. mondury*. A mandaçaia apresentou preferência por determinados estímulos classificados no espaço visual das abelhas como verde, enquanto a outra espécie apresentou padrão distinto [3](85-referencias-bibliograficas.md#ref-12-3).
 
 O estudo também demonstrou que a resposta poderia variar conforme outras características do estímulo.
 
@@ -98,7 +98,7 @@ Flores podem refletir ou absorver luz ultravioleta de maneira diferente em regi�
 
 Entretanto, não se deve afirmar que toda flor possui um “desenho ultravioleta” destinado às abelhas. A presença, intensidade e função ecológica desses padrões variam amplamente entre espécies vegetais.
 
-O ponto seguro é que **o sistema visual da mandaçaia possui um canal ultravioleta**, e isso amplia a quantidade de informação espectral disponível ao animal [1].
+O ponto seguro é que **o sistema visual da mandaçaia possui um canal ultravioleta**, e isso amplia a quantidade de informação espectral disponível ao animal [1](85-referencias-bibliograficas.md#ref-12-1).
 
 A interpretação comportamental dessa informação depende da espécie de planta, das condições de iluminação, da experiência do animal e do restante do sistema visual.
 
@@ -110,7 +110,7 @@ Folhas, galhos, flores, aberturas e superfícies passam pelo campo visual com ve
 
 O sistema visual precisa processar mudanças temporais.
 
-Estudos eletrofisiológicos com fotorreceptores de *M. quadrifasciata quadrifasciata* demonstraram que a resposta visual possui uma dimensão temporal mensurável. Em experimentos de soma temporal, estímulos luminosos de duração diferente produziram respostas relacionadas à intensidade e ao tempo de exposição [9].
+Estudos eletrofisiológicos com fotorreceptores de *M. quadrifasciata quadrifasciata* demonstraram que a resposta visual possui uma dimensão temporal mensurável. Em experimentos de soma temporal, estímulos luminosos de duração diferente produziram respostas relacionadas à intensidade e ao tempo de exposição [9](85-referencias-bibliograficas.md#ref-12-9).
 
 Isso mostra que a visão não é simplesmente uma medição de “quanta luz existe”.
 
@@ -122,7 +122,7 @@ Esse aspecto possui relação direta com a vida de um animal em voo.
 
 A chamada **soma temporal** ocorre quando a resposta de um fotorreceptor depende da integração de estímulos luminosos ao longo de um pequeno intervalo de tempo.
 
-Em *M. quadrifasciata*, estudos comparativos encontraram uma duração crítica na qual a energia luminosa pode ser integrada temporalmente para produzir respostas equivalentes [2].
+Em *M. quadrifasciata*, estudos comparativos encontraram uma duração crítica na qual a energia luminosa pode ser integrada temporalmente para produzir respostas equivalentes [2](85-referencias-bibliograficas.md#ref-12-2).
 
 Isso fornece uma medida objetiva da dinâmica do sistema visual.
 
@@ -140,7 +140,7 @@ Durante um dia muito claro, há grande disponibilidade de fótons.
 
 Em condições de baixa luminosidade, os sistemas sensoriais precisam operar em outro regime.
 
-Estudos comparativos com Meliponini mostram relação entre tamanho corporal e atividade em condições de baixa luz [10].
+Estudos comparativos com Meliponini mostram relação entre tamanho corporal e atividade em condições de baixa luz [10](85-referencias-bibliograficas.md#ref-12-10).
 
 Em termos gerais, espécies menores enfrentam restrições ópticas diferentes das espécies maiores. Entretanto, tamanho corporal não determina sozinho o horário de atividade.
 
@@ -154,7 +154,7 @@ Além dos olhos compostos, a cabeça possui três **ocelos**.
 
 Essas estruturas são pequenas, mas possuem uma função sensorial distinta.
 
-Os ocelos são altamente sensíveis à intensidade luminosa, mas possuem resolução espacial muito inferior à dos olhos compostos. Em abelhas, são associados à detecção de mudanças no nível de iluminação e podem contribuir para a orientação do corpo durante o voo [11].
+Os ocelos são altamente sensíveis à intensidade luminosa, mas possuem resolução espacial muito inferior à dos olhos compostos. Em abelhas, são associados à detecção de mudanças no nível de iluminação e podem contribuir para a orientação do corpo durante o voo [11](85-referencias-bibliograficas.md#ref-12-11).
 
 A diferença entre os dois sistemas é importante.
 
@@ -176,7 +176,7 @@ A intensidade luminosa pode variar conforme horário, cobertura vegetal, nebulos
 
 A direção da luz também muda ao longo do dia.
 
-Em abelhas, informações luminosas e espaciais podem participar da orientação e da navegação [11].
+Em abelhas, informações luminosas e espaciais podem participar da orientação e da navegação [11](85-referencias-bibliograficas.md#ref-12-11).
 
 Mais uma vez, é importante evitar a ideia de um único mecanismo equivalente a uma bússola simples. A orientação resulta da integração de múltiplas pistas.
 
@@ -186,13 +186,13 @@ Se a visão informa sobre o ambiente à distância, a **olfação** permite inve
 
 As antenas da mandaçaia possuem sensilas capazes de detectar moléculas presentes no ar e em superfícies.
 
-O estudo de Ravaiano e colaboradores encontrou sensilas placodea entre as mais abundantes da antena e discutiu sua provável participação na percepção olfativa [4].
+O estudo de Ravaiano e colaboradores encontrou sensilas placodea entre as mais abundantes da antena e discutiu sua provável participação na percepção olfativa [4](85-referencias-bibliograficas.md#ref-12-4).
 
 A existência dessas sensilas fornece a base anatômica.
 
 Experimentos comportamentais fornecem a base funcional.
 
-Operárias de *M. quadrifasciata* podem ser condicionadas a discriminar odores florais utilizando o paradigma de extensão da probóscide [5][6].
+Operárias de *M. quadrifasciata* podem ser condicionadas a discriminar odores florais utilizando o paradigma de extensão da probóscide [5](85-referencias-bibliograficas.md#ref-12-5)[6](85-referencias-bibliograficas.md#ref-12-6).
 
 Assim, não estamos apenas diante de uma estrutura que “parece um quimiorreceptor”. Existe evidência de que o organismo consegue utilizar informação olfativa de maneira comportamentalmente significativa.
 
@@ -200,7 +200,7 @@ Assim, não estamos apenas diante de uma estrutura que “parece um quimiorrecep
 
 Uma das características mais impressionantes do sistema olfativo da mandaçaia é sua capacidade de aprendizado.
 
-Em experimentos de condicionamento, um odor pode ser associado a uma recompensa alimentar. Depois de treinadas, as abelhas alteram sua resposta diante do odor previamente associado ao alimento [6].
+Em experimentos de condicionamento, um odor pode ser associado a uma recompensa alimentar. Depois de treinadas, as abelhas alteram sua resposta diante do odor previamente associado ao alimento [6](85-referencias-bibliograficas.md#ref-12-6).
 
 Esse fenômeno demonstra que o sentido do olfato não termina na antena.
 
@@ -218,11 +218,11 @@ Portanto, o estudo dos sentidos inevitavelmente encontra a cognição.
 
 O aprendizado olfativo não acontece apenas em condições artificiais.
 
-McCabe e Farina mostraram que informações odoríferas relacionadas a alimento adquiridas dentro da colônia podem influenciar posteriormente o desempenho das operárias em testes de condicionamento [6].
+McCabe e Farina mostraram que informações odoríferas relacionadas a alimento adquiridas dentro da colônia podem influenciar posteriormente o desempenho das operárias em testes de condicionamento [6](85-referencias-bibliograficas.md#ref-12-6).
 
 As abelhas que haviam entrado em contato com determinado odor associado ao alimento no interior do ninho apresentaram maior capacidade de discriminação em determinados protocolos experimentais.
 
-O estudo também encontrou evidências de memória de longo prazo em relação a odores apresentados no contexto alimentar e resultados compatíveis com aprendizado social de odores do néctar [6].
+O estudo também encontrou evidências de memória de longo prazo em relação a odores apresentados no contexto alimentar e resultados compatíveis com aprendizado social de odores do néctar [6](85-referencias-bibliograficas.md#ref-12-6).
 
 Esse achado é particularmente importante para a compreensão da sociedade.
 
@@ -246,7 +246,7 @@ As antenas são particularmente importantes porque podem ser movimentadas ativam
 
 Dentro do ninho, onde a distância entre as abelhas é pequena, o contato corporal torna-se especialmente relevante.
 
-Em Meliponini, interações de contato podem ocorrer durante alimentação, reconhecimento, transferência de informações e diferentes atividades coletivas [12].
+Em Meliponini, interações de contato podem ocorrer durante alimentação, reconhecimento, transferência de informações e diferentes atividades coletivas [12](85-referencias-bibliograficas.md#ref-12-12).
 
 ## Mecanorrecepção
 
@@ -254,7 +254,7 @@ A **mecanorrecepção** é a capacidade de detectar forças físicas.
 
 Uma sensila mecanorreceptora pode responder ao deslocamento de uma estrutura, à deformação da cutícula ou à vibração transmitida pelo corpo.
 
-Algumas categorias de sensilas identificadas nas antenas de *M. quadrifasciata* possuem morfologia compatível com funções mecanossensoriais [4].
+Algumas categorias de sensilas identificadas nas antenas de *M. quadrifasciata* possuem morfologia compatível com funções mecanossensoriais [4](85-referencias-bibliograficas.md#ref-12-4).
 
 Além das antenas, articulações e superfície do exoesqueleto também podem conter receptores capazes de registrar deformação.
 
@@ -286,7 +286,7 @@ Elas não devem ser tratadas simplesmente como “sons” no sentido humano.
 
 Uma parte importante da comunicação vibratória ocorre através do substrato ou por contato direto entre indivíduos.
 
-Em *M. quadrifasciata*, estudos realizados durante a alimentação social demonstraram que operárias receptoras recebem informação multimodal durante a transferência de alimento. Além de sinais gustativos e odoríferos, podem receber **vibrações torácicas pulsadas** produzidas pelas doadoras; essas vibrações apresentam relação com a rentabilidade do recurso explorado [8].
+Em *M. quadrifasciata*, estudos realizados durante a alimentação social demonstraram que operárias receptoras recebem informação multimodal durante a transferência de alimento. Além de sinais gustativos e odoríferos, podem receber **vibrações torácicas pulsadas** produzidas pelas doadoras; essas vibrações apresentam relação com a rentabilidade do recurso explorado [8](85-referencias-bibliograficas.md#ref-12-8).
 
 Esse é um dos exemplos mais fortes de integração sensorial específica da mandaçaia.
 
@@ -302,7 +302,7 @@ Isso não significa ausência de comunicação.
 
 A comunicação em Meliponini inclui sinais químicos, contatos corporais, vibrações e outros mecanismos.
 
-Dentro do ninho, uma operária pode tocar outra com as antenas, receber informações químicas da superfície corporal, entrar em contato com alimento e experimentar vibrações produzidas durante a interação [8][12].
+Dentro do ninho, uma operária pode tocar outra com as antenas, receber informações químicas da superfície corporal, entrar em contato com alimento e experimentar vibrações produzidas durante a interação [8](85-referencias-bibliograficas.md#ref-12-8)[12](85-referencias-bibliograficas.md#ref-12-12).
 
 O sistema sensorial transforma tudo isso em informação utilizável.
 
@@ -318,7 +318,7 @@ Elas estão expostas continuamente a moléculas presentes no ar, em materiais e 
 
 Isso inclui substâncias voláteis produzidas por plantas e provavelmente diversos sinais químicos presentes no ambiente social.
 
-O estudo anatômico de *M. quadrifasciata* demonstrou uma distribuição heterogênea das sensilas ao longo da antena [4].
+O estudo anatômico de *M. quadrifasciata* demonstrou uma distribuição heterogênea das sensilas ao longo da antena [4](85-referencias-bibliograficas.md#ref-12-4).
 
 Essa heterogeneidade faz sentido funcional.
 
@@ -354,7 +354,7 @@ Ela influencia metabolismo, atividade muscular, desenvolvimento e comportamento.
 
 Por isso, seria biologicamente plausível que a mandaçaia possuísse mecanismos para detectar mudanças térmicas.
 
-A literatura de sensilas de insetos demonstra a existência de estruturas termorreceptoras, e algumas categorias identificadas na antena de *M. quadrifasciata*, como as sensilas coeloconica e coelocapitula, foram discutidas à luz de suas funções presumidas [4][7].
+A literatura de sensilas de insetos demonstra a existência de estruturas termorreceptoras, e algumas categorias identificadas na antena de *M. quadrifasciata*, como as sensilas coeloconica e coelocapitula, foram discutidas à luz de suas funções presumidas [4](85-referencias-bibliograficas.md#ref-12-4)[7](85-referencias-bibliograficas.md#ref-12-7).
 
 Entretanto, é necessário manter uma distinção importante.
 
@@ -370,7 +370,7 @@ O ambiente de um ninho de abelhas sem ferrão possui uma relação estreita com 
 
 Na superfície externa, a umidade do ar pode variar entre manhã, tarde e noite, além de mudar com chuva, vegetação e cobertura do solo.
 
-Em outros insetos e em abelhas, determinadas sensilas antenais são capazes de detectar mudanças na umidade relativa [7].
+Em outros insetos e em abelhas, determinadas sensilas antenais são capazes de detectar mudanças na umidade relativa [7](85-referencias-bibliograficas.md#ref-12-7).
 
 No caso da *M. quadrifasciata*, a presença e a morfologia de determinadas sensilas antenais tornam possível discutir essa capacidade, mas a caracterização experimental direta dos mecanismos de higroreceptação da espécie ainda é limitada.
 
@@ -380,15 +380,15 @@ Esse é mais um exemplo de por que a anatomia comparada deve ser utilizada com p
 
 Essa pergunta parece simples, mas é cientificamente difícil.
 
-Sabemos que a espécie detecta luz em diferentes regiões espectrais [1][2].
+Sabemos que a espécie detecta luz em diferentes regiões espectrais [1](85-referencias-bibliograficas.md#ref-12-1)[2](85-referencias-bibliograficas.md#ref-12-2).
 
-Sabemos que discrimina odores e pode aprender associações olfativas [5][6].
+Sabemos que discrimina odores e pode aprender associações olfativas [5](85-referencias-bibliograficas.md#ref-12-5)[6](85-referencias-bibliograficas.md#ref-12-6).
 
-Sabemos que utiliza informação vibratória em interações sociais [8].
+Sabemos que utiliza informação vibratória em interações sociais [8](85-referencias-bibliograficas.md#ref-12-8).
 
-Conhecemos uma grande diversidade de sensilas antenais e sua distribuição entre castas e sexos [4].
+Conhecemos uma grande diversidade de sensilas antenais e sua distribuição entre castas e sexos [4](85-referencias-bibliograficas.md#ref-12-4).
 
-Também possuímos bases anatômicas para discutir mecanorrecepção e possíveis mecanismos de termo e higroreceptação [4][7].
+Também possuímos bases anatômicas para discutir mecanorrecepção e possíveis mecanismos de termo e higroreceptação [4](85-referencias-bibliograficas.md#ref-12-4)[7](85-referencias-bibliograficas.md#ref-12-7).
 
 Mas não podemos transformar cada capacidade detectada em uma descrição da “experiência subjetiva” da abelha.
 
@@ -404,9 +404,9 @@ Os sentidos não têm valor isoladamente.
 
 Uma luz detectada pelo olho pode produzir uma diferença no comportamento, assim como um odor pode ser associado a um recurso ou a outro estímulo e uma vibração pode adquirir significado funcional dentro de determinado contexto.
 
-O sistema nervoso é responsável por integrar essas informações. Em *M. quadrifasciata*, estudos de aprendizagem e condicionamento mostram claramente que a informação sensorial pode produzir memória e alterar respostas futuras [5][6][13].
+O sistema nervoso é responsável por integrar essas informações. Em *M. quadrifasciata*, estudos de aprendizagem e condicionamento mostram claramente que a informação sensorial pode produzir memória e alterar respostas futuras [5](85-referencias-bibliograficas.md#ref-12-5)[6](85-referencias-bibliograficas.md#ref-12-6)[13](85-referencias-bibliograficas.md#ref-12-13).
 
-Pesquisas proteômicas e fosfoproteômicas recentes também utilizaram a própria espécie para investigar alterações moleculares relacionadas à aprendizagem operante no cérebro [13].
+Pesquisas proteômicas e fosfoproteômicas recentes também utilizaram a própria espécie para investigar alterações moleculares relacionadas à aprendizagem operante no cérebro [13](85-referencias-bibliograficas.md#ref-12-13).
 
 Isso demonstra que a percepção não termina no receptor.
 
@@ -420,7 +420,7 @@ Uma operária pode experimentar uma associação entre um odor e uma recompensa 
 
 Depois de um intervalo, pode responder novamente ao odor.
 
-Experimentos com *M. quadrifasciata* demonstraram memória associada a odores e efeitos de experiências anteriores dentro do ninho [6].
+Experimentos com *M. quadrifasciata* demonstraram memória associada a odores e efeitos de experiências anteriores dentro do ninho [6](85-referencias-bibliograficas.md#ref-12-6).
 
 Isso significa que o ambiente não é percebido de maneira completamente independente do passado.
 
@@ -434,9 +434,9 @@ O aprendizado também pode ocorrer dentro da sociedade.
 
 Durante a transferência de alimento, uma operária pode receber sinais associados à fonte explorada.
 
-A informação odorífera presente no alimento pode posteriormente influenciar seu comportamento [6][8].
+A informação odorífera presente no alimento pode posteriormente influenciar seu comportamento [6](85-referencias-bibliograficas.md#ref-12-6)[8](85-referencias-bibliograficas.md#ref-12-8).
 
-O estudo de McCabe e Farina encontrou resultados compatíveis com **aprendizado social de odores do néctar** em *M. quadrifasciata* [6].
+O estudo de McCabe e Farina encontrou resultados compatíveis com **aprendizado social de odores do néctar** em *M. quadrifasciata* [6](85-referencias-bibliograficas.md#ref-12-6).
 
 Isso é particularmente fascinante porque mostra que a percepção individual pode contribuir para uma forma de transmissão social de informação.
 
@@ -456,7 +456,7 @@ Outra abelha possui odor corporal, superfície, movimentos e vibrações.
 
 No interior do ninho, essas informações podem se sobrepor.
 
-O estudo de transferência de alimento em *M. quadrifasciata* demonstrou precisamente essa integração, ao mostrar que informação **vibratória, olfativa e gustativa** pode chegar simultaneamente à abelha receptora [8].
+O estudo de transferência de alimento em *M. quadrifasciata* demonstrou precisamente essa integração, ao mostrar que informação **vibratória, olfativa e gustativa** pode chegar simultaneamente à abelha receptora [8](85-referencias-bibliograficas.md#ref-12-8).
 
 Isso fornece um modelo poderoso para compreender a sociedade.
 
@@ -532,7 +532,7 @@ As necessidades sensoriais também mudam ao longo da vida.
 
 Uma operária jovem, predominantemente envolvida em tarefas internas, vive em um mundo sensorial diferente daquele experimentado por uma forrageadora.
 
-As antenas de diferentes castas e sexos apresentam diferenças estruturais [4].
+As antenas de diferentes castas e sexos apresentam diferenças estruturais [4](85-referencias-bibliograficas.md#ref-12-4).
 
 A fisiologia também muda.
 
@@ -548,7 +548,7 @@ A rainha também possui olhos e antenas, mas sua vida sensorial ocorre em condi�
 
 Ela permanece predominantemente dentro do ninho e mantém contato constante com outras abelhas.
 
-O estudo de Ravaiano e colaboradores demonstrou diferenças no conjunto de sensilas entre rainhas e operárias [4].
+O estudo de Ravaiano e colaboradores demonstrou diferenças no conjunto de sensilas entre rainhas e operárias [4](85-referencias-bibliograficas.md#ref-12-4).
 
 Isso sugere que a especialização sensorial acompanha as necessidades da casta.
 
@@ -578,7 +578,7 @@ Significa que a **informação disponível ao organismo muda**, e o comportament
 
 A sensibilidade sensorial também pode ser afetada por contaminantes.
 
-Em *M. quadrifasciata*, experimentos com imidacloprido demonstraram redução da responsividade apetitiva e alterações de aprendizagem e memória em doses experimentais [14].
+Em *M. quadrifasciata*, experimentos com imidacloprido demonstraram redução da responsividade apetitiva e alterações de aprendizagem e memória em doses experimentais [14](85-referencias-bibliograficas.md#ref-12-14).
 
 Esse resultado é importante porque mostra que um contaminante pode afetar não apenas a sobrevivência física da abelha, mas também processos neurais relacionados à percepção, associação e memória.
 
@@ -610,13 +610,13 @@ O estudo dos sentidos, portanto, prepara o caminho para compreender comportament
 
 Apesar do avanço obtido por estudos anatômicos, fisiológicos e comportamentais, ainda existe muito a descobrir em *M. quadrifasciata*.
 
-A anatomia das sensilas está relativamente bem documentada [4].
+A anatomia das sensilas está relativamente bem documentada [4](85-referencias-bibliograficas.md#ref-12-4).
 
-A visão espectral foi demonstrada [1][2].
+A visão espectral foi demonstrada [1](85-referencias-bibliograficas.md#ref-12-1)[2](85-referencias-bibliograficas.md#ref-12-2).
 
-A aprendizagem olfativa foi investigada [5][6].
+A aprendizagem olfativa foi investigada [5](85-referencias-bibliograficas.md#ref-12-5)[6](85-referencias-bibliograficas.md#ref-12-6).
 
-A integração vibratória durante a alimentação foi demonstrada [8].
+A integração vibratória durante a alimentação foi demonstrada [8](85-referencias-bibliograficas.md#ref-12-8).
 
 Mas ainda são necessárias investigações detalhadas sobre a fisiologia de diferentes classes de sensilas, a integração neural entre modalidades e a contribuição exata de cada receptor para comportamentos naturais.
 
@@ -648,15 +648,15 @@ A imagem externa da mandaçaia não revela sua complexidade sensorial.
 
 Seus olhos detectam uma parte do espectro invisível para os humanos.
 
-Suas antenas possuem dezenas de milhares de pequenas estruturas sensoriais organizadas em diferentes tipos e distribuídas de maneira heterogênea [4].
+Suas antenas possuem dezenas de milhares de pequenas estruturas sensoriais organizadas em diferentes tipos e distribuídas de maneira heterogênea [4](85-referencias-bibliograficas.md#ref-12-4).
 
-Ela consegue discriminar odores e formar associações duradouras [5][6].
+Ela consegue discriminar odores e formar associações duradouras [5](85-referencias-bibliograficas.md#ref-12-5)[6](85-referencias-bibliograficas.md#ref-12-6).
 
-Pode receber sinais vibratórios durante interações sociais [8].
+Pode receber sinais vibratórios durante interações sociais [8](85-referencias-bibliograficas.md#ref-12-8).
 
 Possui mecanismos para detectar o estado físico do próprio corpo e interagir com superfícies por meio da mecanorrecepção.
 
-Provavelmente também utiliza informações de temperatura e umidade, embora nem todos os mecanismos envolvidos estejam experimentalmente caracterizados na própria espécie [4][7].
+Provavelmente também utiliza informações de temperatura e umidade, embora nem todos os mecanismos envolvidos estejam experimentalmente caracterizados na própria espécie [4](85-referencias-bibliograficas.md#ref-12-4)[7](85-referencias-bibliograficas.md#ref-12-7).
 
 A mandaçaia, portanto, não vive em um mundo simplesmente visual.
 
