@@ -328,3 +328,63 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 
 <a id="ref-15-18"></a>
 **[18]** ALVES, D. A.; MENEZES, C.; IMPERATRIZ-FONSECA, V. L.; WENSELEERS, T. First discovery of a rare polygyne colony in the stingless bee *Melipona quadrifasciata* (Apidae, Meliponini). *Apidologie*, v. 42, n. 2, p. 211–213, 2011. DOI: 10.1051/apido/2010053.
+
+
+## Capítulo 16 — As Operárias
+
+<a id="ref-16-1"></a>
+**[1]** KERR, W. E.; SANTOS-NETO, G. R. Contribuição para o conhecimento da bionomia dos Meliponini. V. Divisão de trabalho entre operárias de *Melipona quadrifasciata quadrifasciata* Lep. *Insectes Sociaux*, v. 3, p. 423–430, 1956.
+
+<a id="ref-16-2"></a>
+**[2]** TANAKA, É. D.; SANTANA, W. C.; HARTFELDER, K. Ovariole structure and oogenesis in queens and workers of the stingless bee *Melipona quadrifasciata* (Hymenoptera: Apidae, Meliponini) kept under different social conditions. *Apidologie*, v. 40, n. 2, p. 163–177, 2009. DOI: 10.1051/apido/2008071.
+
+<a id="ref-16-3"></a>
+**[3]** WALDSCHMIDT, A. M.; CAMPOS, L. A. O.; DE MARCO JÚNIOR, P. Genetic variability of behavior in *Melipona quadrifasciata* (Hymenoptera: Meliponinae). *Brazilian Journal of Genetics*, v. 20, n. 4, 1997. DOI: 10.1590/S0100-84551997000400007.
+
+<a id="ref-16-4"></a>
+**[4]** CONTRERA, F. A. L.; IMPERATRIZ-FONSECA, V. L.; KOEDAM, D. Age-dependent mass variation in the stingless bee *Melipona quadrifasciata* (Apidae, Meliponini). *Brazilian Journal of Morphological Sciences*, v. 23, n. 3–4, p. 321–324, 2006.
+
+<a id="ref-16-5"></a>
+**[5]** TOMÉ, H. V. V.; ROSI-DENADAI, C. A.; PIMENTA, J. F. N.; GUEDES, R. N. C.; MARTINS, G. F. Age-mediated and environmentally mediated brain and behavior plasticity in the stingless bee *Melipona quadrifasciata anthidioides*. *Apidologie*, v. 45, n. 5, p. 557–567, 2014. DOI: 10.1007/s13592-014-0272-7.
+
+<a id="ref-16-6"></a>
+**[6]** FAGUNDES, I. B.; CAMPOS, L. A. O.; SERRÃO, J. E. Tergite pigmentation indicates hypopharyngeal gland developmental degree in *Melipona quadrifasciata* (Hymenoptera, Apidae, Meliponini). *Sociobiology*, v. 48, n. 1, p. 51–62, 2006.
+
+<a id="ref-16-7"></a>
+**[7]** CRUZ-LANDIM, C.; GRACIOLI-VITTI, L. F.; ABDALLA, F. C. Ultrastructure of the intramandibular gland of workers and queens of the stingless bee, *Melipona quadrifasciata*. *Journal of Insect Science*, v. 11, art. 107, 2011. DOI: 10.1673/031.011.10701.
+
+<a id="ref-16-8"></a>
+**[8]** TOMÉ, H. V. V.; MARTINS, G. F.; LIMA, M. A. P.; CAMPOS, L. A. O.; GUEDES, R. N. C. Imidacloprid-Induced Impairment of Mushroom Bodies and Behavior of the Native Stingless Bee *Melipona quadrifasciata anthidioides*. *PLoS ONE*, v. 7, n. 6, e38406, 2012. DOI: 10.1371/journal.pone.0038406.
+
+<a id="ref-16-9"></a>
+**[9]** McCABE, S. I.; HARTFELDER, K.; SANTANA, W. C.; FARINA, W. M. Odor discrimination in classical conditioning of proboscis extension in two stingless bee species in comparison to Africanized honeybees. *Journal of Comparative Physiology A*, v. 193, p. 1089–1099, 2007. DOI: 10.1007/s00359-007-0260-8.
+
+<a id="ref-16-10"></a>
+**[10]** McCABE, S. I.; HRNCIR, M.; FARINA, W. M. Vibrating donor-partners during trophallaxis modulate associative learning ability of food receivers in the stingless bee *Melipona quadrifasciata*. *Learning & Motivation*, v. 50, p. 11–21, 2015. DOI: 10.1016/j.lmot.2014.10.005.
+
+<a id="ref-16-11"></a>
+**[11]** RAMALHO, M.; IMPERATRIZ-FONSECA, V. L.; GIANNINI, T. C. Within-colony size variation of foragers and pollen load capacity in the stingless bee *Melipona quadrifasciata anthidioides* Lepeletier (Apidae, Hymenoptera). *Apidologie*, v. 29, n. 3, p. 221–228, 1998. DOI: 10.1051/apido:19980302.
+
+<a id="ref-16-12"></a>
+**[12]** PAES-DE-OLIVEIRA, V. T.; BERGER, B.; CRUZ-LANDIM, C.; SIMÕES, Z. L. P. Vitellogenin content in fat body and ovary homogenates of workers and queens of *Melipona quadrifasciata anthidioides* during vitellogenesis. *Insect Science*, v. 19, n. 2, p. 213–219, 2012. DOI: 10.1111/j.1744-7917.2011.01445.x.
+
+<a id="ref-16-13"></a>
+**[13]** ENGELS, W.; IMPERATRIZ-FONSECA, V. L. Caste development, reproductive strategies, and control of fertility in honey bees and stingless bees. In: ENGELS, W. (ed.). *Social Insects*. Berlin: Springer, 1990, p. 167–230. DOI: 10.1007/978-3-642-74490-7_9.
+
+<a id="ref-16-14"></a>
+**[14]** CRUZ-LANDIM, C. Ovarian development in Meliponine bees (Hymenoptera: Apidae): the effect of queen presence and food on worker ovary development and egg production. *Genetics and Molecular Biology*, v. 23, n. 1, p. 83–88, 2000. DOI: 10.1590/S1415-47572000000100015.
+
+<a id="ref-16-15"></a>
+**[15]** SOUZA, L. D. R. *Perfil de expressão de genes relacionados à maturação comportamental em operárias das abelhas sem ferrão Frieseomellita varia e Melipona quadrifasciata (Meliponini).* Tese (Doutorado em Genética) — Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, 2025. DOI: 10.11606/T.17.2025.tde-05052025-141128.
+
+<a id="ref-16-16"></a>
+**[16]** HERTEL, H.; VENTURA, D. F. Spectral sensitivity of photoreceptors in the compound eye of stingless tropical bees. *Journal of Insect Physiology*, v. 31, n. 12, p. 931–935, 1985. DOI: 10.1016/0022-1910(85)90027-7; KOETHE, S.; BOSSEMS, J.; DYER, A. G.; LUNAU, K. Colour is more than hue: preferences for compiled colour traits in the stingless bees *Melipona mondury* and *Melipona quadrifasciata*. *Journal of Comparative Physiology A*, v. 202, n. 9–10, p. 615–627, 2016. DOI: 10.1007/s00359-016-1115-y.
+
+<a id="ref-16-17"></a>
+**[17]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, v. 101, n. 8, p. 603–611, 2014. DOI: 10.1007/s00114-014-1184-0. Erratum: DOI 10.1007/s00114-014-1203-1.
+
+<a id="ref-16-18"></a>
+**[18]** TOMÉ, H. V. V.; MARTINS, G. F.; LIMA, M. A. P.; CAMPOS, L. A. O.; GUEDES, R. N. C. Imidacloprid-Induced Impairment of Mushroom Bodies and Behavior of the Native Stingless Bee *Melipona quadrifasciata anthidioides*. *PLoS ONE*, v. 7, n. 6, e38406, 2012. DOI: 10.1371/journal.pone.0038406.
+
+<a id="ref-16-19"></a>
+**[19]** ZOTTI, M. J.; et al. Effects of insecticides used in strawberries on stingless bees *Melipona quadrifasciata* and *Tetragonisca fiebrigi* (Hymenoptera: Apidae). *Environmental Science and Pollution Research*, v. 27, n. 34, p. 42472–42480, 2020. DOI: 10.1007/s11356-020-09380-1.
