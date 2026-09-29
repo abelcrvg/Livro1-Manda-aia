@@ -1,41 +1,51 @@
 # Introdução
 
-Imagine aproximar-se lentamente de uma pequena caixa de madeira em uma manhã ensolarada. À primeira vista, talvez pareça haver pouco acontecendo. Uma pequena abertura na caixa, algumas abelhas entrando e saindo, outras permanecendo próximas à entrada. Algumas chegam carregando pólen. Outras retornam aparentemente sem nada visível. Há indivíduos que parecem trabalhar incessantemente dentro da colônia, enquanto outros permanecem imóveis, atentos ao movimento ao redor.
+A entrada de uma colônia de mandaçaias pode parecer um lugar simples. Abelhas chegam, partem, permanecem por alguns instantes junto à abertura e desaparecem novamente para o interior do ninho. Para quem observa apenas o movimento superficial, pouco parece acontecer além desse fluxo contínuo.
 
-Para quem olha rapidamente, são apenas abelhas entrando e saindo de um ninho.
+Mas a entrada é apenas a fronteira visível de uma sociedade complexa.
 
-Para quem aprende a observá-las, porém, aquela pequena abertura revela apenas uma parte de uma sociedade extremamente organizada.
+Dentro do ninho existem indivíduos em diferentes condições fisiológicas, uma organização reprodutiva, estruturas construídas coletivamente, reservas alimentares, cria em desenvolvimento e uma rede permanente de interações. Cada atividade externa está ligada a processos que ocorrem em uma escala que o observador normalmente não consegue enxergar.
 
-Dentro da colônia existe uma estrutura complexa, construída e mantida por milhares de interações. Há indivíduos envolvidos na reprodução, indivíduos responsáveis por diferentes tarefas de manutenção e uma série de comportamentos coletivos que permitem à colônia obter recursos, proteger seu ninho e produzir novas gerações.
+É essa escala invisível que este livro pretende tornar compreensível.
 
-A mandaçaia não é apenas uma abelha que produz mel.
+A espécie central da obra é *Melipona quadrifasciata*, conhecida popularmente como mandaçaia. Seu estudo será conduzido a partir de diferentes níveis: a identidade taxonômica da espécie, sua distribuição, seu habitat, a anatomia do indivíduo, o desenvolvimento, a organização da colônia, a reprodução, a arquitetura do ninho, a comunicação, o forrageamento, a alimentação e sua relação com a paisagem.
 
-Ela é parte de uma sociedade.
+O objetivo não é apresentar uma coleção de curiosidades nem reduzir a espécie à produção de mel. A proposta é construir uma visão integrada da biologia da mandaçaia, permitindo que cada fenômeno seja compreendido dentro do contexto em que realmente ocorre.
 
-E compreender essa sociedade muda completamente a maneira como observamos uma colônia.
+## Como utilizar esta obra
 
-Uma abelha parada na entrada pode estar desempenhando uma função importante. Uma abelha que retorna ao ninho carregando pólen está trazendo muito mais do que alimento: está contribuindo para a manutenção de toda a colônia. Uma alteração na quantidade de indivíduos entrando e saindo pode estar relacionada às condições ambientais, à disponibilidade de recursos ou às necessidades internas do ninho.
+O livro foi organizado para permitir uma leitura progressiva, mas também pode ser utilizado como obra de consulta. Os capítulos iniciais estabelecem a identidade e o contexto ecológico da espécie. A partir daí, o leitor passa ao organismo, ao desenvolvimento e à sociedade, avançando posteriormente para o ninho, os recursos, o comportamento e as relações com o ambiente.
 
-Até mesmo a aparente tranquilidade de uma colônia pode esconder uma intensa atividade em seu interior.
+Essa organização é deliberada. Um capítulo deve aprofundar seu próprio assunto, e não repetir extensamente aquilo que já foi explicado em outro. Quando um conceito precisar ser retomado para compreender um tema posterior, ele será apresentado de forma breve e contextualizada.
 
-Este livro nasceu da proposta de olhar para a mandaçaia não apenas como uma espécie de abelha sem ferrão, mas como um organismo social complexo, no qual os indivíduos vivem em constante interação e dependem da organização coletiva para a continuidade da colônia.
+O leitor que mantém uma colônia pode, portanto, consultar diretamente um assunto de interesse sem perder a estrutura geral da obra. Já quem deseja compreender a espécie desde seus fundamentos encontrará uma sequência construída para acompanhar a complexidade crescente do organismo individual até a colônia e a paisagem.
 
-Ao longo da obra, conheceremos sua biologia, anatomia, comportamento, organização social, arquitetura do ninho, reprodução, alimentação, comunicação e relação com o ambiente. Esses temas serão tratados separadamente, permitindo que cada aspecto da vida da espécie seja estudado com a profundidade necessária, sem transformar o livro em uma coleção de informações desconectadas.
+## Ciência, observação e experiência de campo
 
-Também aprenderemos a observar.
+Ao longo do livro, será importante distinguir três coisas: aquilo que foi demonstrado por estudos científicos, aquilo que representa uma interpretação sustentada por evidências e aquilo que foi observado em uma situação particular.
 
-Observar uma abelha não significa apenas identificar sua espécie. Significa prestar atenção ao contexto em que determinado comportamento ocorre, registrar mudanças e compreender que uma observação isolada raramente conta toda a história de uma colônia.
+Uma colônia pode apresentar um comportamento que chama atenção. Essa observação é legítima e pode gerar uma hipótese interessante. Entretanto, uma única ocorrência não é suficiente para estabelecer uma regra para toda a espécie. Temperatura, umidade, estação do ano, disponibilidade de recursos, idade da colônia, composição genética e condições internas podem modificar o comportamento observado.
 
-Uma colônia acompanhada durante meses revela informações que dificilmente aparecem em uma observação ocasional. O horário da atividade, as condições ambientais, a disponibilidade de recursos e as mudanças internas podem alterar aquilo que vemos do lado de fora do ninho.
+Por isso, quando uma informação tiver origem em uma espécie diferente de *Melipona quadrifasciata*, essa condição será indicada. Quando houver evidência específica para a mandaçaia, ela será tratada como tal. Quando a literatura ainda apresentar incerteza, a incerteza será preservada em vez de ser substituída por uma explicação aparentemente definitiva.
 
-É através dessa observação cuidadosa que o meliponicultor começa a perceber que uma colônia possui uma dinâmica própria.
+A observação do meliponicultor também possui valor. Um diário contendo data, horário, condições ambientais, intensidade da atividade e alterações observadas pode revelar padrões que uma observação ocasional não mostra. O registro, entretanto, deve permanecer ligado ao contexto em que foi produzido.
 
-Não uma linguagem formada por palavras, mas por movimentos, contatos, cheiros, estruturas e comportamentos.
+## Uma espécie, muitas escalas
 
-A intenção deste livro é justamente ajudar o leitor a compreender essa dinâmica.
+A mandaçaia pode ser estudada em diferentes escalas. No nível microscópico estão células, tecidos, hormônios e processos fisiológicos. No nível do organismo estão a anatomia, os sentidos, o metabolismo e o desenvolvimento. No nível social aparecem castas, divisão de trabalho, comunicação, reprodução e defesa. Em uma escala ainda maior encontramos o ninho, a vegetação, as fontes de recursos e a paisagem.
 
-Não se trata apenas de ensinar como manter uma colônia de mandaçaias. O objetivo é compreender o que acontece dentro dela, conhecer os indivíduos que formam essa sociedade e entender a relação entre a colônia e o ambiente onde ela vive.
+Nenhuma dessas escalas substitui as outras.
 
-Porque quanto mais entendemos a colônia, maior é nossa capacidade de observá-la com responsabilidade.
+A anatomia ajuda a compreender o comportamento. O comportamento ajuda a compreender a organização social. A organização social depende da arquitetura do ninho. A colônia depende dos recursos disponíveis na paisagem. E a paisagem, por sua vez, é modificada por processos naturais e pela atividade humana.
 
-E talvez essa seja uma das maiores recompensas da meliponicultura: descobrir que, diante de uma pequena entrada de um ninho, existe um mundo inteiro acontecendo.
+Essa continuidade entre escalas será uma das ideias centrais da obra.
+
+## Uma leitura cuidadosa da mandaçaia
+
+A mandaçaia é suficientemente conhecida para parecer familiar, mas ainda apresenta questões biológicas que exigem investigação. Sua variação geográfica, suas formas tradicionalmente associadas a MQA e MQQ, sua organização social, seus mecanismos de comunicação e sua relação com ambientes naturais e modificados mostram que uma descrição simples nunca será suficiente para explicar a espécie.
+
+Por isso, este livro não parte da ideia de que já sabemos tudo sobre a mandaçaia. Ele parte do conhecimento disponível e procura organizá-lo de maneira rigorosa, distinguindo fatos estabelecidos, evidências experimentais, interpretações e questões ainda abertas.
+
+O resultado pretendido é uma obra que possa ser lida tanto por quem está começando a conhecer as abelhas sem ferrão quanto por quem já mantém colônias e deseja compreender com maior profundidade aquilo que observa.
+
+A partir daqui, deixamos a visão geral e começamos a estudar a espécie propriamente dita: sua história natural, sua posição entre as abelhas e o ambiente que tornou possível sua existência.
