@@ -25,23 +25,24 @@ TECHNICAL_MARKERS = [
 
 
 def chapter_key(path: Path):
-    m = re.match(r"(\d+)-", path.name)
-    return (int(m.group(1)) if m else 9999, path.name.lower())
+    # Aceita nomes como 01-, 06-, 06a- e 06b-.
+    m = re.match(r"(\d+)([a-z]?)-", path.name, re.IGNORECASE)
+    if not m:
+        return (9999, 999, path.name.lower())
+    suffix = m.group(2).lower()
+    suffix_order = (ord(suffix) - ord("a") + 1) if suffix else 0
+    return (int(m.group(1)), suffix_order, path.name.lower())
 
 
 def clean_markdown(text: str) -> str:
-    # Front-matter simples, caso seja adicionado futuramente.
     if text.startswith("---"):
         parts = text.split("---", 2)
         if len(parts) == 3:
             text = parts[2].lstrip()
 
-    # Remove resíduos técnicos que não pertencem ao conteúdo editorial.
-    # As citações bibliográficas do livro usam [n] e não esses marcadores.
     for pattern in TECHNICAL_MARKERS:
         text = pattern.sub("", text)
 
-    # Alguns ambientes podem converter os delimitadores especiais em quadrados.
     text = re.sub(r"□cite□[^\n]*□", "", text, flags=re.IGNORECASE)
     text = re.sub(r"□(?:url|entity|image_group|video|navlist)□[^\n]*□", "", text, flags=re.IGNORECASE)
 
