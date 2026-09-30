@@ -62,6 +62,11 @@ def render_chapter(path: Path):
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup.find_all(["script", "style"]):
         tag.decompose()
+    # Converte links do manuscrito para a identificação real dos arquivos XHTML no EPUB.
+    for a in soup.find_all("a", href=True):
+        href = a.get("href", "")
+        if href.startswith("85-referencias-bibliograficas.md#"):
+            a["href"] = "cap-85-referencias-bibliograficas.xhtml" + href.split(".md", 1)[1]
     body = str(soup)
     first_h1 = soup.find("h1")
     title = first_h1.get_text(" ", strip=True) if first_h1 else path.stem
