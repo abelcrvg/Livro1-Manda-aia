@@ -388,3 +388,33 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 
 <a id="ref-16-19"></a>
 **[19]** ZOTTI, M. J.; et al. Effects of insecticides used in strawberries on stingless bees *Melipona quadrifasciata* and *Tetragonisca fiebrigi* (Hymenoptera: Apidae). *Environmental Science and Pollution Research*, v. 27, n. 34, p. 42472–42480, 2020. DOI: 10.1007/s11356-020-09380-1.
+
+
+## Capítulo 26 — A água na vida da colônia
+
+<a id="ref-26-1"></a>
+**[1]** MASCENA, V. M.; SILVA, C. M.; ALMEIDA, C. L. D.; ALVES, T. T. L.; FREITAS, B. M. External activity of colonies of *Melipona quinquefasciata* managed in different types of beehive. *Revista Ciência Agronômica*, v. 49, n. 4, p. 683–691, 2018. DOI: 10.5935/1806-6690.20180077.
+
+<a id="ref-26-2"></a>
+**[2]** LORENZON, M. C. A.; MATRANGOLO, C. A. R. Foraging on some nonfloral resources by stingless bees (Hymenoptera, Meliponini) in a Caatinga region. *Brazilian Journal of Biology*, v. 65, n. 2, p. 291–298, 2005. DOI: 10.1590/S1519-69842005000200013.
+
+<a id="ref-26-3"></a>
+**[3]** KOVAC, H.; KÄFER, H.; STABENTHEINER, A. The energetics and thermoregulation of water collecting honeybees. *Journal of Comparative Physiology A*, v. 204, p. 783–790, 2018. DOI: 10.1007/s00359-018-1278-9.
+
+<a id="ref-26-4"></a>
+**[4]** DOS SANTOS, C. F.; DEVKOTA, K.; BLOCHTEIN, B.; ALMEIDA, E. A. B. Thermal patterns in stingless bee colonies. *The Science of Nature*, v. 113, art. 29, 2026. DOI: 10.1007/s00114-026-02083-6.
+
+<a id="ref-26-5"></a>
+**[5]** SCHMARANZER, S. Thermoregulation of water collecting honey bees (*Apis mellifera*). *Journal of Insect Physiology*, v. 46, p. 1187–1194, 2000. DOI: 10.1016/S0022-1910(00)00039-1.
+
+<a id="ref-26-6"></a>
+**[6]** ROLDÃO-SBORDONI, Y. S.; GOMES, G.; MATEUS, S.; NASCIMENTO, F. S. Scientific note: warming nurses, a new worker role recorded for the first time in stingless bees. *Journal of Economic Entomology*, v. 112, n. 3, p. 1485–1488, 2019. DOI: 10.1093/jee/toy420.
+
+<a id="ref-26-7"></a>
+**[7]** CASTRO, J. S.; CAVALCANTE, A. M. B.; CASTRO, V. J. S.; SILVA, E. M. Resposta adaptativa de *Melipona subnitida* Ducke e a termorregulação colonial em diferentes condições térmicas no contexto das mudanças climáticas. *Revista Brasileira de Meteorologia*, v. 34, n. 3, p. 379–387, 2019. DOI: 10.1590/0102-7786343050.
+
+<a id="ref-26-8"></a>
+**[8]** OLIVEIRA-ABREU, C.; HILÁRIO, S. D.; LUZ, C. F. P.; ALVES-DOS-SANTOS, I. Pollen and nectar foraging by *Melipona quadrifasciata anthidioides* Lepeletier (Hymenoptera: Apidae: Meliponini) in natural habitat. *Sociobiology*, v. 61, n. 4, p. 441–448, 2014. DOI: 10.13102/sociobiology.v61i4.441-448.
+
+<a id="ref-26-9"></a>
+**[9]** ROSA-FONTANA, A. S.; DORIGO, A. S.; SOARES-LIMA, H. M.; FERREIRA NOCELLI, R. C.; MALASPINA, O. Is the Water Supply a Key Factor in Stingless Bees' Intoxication? *Journal of Insect Science*, v. 20, n. 6, art. 26, 2020. DOI: 10.1093/jisesa/ieaa127.
