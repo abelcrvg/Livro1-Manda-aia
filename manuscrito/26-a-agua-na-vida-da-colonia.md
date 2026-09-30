@@ -2,7 +2,7 @@
 
 A água ocupa uma posição peculiar na biologia das abelhas sem ferrão. Diferentemente do néctar e do pólen, ela não constitui, em geral, uma reserva energética ou proteica. Ainda assim, pode participar de processos fisiológicos, da preparação de alimentos e da manutenção das condições físicas do ninho. Sua importância, porém, não deve ser presumida apenas porque uma abelha foi observada carregando líquido. Para compreender esse comportamento é necessário distinguir a presença de água no ambiente, a coleta deliberada por uma operária, o destino do líquido dentro da colônia e a função efetivamente desempenhada por ele.
 
-Essa distinção é particularmente importante em *Melipona quadrifasciata*. Há evidências de que diferentes espécies de Meliponini lidam de maneiras distintas com a água disponível no ambiente, e a coleta de água não pode ser tratada como uma característica universal do grupo. Em *Melipona quinquefasciata*, por exemplo, trabalhadores não foram observados coletando água em recipientes disponibilizados durante o período estudado, enquanto os autores relacionaram a elevada umidade interna do ninho a processos associados ao alimento armazenado.[1] Em outras espécies, entretanto, a presença de água entre os recursos explorados pelas operárias foi registrada.[2]
+Essa distinção é particularmente importante em *Melipona quadrifasciata*. Há evidências de que diferentes espécies de Meliponini lidam de maneiras distintas com a água disponível no ambiente, e a coleta de água não pode ser tratada como uma característica universal do grupo. Em *Melipona quinquefasciata*, por exemplo, trabalhadores não foram observados coletando água em recipientes disponibilizados durante o período estudado, enquanto os autores relacionaram a elevada umidade interna do ninho a processos associados ao alimento armazenado.[1](85-referencias-bibliograficas.md#ref-26-1) Em outras espécies, entretanto, a presença de água entre os recursos explorados pelas operárias foi registrada.[2](85-referencias-bibliograficas.md#ref-26-2)
 
 O comportamento, portanto, precisa ser interpretado dentro da ecologia e da fisiologia de cada espécie. Para o meliponicultor, isso significa que uma operária chegando ao ninho com o abdômen distendido pode constituir uma observação relevante, mas a função do líquido somente poderá ser estabelecida quando houver evidências adicionais sobre sua origem, composição, momento de coleta e destino dentro da colônia.
 
@@ -12,7 +12,7 @@ A água participa de numerosos processos biológicos dos insetos. Ela está pres
 
 Dentro de uma colônia, entretanto, a questão assume uma dimensão social. O indivíduo não precisa necessariamente adquirir sozinho toda a água de que necessita. Recursos líquidos podem ser obtidos no ambiente, transferidos entre indivíduos e incorporados a processos coletivos. A necessidade hídrica de uma colônia pode, portanto, resultar da soma de necessidades fisiológicas individuais e de necessidades relacionadas à manutenção do ninho e ao processamento dos alimentos.
 
-Em *Apis mellifera*, estudos experimentais demonstraram funções bem estabelecidas para a água, incluindo manutenção do equilíbrio osmótico, diluição de alimento armazenado, preparação de alimento para a cria e, em determinadas condições, resfriamento evaporativo do ninho.[3] Esses resultados são importantes como referência fisiológica, mas não devem ser transferidos automaticamente para *M. quadrifasciata*. A comparação entre espécies é útil quando deixa explícito o limite da evidência.
+Em *Apis mellifera*, estudos experimentais demonstraram funções bem estabelecidas para a água, incluindo manutenção do equilíbrio osmótico, diluição de alimento armazenado, preparação de alimento para a cria e, em determinadas condições, resfriamento evaporativo do ninho.[3](85-referencias-bibliograficas.md#ref-26-3) Esses resultados são importantes como referência fisiológica, mas não devem ser transferidos automaticamente para *M. quadrifasciata*. A comparação entre espécies é útil quando deixa explícito o limite da evidência.
 
 Nas abelhas sem ferrão, a umidade do próprio alimento também pode contribuir para o balanço hídrico do ninho. O néctar possui grande quantidade de água e sofre transformações durante o armazenamento. A concentração do alimento modifica sua atividade de água e altera as condições em que microrganismos podem se desenvolver. Assim, a economia hídrica da colônia está ligada não somente à coleta externa, mas também ao processamento das reservas internas.
 
@@ -20,7 +20,7 @@ Nas abelhas sem ferrão, a umidade do próprio alimento também pode contribuir 
 
 Quando uma operária visita uma fonte líquida, o observador tende naturalmente a interpretar o comportamento como coleta de água. Em muitos casos essa interpretação será plausível, mas a aparência externa não é suficiente para determinar a função do líquido.
 
-Uma abelha pode explorar água livre, superfícies úmidas, substratos vegetais molhados, solo úmido ou materiais que contenham substâncias dissolvidas. Em ambientes naturais, recursos não florais podem ser utilizados por diferentes Meliponini, e estudos em áreas de Caatinga registraram abelhas sem ferrão explorando substratos aquosos e outras fontes não florais.[2]
+Uma abelha pode explorar água livre, superfícies úmidas, substratos vegetais molhados, solo úmido ou materiais que contenham substâncias dissolvidas. Em ambientes naturais, recursos não florais podem ser utilizados por diferentes Meliponini, e estudos em áreas de Caatinga registraram abelhas sem ferrão explorando substratos aquosos e outras fontes não florais.[2](85-referencias-bibliograficas.md#ref-26-2)
 
 Além disso, o líquido transportado pode conter sais minerais, compostos orgânicos ou partículas dissolvidas. A atração por determinado ponto úmido não demonstra, por si só, que a finalidade seja exclusivamente hídrica. Em condições naturais, água e minerais frequentemente aparecem associados.
 
@@ -36,7 +36,7 @@ O método mais confiável para um registro de campo é estabelecer uma relação
 
 ## 26.4 Água e preparação de alimentos
 
-Uma das funções mais bem documentadas da água em abelhas sociais está relacionada ao processamento de alimentos. Em *Apis mellifera*, a água pode ser utilizada na diluição de reservas e na preparação de alimento destinado à cria.[3]
+Uma das funções mais bem documentadas da água em abelhas sociais está relacionada ao processamento de alimentos. Em *Apis mellifera*, a água pode ser utilizada na diluição de reservas e na preparação de alimento destinado à cria.[3](85-referencias-bibliograficas.md#ref-26-3)
 
 Nas abelhas sem ferrão, o processamento do alimento ocorre dentro de um sistema diferente, caracterizado por potes de armazenamento, aprovisionamento das células de cria e transformações físicas e microbiológicas das reservas. Isso não permite concluir que toda água coletada por uma mandaçaia seja destinada à alimentação da cria, mas demonstra por que a água deve ser considerada parte da economia alimentar da colônia.
 
@@ -50,19 +50,19 @@ Esse ponto é importante porque impede uma interpretação simplista: a ausênci
 
 A umidade interna resulta da interação entre água presente nos alimentos, metabolismo, troca de ar, propriedades dos materiais do ninho, temperatura e condições externas. Em espécies de Melipona, a arquitetura do ninho contribui para criar regiões com características microclimáticas próprias, especialmente ao redor da área de cria.
 
-Estudos com outras Meliponini mostram que a regulação da umidade pode ser biologicamente importante e que nem todas as espécies regulam temperatura e umidade da mesma maneira.[4] Isso reforça a necessidade de evitar generalizações. Uma colônia de mandaçaia mantida em uma região úmida pode enfrentar uma situação completamente diferente daquela encontrada por uma colônia mantida em um ambiente quente e seco.
+Estudos com outras Meliponini mostram que a regulação da umidade pode ser biologicamente importante e que nem todas as espécies regulam temperatura e umidade da mesma maneira.[4](85-referencias-bibliograficas.md#ref-26-4) Isso reforça a necessidade de evitar generalizações. Uma colônia de mandaçaia mantida em uma região úmida pode enfrentar uma situação completamente diferente daquela encontrada por uma colônia mantida em um ambiente quente e seco.
 
 A relação entre água e umidade também ajuda a explicar por que o manejo de uma caixa não deve buscar simplesmente “a maior umidade possível”. Umidade excessiva pode favorecer condensação, deterioração de materiais e alterações microbiológicas indesejáveis. O objetivo biológico não é maximizar a água, mas manter condições compatíveis com as necessidades da colônia.
 
 ## 26.6 Água e termorregulação
 
-A relação entre água e temperatura é uma das questões mais conhecidas na biologia das abelhas sociais. Em *Apis mellifera*, a coleta de água está diretamente associada a mecanismos de resfriamento evaporativo em determinadas condições de aquecimento do ninho.[3][5]
+A relação entre água e temperatura é uma das questões mais conhecidas na biologia das abelhas sociais. Em *Apis mellifera*, a coleta de água está diretamente associada a mecanismos de resfriamento evaporativo em determinadas condições de aquecimento do ninho.[3](85-referencias-bibliograficas.md#ref-26-3)[5](85-referencias-bibliograficas.md#ref-26-5)
 
 Nesse processo, a água é distribuída sobre superfícies e sua evaporação retira calor do ambiente. O princípio físico é simples: a mudança da água do estado líquido para o vapor exige energia, e parte dessa energia é retirada na forma de calor do sistema em que a evaporação ocorre.
 
-O fato de esse mecanismo existir em *Apis* não permite afirmar automaticamente que seja responsável pela coleta de água observada em *M. quadrifasciata*. A termorregulação das abelhas sem ferrão é diversificada. Há espécies nas quais foram observadas formas comportamentais de controle térmico, produção de calor por operárias associadas à cria e outras estratégias relacionadas à arquitetura do ninho.[6]
+O fato de esse mecanismo existir em *Apis* não permite afirmar automaticamente que seja responsável pela coleta de água observada em *M. quadrifasciata*. A termorregulação das abelhas sem ferrão é diversificada. Há espécies nas quais foram observadas formas comportamentais de controle térmico, produção de calor por operárias associadas à cria e outras estratégias relacionadas à arquitetura do ninho.[6](85-referencias-bibliograficas.md#ref-26-6)
 
-Em *Melipona subnitida*, por exemplo, estudos discutiram a possibilidade de resfriamento evaporativo associado à entrada de água sob condições térmicas elevadas.[7] Esse resultado demonstra que o fenômeno pode ocorrer entre Meliponini, mas continua sendo necessário verificar quais mecanismos são utilizados especificamente por cada espécie.
+Em *Melipona subnitida*, por exemplo, estudos discutiram a possibilidade de resfriamento evaporativo associado à entrada de água sob condições térmicas elevadas.[7](85-referencias-bibliograficas.md#ref-26-7) Esse resultado demonstra que o fenômeno pode ocorrer entre Meliponini, mas continua sendo necessário verificar quais mecanismos são utilizados especificamente por cada espécie.
 
 No caso da mandaçaia, portanto, a formulação cientificamente adequada é mais cautelosa: **a água pode participar da economia hídrica e, dependendo das condições e dos mecanismos utilizados pela colônia, pode estar relacionada ao controle do microambiente; porém, a observação de coleta de água isoladamente não demonstra resfriamento evaporativo.**
 
@@ -70,7 +70,7 @@ No caso da mandaçaia, portanto, a formulação cientificamente adequada é mais
 
 A demanda por água pode variar conforme as condições ambientais. Temperaturas elevadas aumentam a perda de água por evaporação e alteram o balanço hídrico dos organismos. Ao mesmo tempo, períodos quentes podem aumentar a necessidade de mecanismos de controle térmico.
 
-Entretanto, temperatura elevada não deve ser utilizada como explicação automática para qualquer aumento de coleta de água. Uma colônia pode apresentar maior atividade externa simplesmente porque as condições meteorológicas se tornaram favoráveis ao voo. Em *M. quadrifasciata*, a atividade externa varia com fatores ambientais como temperatura e umidade, e estudos de campo registraram padrões diários distintos para coleta de pólen e néctar.[8]
+Entretanto, temperatura elevada não deve ser utilizada como explicação automática para qualquer aumento de coleta de água. Uma colônia pode apresentar maior atividade externa simplesmente porque as condições meteorológicas se tornaram favoráveis ao voo. Em *M. quadrifasciata*, a atividade externa varia com fatores ambientais como temperatura e umidade, e estudos de campo registraram padrões diários distintos para coleta de pólen e néctar.[8](85-referencias-bibliograficas.md#ref-26-8)
 
 A interpretação exige, portanto, comparar dias quentes com dias de temperatura semelhante e observar se o comportamento de coleta de água realmente muda de maneira consistente. Um único episódio observado durante uma tarde muito quente não é suficiente para estabelecer uma relação causal.
 
@@ -78,7 +78,7 @@ A interpretação exige, portanto, comparar dias quentes com dias de temperatura
 
 A cria é particularmente sensível às condições físicas do ninho. O desenvolvimento dos estágios imaturos ocorre dentro de células construídas em uma região relativamente protegida, e temperatura e umidade influenciam o ambiente em que esse desenvolvimento acontece.
 
-A estabilidade desse microambiente não depende exclusivamente da água. A arquitetura do ninho, a disposição dos favos, o invólucro, a ventilação, a atividade metabólica das operárias e as propriedades da cavidade atuam em conjunto. Estudos com Meliponini demonstraram inclusive a existência de operárias com atividade associada à produção de calor na região da cria, mostrando que o controle do ambiente pode envolver mecanismos comportamentais e fisiológicos diferentes da simples adição de água.[6]
+A estabilidade desse microambiente não depende exclusivamente da água. A arquitetura do ninho, a disposição dos favos, o invólucro, a ventilação, a atividade metabólica das operárias e as propriedades da cavidade atuam em conjunto. Estudos com Meliponini demonstraram inclusive a existência de operárias com atividade associada à produção de calor na região da cria, mostrando que o controle do ambiente pode envolver mecanismos comportamentais e fisiológicos diferentes da simples adição de água.[6](85-referencias-bibliograficas.md#ref-26-6)
 
 Esse conjunto de mecanismos deve ser considerado antes de atribuir a uma fonte líquida uma função específica. Se uma colônia coleta água em determinado período, é perfeitamente possível que a água esteja sendo utilizada em uma necessidade fisiológica ou alimentar, e não necessariamente na regulação térmica da cria.
 
@@ -96,7 +96,7 @@ A própria paisagem pode criar uma relação entre disponibilidade de água e at
 
 A água fornecida às abelhas deve ser considerada um recurso biológico, e não simplesmente um elemento de hidratação. Uma fonte contaminada pode transportar substâncias capazes de entrar em contato com as operárias e, dependendo do comportamento de transferência e armazenamento, alcançar o interior da colônia.
 
-Essa preocupação é especialmente relevante em ambientes agrícolas e urbanos. Resíduos de defensivos, fertilizantes, detergentes, metais e outros contaminantes podem alcançar superfícies líquidas utilizadas por insetos. Um estudo experimental com *Melipona scutellaris* demonstrou que a água pode atuar como uma via relevante de exposição a pesticidas, mostrando que a disponibilidade hídrica não deve ser separada da qualidade do recurso.[9]
+Essa preocupação é especialmente relevante em ambientes agrícolas e urbanos. Resíduos de defensivos, fertilizantes, detergentes, metais e outros contaminantes podem alcançar superfícies líquidas utilizadas por insetos. Um estudo experimental com *Melipona scutellaris* demonstrou que a água pode atuar como uma via relevante de exposição a pesticidas, mostrando que a disponibilidade hídrica não deve ser separada da qualidade do recurso.[9](85-referencias-bibliograficas.md#ref-26-9)
 
 Por isso, uma fonte artificial de água deve ser instalada em local protegido de produtos químicos, escoamento contaminado e acúmulo de matéria orgânica em decomposição. O recipiente também precisa permitir acesso seguro sem criar uma superfície na qual as abelhas possam ficar presas ou se afogar.
 
@@ -187,27 +187,3 @@ Essa complexidade é justamente o que torna a observação da coleta de água t�
 No estudo da mandaçaia, portanto, a pergunta mais útil não é simplesmente “para que serve a água?”. A pergunta é mais ampla: **em que circunstâncias a colônia necessita de água, de onde ela a obtém, como esse recurso é incorporado ao funcionamento interno e quais evidências permitem identificar sua função?**
 
 Responder a essas perguntas exige observação cuidadosa, comparação entre condições e respeito aos limites daquilo que a evidência realmente demonstra. É dessa forma que um comportamento aparentemente simples passa a revelar a complexidade da organização de uma colônia de *Melipona quadrifasciata*.
-
----
-
-### Referências utilizadas neste capítulo
-
-[1] Estudo sobre atividade externa de colônias de *Melipona quinquefasciata*, incluindo a ausência de observação de coleta de água durante o período experimental.
-
-[2] Estudo sobre o uso de recursos florais e não florais por abelhas sem ferrão em ambiente de Caatinga.
-
-[3] Kovac, H.; Käfer, H.; Stabentheiner, A. Estudos sobre energetics, fisiologia e termorregulação de abelhas coletoras de água em *Apis mellifera*.
-
-[4] Estudo experimental sobre regulação de umidade e temperatura do ninho em Meliponini.
-
-[5] Schmaranzer, S. Estudo sobre termorregulação de abelhas coletoras de água de *Apis mellifera*.
-
-[6] Estudo sobre produção de calor por operárias associadas à cria em *Melipona scutellaris*.
-
-[7] Estudo sobre resposta adaptativa e possível termorregulação colonial em *Melipona subnitida* sob diferentes condições térmicas.
-
-[8] Oliveira-Abreu, C. et al. Estudo sobre atividade externa, coleta de pólen e néctar e influência de temperatura e umidade em *Melipona quadrifasciata anthidioides*.
-
-[9] Rosa-Fontana, A. S. et al. Estudo experimental sobre a água como possível via de exposição a pesticidas em *Melipona scutellaris*.
-
-**Nota editorial:** as referências acima serão posteriormente integradas à bibliografia geral da obra. Os números de citação serão normalizados durante a etapa final de edição para que cada marcador no texto corresponda a uma referência única e clicável no EPUB.
