@@ -1,8 +1,8 @@
 # Os Machos
 
-Os machos de *Melipona quadrifasciata* ocupam uma posição singular dentro da colônia. Diferentemente das operárias e da rainha, não participam da manutenção cotidiana do ninho como uma casta de trabalho e não constituem a principal população reprodutiva feminina. Sua função biológica central está ligada à reprodução: produzir e transferir os gametas masculinos necessários à fecundação de uma nova rainha. Ainda assim, reduzir o macho a um simples “reprodutor” seria insuficiente. Sua origem genética, anatomia, fisiologia, comportamento, relação com a colônia e, sobretudo, a existência de machos diploides tornam a biologia masculina da mandaçaia um dos capítulos mais interessantes da espécie [1][2].
+Os machos de *Melipona quadrifasciata* ocupam uma posição singular dentro da colônia. Diferentemente das operárias e da rainha, não participam da manutenção cotidiana do ninho como uma casta de trabalho e não constituem a principal população reprodutiva feminina. Sua função biológica central está ligada à reprodução: produzir e transferir os gametas masculinos necessários à fecundação de uma nova rainha. Ainda assim, reduzir o macho a um simples “reprodutor” seria insuficiente. Sua origem genética, anatomia, fisiologia, comportamento, relação com a colônia e, sobretudo, a existência de machos diploides tornam a biologia masculina da mandaçaia um dos capítulos mais interessantes da espécie [1](85-referencias-bibliograficas.md#ref-17-1)[2](85-referencias-bibliograficas.md#ref-17-2).
 
-A primeira distinção necessária é entre **macho haploide** e **macho diploide**. O macho haploide é a forma reprodutiva normalmente produzida a partir de ovos não fecundados. O macho diploide resulta de um evento genético diferente: um ovo fecundado que apresenta determinada combinação de alelos no sistema de determinação sexual. Em *Melipona quadrifasciata*, esse fenômeno foi demonstrado experimentalmente e permitiu compreender uma característica fundamental da genética da espécie [1][3].
+A primeira distinção necessária é entre **macho haploide** e **macho diploide**. O macho haploide é a forma reprodutiva normalmente produzida a partir de ovos não fecundados. O macho diploide resulta de um evento genético diferente: um ovo fecundado que apresenta determinada combinação de alelos no sistema de determinação sexual. Em *Melipona quadrifasciata*, esse fenômeno foi demonstrado experimentalmente e permitiu compreender uma característica fundamental da genética da espécie [1](85-referencias-bibliograficas.md#ref-17-1)[3](85-referencias-bibliograficas.md#ref-17-3).
 
 ## O macho dentro da organização colonial
 
@@ -14,7 +14,7 @@ A presença de machos deve ser interpretada, assim, dentro da economia reproduti
 
 ## De onde vêm os machos
 
-Em himenópteros, a produção de machos normalmente está associada à partenogênese arrenótoca: ovos não fecundados desenvolvem-se como indivíduos haploides. As fêmeas, por sua vez, desenvolvem-se a partir de ovos fecundados e são diploides. Esse princípio geral também se aplica à *Melipona quadrifasciata* [2][4].
+Em himenópteros, a produção de machos normalmente está associada à partenogênese arrenótoca: ovos não fecundados desenvolvem-se como indivíduos haploides. As fêmeas, por sua vez, desenvolvem-se a partir de ovos fecundados e são diploides. Esse princípio geral também se aplica à *Melipona quadrifasciata* [2](85-referencias-bibliograficas.md#ref-17-2)[4](85-referencias-bibliograficas.md#ref-17-4).
 
 A consequência genética é profunda. Um macho haploide recebe seu conjunto cromossômico da mãe, sem receber uma contribuição paterna. Ele possui, portanto, uma única cópia de cada cromossomo. Quando produz espermatozoides, sua contribuição genética para a próxima geração deriva desse único conjunto.
 
@@ -22,23 +22,23 @@ Essa condição ajuda a explicar por que os machos de himenópteros são tão im
 
 ## O sistema de determinação sexual da mandaçaia
 
-A biologia sexual de *M. quadrifasciata* não termina, porém, na regra “ovo não fecundado gera macho e ovo fecundado gera fêmea”. A espécie apresenta um sistema de **determinação sexual complementar**, no qual a combinação de alelos em um locus sexual influencia o desenvolvimento como macho ou fêmea [1][3].
+A biologia sexual de *M. quadrifasciata* não termina, porém, na regra “ovo não fecundado gera macho e ovo fecundado gera fêmea”. A espécie apresenta um sistema de **determinação sexual complementar**, no qual a combinação de alelos em um locus sexual influencia o desenvolvimento como macho ou fêmea [1](85-referencias-bibliograficas.md#ref-17-1)[3](85-referencias-bibliograficas.md#ref-17-3).
 
-Em termos simplificados, indivíduos com uma condição heterozigótica nesse locus desenvolvem-se como fêmeas, enquanto indivíduos hemizigóticos ou homozigóticos para determinada combinação podem desenvolver-se como machos. Essa arquitetura permite o aparecimento excepcional de machos diploides [1][5].
+Em termos simplificados, indivíduos com uma condição heterozigótica nesse locus desenvolvem-se como fêmeas, enquanto indivíduos hemizigóticos ou homozigóticos para determinada combinação podem desenvolver-se como machos. Essa arquitetura permite o aparecimento excepcional de machos diploides [1](85-referencias-bibliograficas.md#ref-17-1)[5](85-referencias-bibliograficas.md#ref-17-5).
 
-A descoberta desse fenômeno em *M. quadrifasciata* foi importante para a genética das abelhas. Camargo demonstrou experimentalmente que cruzamentos entre indivíduos aparentados podiam produzir machos diploides e utilizou esses resultados para investigar o sistema de determinação sexual da espécie [1].
+A descoberta desse fenômeno em *M. quadrifasciata* foi importante para a genética das abelhas. Camargo demonstrou experimentalmente que cruzamentos entre indivíduos aparentados podiam produzir machos diploides e utilizou esses resultados para investigar o sistema de determinação sexual da espécie [1](85-referencias-bibliograficas.md#ref-17-1).
 
 ## O macho diploide
 
-O **macho diploide** é geneticamente diferente do macho haploide comum porque possui dois conjuntos cromossômicos. Ele se origina de um ovo fecundado, mas a combinação de alelos no locus sexual faz com que o desenvolvimento siga a trajetória masculina [1][3].
+O **macho diploide** é geneticamente diferente do macho haploide comum porque possui dois conjuntos cromossômicos. Ele se origina de um ovo fecundado, mas a combinação de alelos no locus sexual faz com que o desenvolvimento siga a trajetória masculina [1](85-referencias-bibliograficas.md#ref-17-1)[3](85-referencias-bibliograficas.md#ref-17-3).
 
 Sua existência é particularmente importante porque demonstra que fecundação e desenvolvimento feminino não são equivalentes de maneira absoluta. A fecundação fornece a condição diploide, mas o estado alélico do sistema de determinação sexual também participa da definição do sexo.
 
-Em *M. quadrifasciata*, machos diploides podem alcançar a fase adulta e apresentam aparência semelhante à dos machos haploides. Isso cria uma dificuldade prática: não é possível identificar com segurança a ploidia de um macho simplesmente observando seu corpo. A distinção pode exigir análise citogenética ou métodos moleculares específicos [2][6].
+Em *M. quadrifasciata*, machos diploides podem alcançar a fase adulta e apresentam aparência semelhante à dos machos haploides. Isso cria uma dificuldade prática: não é possível identificar com segurança a ploidia de um macho simplesmente observando seu corpo. A distinção pode exigir análise citogenética ou métodos moleculares específicos [2](85-referencias-bibliograficas.md#ref-17-2)[6](85-referencias-bibliograficas.md#ref-17-6).
 
 ## Por que aparecem machos diploides
 
-A produção de machos diploides está associada a cruzamentos nos quais a rainha e o macho compartilham alelos compatíveis com homozigose no locus de determinação sexual. O parentesco aumenta a probabilidade de que essa combinação ocorra [3][5].
+A produção de machos diploides está associada a cruzamentos nos quais a rainha e o macho compartilham alelos compatíveis com homozigose no locus de determinação sexual. O parentesco aumenta a probabilidade de que essa combinação ocorra [3](85-referencias-bibliograficas.md#ref-17-3)[5](85-referencias-bibliograficas.md#ref-17-5).
 
 Esse fenômeno possui importância especial em populações pequenas ou geneticamente isoladas. Quando a diversidade de alelos sexuais é reduzida, aumenta a possibilidade de uma rainha encontrar um macho portador de um alelo compatível com o seu de maneira a produzir descendentes diploides masculinos.
 
@@ -46,7 +46,7 @@ Em populações naturais, a diversidade genética pode reduzir a frequência des
 
 ## O problema biológico do macho diploide
 
-Do ponto de vista da colônia, um macho diploide representa um investimento reprodutivo de retorno potencialmente menor do que o de uma fêmea. Uma cria feminina poderia tornar-se operária e contribuir diretamente para a manutenção do ninho, enquanto um macho não assume as mesmas funções de trabalho. Estudos sobre machos diploides de *M. quadrifasciata* encontraram diferenças relacionadas à viabilidade, longevidade e características reprodutivas quando comparados aos machos haploides [2][6].
+Do ponto de vista da colônia, um macho diploide representa um investimento reprodutivo de retorno potencialmente menor do que o de uma fêmea. Uma cria feminina poderia tornar-se operária e contribuir diretamente para a manutenção do ninho, enquanto um macho não assume as mesmas funções de trabalho. Estudos sobre machos diploides de *M. quadrifasciata* encontraram diferenças relacionadas à viabilidade, longevidade e características reprodutivas quando comparados aos machos haploides [2](85-referencias-bibliograficas.md#ref-17-2)[6](85-referencias-bibliograficas.md#ref-17-6).
 
 Esse custo cria uma pressão evolutiva para a manutenção de diversidade no sistema de determinação sexual. Quanto maior a diversidade de alelos sexuais disponíveis em uma população, menor tende a ser a probabilidade de combinações que produzam machos diploides.
 
@@ -56,7 +56,7 @@ A genética da determinação sexual, portanto, não é apenas uma curiosidade d
 
 Depois que o ovo inicia o desenvolvimento masculino, a larva passa pelas mesmas grandes etapas de desenvolvimento holometábolo características dos demais himenópteros: fase larval, transformação pupal e emergência do adulto. Durante esse processo, estruturas internas e externas são construídas progressivamente.
 
-Nos machos haploides e diploides de *M. quadrifasciata*, diversos aspectos anatômicos podem ser semelhantes apesar da diferença de ploidia. Pesquisas comparativas do intestino médio, por exemplo, não encontraram diferenças simples que permitissem distinguir os dois tipos de macho apenas pela quantidade de células digestivas ou regenerativas [7].
+Nos machos haploides e diploides de *M. quadrifasciata*, diversos aspectos anatômicos podem ser semelhantes apesar da diferença de ploidia. Pesquisas comparativas do intestino médio, por exemplo, não encontraram diferenças simples que permitissem distinguir os dois tipos de macho apenas pela quantidade de células digestivas ou regenerativas [7](85-referencias-bibliograficas.md#ref-17-7).
 
 Isso mostra que ploidia não significa necessariamente uma diferença morfológica evidente em todos os órgãos. O genoma possui mecanismos de desenvolvimento capazes de produzir um fenótipo masculino semelhante a partir de condições cromossômicas diferentes.
 
@@ -64,7 +64,7 @@ Isso mostra que ploidia não significa necessariamente uma diferença morfológi
 
 A principal estrutura reprodutiva do macho é o sistema testicular. É nele que ocorre a formação dos espermatozoides, células que posteriormente serão transferidas à rainha durante o acasalamento.
 
-Estudos comparativos de *M. quadrifasciata* demonstraram diferenças entre machos haploides e diploides no tamanho dos testículos e na quantidade de espermatozoides produzidos. Machos diploides apresentaram testículos menores e menor quantidade de espermatozoides em comparação com machos haploides [6].
+Estudos comparativos de *M. quadrifasciata* demonstraram diferenças entre machos haploides e diploides no tamanho dos testículos e na quantidade de espermatozoides produzidos. Machos diploides apresentaram testículos menores e menor quantidade de espermatozoides em comparação com machos haploides [6](85-referencias-bibliograficas.md#ref-17-6).
 
 Essa diferença possui significado funcional porque a capacidade de produzir gametas não depende apenas da presença de órgãos reprodutivos. A quantidade e a qualidade dos espermatozoides influenciam diretamente o potencial de um macho participar com sucesso da reprodução.
 
@@ -74,11 +74,11 @@ A presença de espermatozoides não garante, por si só, que um macho tenha a me
 
 Por isso, estudos sobre machos diploides precisam separar diferentes componentes do desempenho reprodutivo. Um macho pode atingir a idade adulta e produzir espermatozoides, mas apresentar menor viabilidade ou menor capacidade de reprodução do que um macho haploide.
 
-A literatura sobre *M. quadrifasciata* indica justamente que os machos diploides apresentam redução de longevidade e viabilidade em relação aos haploides, além de diferenças no sistema testicular [6][7].
+A literatura sobre *M. quadrifasciata* indica justamente que os machos diploides apresentam redução de longevidade e viabilidade em relação aos haploides, além de diferenças no sistema testicular [6](85-referencias-bibliograficas.md#ref-17-6)[7](85-referencias-bibliograficas.md#ref-17-7).
 
 ## A antena do macho
 
-As antenas desempenham papel essencial na percepção do ambiente e na comunicação química. Em *M. quadrifasciata*, estudos de microscopia eletrônica identificaram diferentes tipos de sensilas antenais em operárias, rainhas, machos haploides e machos diploides [8].
+As antenas desempenham papel essencial na percepção do ambiente e na comunicação química. Em *M. quadrifasciata*, estudos de microscopia eletrônica identificaram diferentes tipos de sensilas antenais em operárias, rainhas, machos haploides e machos diploides [8](85-referencias-bibliograficas.md#ref-17-8).
 
 As sensilas são estruturas sensoriais especializadas associadas à percepção de estímulos externos. Entre elas existem estruturas relacionadas à quimiorrecepção, mecanorrecepção e outras modalidades sensoriais. A distribuição dessas estruturas não é uniforme ao longo da antena e varia entre sexos e castas.
 
@@ -94,7 +94,7 @@ Essa diferença explica por que a presença de machos na entrada do ninho não d
 
 ## O macho e a colônia
 
-Embora a função reprodutiva seja central, machos de abelhas sem ferrão podem ocasionalmente participar de algumas atividades coloniais, como trocas alimentares ou desidratação de néctar. Essas observações foram registradas em meliponíneos e mostram que o repertório masculino pode ser mais amplo do que uma leitura puramente reprodutiva sugeriria [2].
+Embora a função reprodutiva seja central, machos de abelhas sem ferrão podem ocasionalmente participar de algumas atividades coloniais, como trocas alimentares ou desidratação de néctar. Essas observações foram registradas em meliponíneos e mostram que o repertório masculino pode ser mais amplo do que uma leitura puramente reprodutiva sugeriria [2](85-referencias-bibliograficas.md#ref-17-2).
 
 Isso não transforma os machos em uma casta de trabalhadores. A frequência e a importância dessas atividades são muito menores e mais variáveis do que as observadas nas operárias. A distinção funcional permanece clara: as operárias constituem a principal força de manutenção da colônia, enquanto os machos são essencialmente componentes do sistema reprodutivo.
 
@@ -124,7 +124,7 @@ A genética deve, portanto, fazer parte do planejamento de criação em escala m
 
 ## Por que machos diploides são difíceis de reconhecer
 
-Um dos aspectos mais importantes para o observador é que um macho diploide não precisa apresentar uma aparência claramente diferente. Estudos morfológicos e moleculares demonstraram que machos haploides e diploides podem compartilhar características externas muito semelhantes [2][8].
+Um dos aspectos mais importantes para o observador é que um macho diploide não precisa apresentar uma aparência claramente diferente. Estudos morfológicos e moleculares demonstraram que machos haploides e diploides podem compartilhar características externas muito semelhantes [2](85-referencias-bibliograficas.md#ref-17-2)[8](85-referencias-bibliograficas.md#ref-17-8).
 
 Consequentemente, não existe uma inspeção visual simples que permita ao meliponicultor afirmar com segurança que determinado macho é diploide. Identificações confiáveis dependem de análises laboratoriais, como determinação de ploidia, cariótipo ou marcadores genéticos.
 
@@ -134,7 +134,7 @@ Esse cuidado evita um erro frequente na interpretação de colônias: atribuir c
 
 Depois de atingir a maturidade, o macho participa do sistema reprodutivo da espécie. Seu sucesso depende da sobrevivência, do desenvolvimento adequado e da capacidade de participar do acasalamento. Diferentemente da operária, não existe uma longa sequência de tarefas coloniais que determine a maior parte de sua vida adulta.
 
-Isso ajuda a explicar por que a longevidade masculina tende a ser menor do que a das fêmeas. Estudos comparando machos haploides e diploides e análises de expressão gênica indicam que diferenças de longevidade fazem parte da biologia masculina de *M. quadrifasciata* [2][6].
+Isso ajuda a explicar por que a longevidade masculina tende a ser menor do que a das fêmeas. Estudos comparando machos haploides e diploides e análises de expressão gênica indicam que diferenças de longevidade fazem parte da biologia masculina de *M. quadrifasciata* [2](85-referencias-bibliograficas.md#ref-17-2)[6](85-referencias-bibliograficas.md#ref-17-6).
 
 A vida do macho é, portanto, relativamente concentrada em uma finalidade evolutiva. O indivíduo precisa atingir a maturidade, sobreviver o suficiente para participar da reprodução e transmitir seus genes.
 
