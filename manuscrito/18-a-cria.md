@@ -20,7 +20,7 @@ Nas Meliponini, a produção de cria possui uma característica que modifica pro
 
 As operárias preparam a célula e depositam a provisão alimentar antes da postura. A rainha deposita o ovo sobre esse alimento e, em seguida, a célula é fechada.
 
-Essa sequência é conhecida como **processo de aprovisionamento e postura**, frequentemente abreviado como POP.
+Essa sequência é conhecida como **processo de aprovisionamento e postura**, frequentemente abreviado como POP. [1](85-referencias-bibliograficas.md#ref-18-1)
 
 O POP integra reprodução e divisão de trabalho em um único evento. A rainha não simplesmente deposita um ovo em um espaço vazio. A postura ocorre em uma célula previamente preparada pela sociedade, contendo o alimento que sustentará o desenvolvimento.
 
@@ -48,7 +48,7 @@ Uma alteração na disponibilidade de espaço pode afetar a organização da con
 
 ## Temperatura e microambiente
 
-A cria depende de condições físicas adequadas para completar seu desenvolvimento. Temperatura e umidade fazem parte desse microambiente e podem influenciar a velocidade dos processos fisiológicos.
+A cria depende de condições físicas adequadas para completar seu desenvolvimento. Temperatura e umidade fazem parte desse microambiente e podem influenciar a velocidade dos processos fisiológicos. [2](85-referencias-bibliograficas.md#ref-18-2)
 
 O ambiente interno de uma colônia não é necessariamente idêntico ao ambiente externo. A arquitetura do ninho, os materiais utilizados na construção, a densidade de indivíduos e a atividade metabólica contribuem para produzir condições próprias.
 
