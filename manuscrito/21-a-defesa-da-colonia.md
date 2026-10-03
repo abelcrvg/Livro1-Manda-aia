@@ -2,11 +2,11 @@
 
 A defesa de uma colônia de mandaçaias não pode ser compreendida apenas pela presença de algumas operárias próximas à entrada. A colônia é uma unidade biológica que concentra recursos de elevado valor: indivíduos adultos, cria em diferentes estágios, alimento armazenado, materiais utilizados na construção do ninho e o próprio espaço ocupado pela colônia. A defesa, portanto, é uma propriedade emergente da organização social, na qual diferentes indivíduos e estruturas contribuem para reduzir a probabilidade de perda desses recursos.
 
-Em abelhas sem ferrão, essa defesa assume formas particularmente interessantes porque o ferrão, embora presente como estrutura anatômica vestigial nas fêmeas, não constitui o mecanismo funcional de defesa utilizado pelas operárias. Isso não significa, porém, que a ausência de uma ferroada torne a colônia indefesa. As estratégias disponíveis incluem vigilância, reconhecimento de indivíduos, bloqueio do acesso, comportamento de aproximação e perseguição, mordedura em determinadas circunstâncias, utilização de substâncias resinosas e alterações físicas na própria entrada do ninho. A intensidade e a combinação dessas estratégias variam consideravelmente entre espécies e até entre colônias, razão pela qual uma resposta observada em uma espécie de Meliponini não deve ser automaticamente atribuída à mandaçaia [1][2].
+Em abelhas sem ferrão, essa defesa assume formas particularmente interessantes porque o ferrão, embora presente como estrutura anatômica vestigial nas fêmeas, não constitui o mecanismo funcional de defesa utilizado pelas operárias. Isso não significa, porém, que a ausência de uma ferroada torne a colônia indefesa. As estratégias disponíveis incluem vigilância, reconhecimento de indivíduos, bloqueio do acesso, comportamento de aproximação e perseguição, mordedura em determinadas circunstâncias, utilização de substâncias resinosas e alterações físicas na própria entrada do ninho. A intensidade e a combinação dessas estratégias variam consideravelmente entre espécies e até entre colônias, razão pela qual uma resposta observada em uma espécie de Meliponini não deve ser automaticamente atribuída à mandaçaia [1](85-referencias-bibliograficas.md#ref-21-1)[2](85-referencias-bibliograficas.md#ref-21-2).
 
 ## A entrada como primeira linha de defesa
 
-A entrada do ninho é uma região de importância excepcional porque representa o ponto em que o espaço social da colônia encontra o ambiente externo. É ali que indivíduos que chegam precisam ser aceitos, enquanto possíveis intrusos precisam ser identificados e impedidos de avançar. Essa função cria uma relação entre arquitetura e comportamento: uma abertura maior pode facilitar o trânsito de operárias, mas também pode aumentar a área que precisa ser protegida; uma abertura mais restrita pode facilitar o controle do acesso, mas impõe limitações ao fluxo de indivíduos. Estudos comparativos realizados com dezenas de espécies de Meliponini encontraram justamente uma relação entre o tamanho relativo da entrada, o fluxo de forrageadoras e a presença e agressividade de guardas [1].
+A entrada do ninho é uma região de importância excepcional porque representa o ponto em que o espaço social da colônia encontra o ambiente externo. É ali que indivíduos que chegam precisam ser aceitos, enquanto possíveis intrusos precisam ser identificados e impedidos de avançar. Essa função cria uma relação entre arquitetura e comportamento: uma abertura maior pode facilitar o trânsito de operárias, mas também pode aumentar a área que precisa ser protegida; uma abertura mais restrita pode facilitar o controle do acesso, mas impõe limitações ao fluxo de indivíduos. Estudos comparativos realizados com dezenas de espécies de Meliponini encontraram justamente uma relação entre o tamanho relativo da entrada, o fluxo de forrageadoras e a presença e agressividade de guardas [1](85-referencias-bibliograficas.md#ref-21-1).
 
 Na mandaçaia, a existência de guardas junto à entrada não deve ser interpretada como se esses indivíduos permanecessem ali de maneira absolutamente imóvel durante toda a vida. A defesa é um estado comportamental e pode mudar conforme a situação. Uma colônia em condições normais pode apresentar poucas operárias na entrada e ainda assim possuir capacidade de resposta rápida quando ocorre uma perturbação. Por isso, contar visualmente quantas abelhas estão presentes em um determinado instante é uma medida útil de observação, mas não constitui, isoladamente, uma medida completa da capacidade defensiva da colônia.
 
@@ -16,7 +16,7 @@ Essa distinção é importante para o meliponicultor. Uma colônia que aparentem
 
 Para defender uma colônia, não basta detectar movimento. É necessário distinguir, de alguma maneira, entre indivíduos que pertencem à sociedade e indivíduos que não pertencem a ela. Essa capacidade é fundamental em sociedades eusociais porque uma colônia não pode permitir acesso irrestrito a todos os indivíduos da mesma espécie.
 
-O reconhecimento social em abelhas está associado a sinais químicos presentes na superfície corporal. Esses sinais são formados principalmente por hidrocarbonetos cuticulares e podem fornecer informação sobre identidade, pertencimento e estado fisiológico. Na mandaçaia, diferenças nos perfis de hidrocarbonetos cuticulares foram estudadas em machos haploides e diploides, operárias e rainhas, demonstrando que a superfície corporal carrega informação química relevante [3].
+O reconhecimento social em abelhas está associado a sinais químicos presentes na superfície corporal. Esses sinais são formados principalmente por hidrocarbonetos cuticulares e podem fornecer informação sobre identidade, pertencimento e estado fisiológico. Na mandaçaia, diferenças nos perfis de hidrocarbonetos cuticulares foram estudadas em machos haploides e diploides, operárias e rainhas, demonstrando que a superfície corporal carrega informação química relevante [3](85-referencias-bibliograficas.md#ref-21-3).
 
 O processo, entretanto, não deve ser imaginado como uma espécie de identificação consciente semelhante ao reconhecimento visual humano. O sistema nervoso da abelha recebe uma combinação de sinais químicos e sensoriais, e o comportamento resultante depende de circuitos neurais e de regras sociais selecionadas ao longo da evolução. O que chamamos de “reconhecimento” é, biologicamente, o resultado da integração desses estímulos.
 
@@ -26,11 +26,11 @@ Na entrada, esse mecanismo ganha importância porque uma operária que retorna d
 
 A palavra “guarda” pode transmitir uma imagem excessivamente simples. Em uma colônia de abelhas sem ferrão, a defesa da entrada envolve diferentes graus de vigilância e resposta. Algumas operárias permanecem próximas da abertura e podem avaliar indivíduos que chegam; diante de uma perturbação, outras operárias podem alterar seu comportamento e participar da resposta.
 
-Esse princípio de recrutamento é especialmente importante quando analisamos diferenças entre espécies. Em um estudo comparativo realizado em São Paulo, *Melipona quadrifasciata* apresentou comportamento classificado entre as espécies de menor defensividade diante da perturbação experimental utilizada. Em outro estudo experimental, também realizado com espécies brasileiras, as operárias de *M. quadrifasciata* permaneceram junto à entrada e frequentemente recuaram para o interior quando provocadas, em vez de realizar ataques diretos ao alvo experimental [1][2].
+Esse princípio de recrutamento é especialmente importante quando analisamos diferenças entre espécies. Em um estudo comparativo realizado em São Paulo, *Melipona quadrifasciata* apresentou comportamento classificado entre as espécies de menor defensividade diante da perturbação experimental utilizada. Em outro estudo experimental, também realizado com espécies brasileiras, as operárias de *M. quadrifasciata* permaneceram junto à entrada e frequentemente recuaram para o interior quando provocadas, em vez de realizar ataques diretos ao alvo experimental [1](85-referencias-bibliograficas.md#ref-21-1)[2](85-referencias-bibliograficas.md#ref-21-2).
 
 Esses resultados não significam que uma mandaçaia seja incapaz de defender o ninho. Significam que sua estratégia defensiva, nas condições daqueles experimentos, foi diferente daquela observada em espécies altamente agressivas. Essa diferença é fundamental e deve ser preservada em qualquer descrição profissional da espécie.
 
-Também não é correto transformar a classificação experimental de uma espécie em uma característica absoluta de todas as colônias. Comportamento defensivo possui componentes genéticos, ambientais e sociais. Uma colônia pode responder de maneira diferente em função do contexto, da época do ano, do estado do ninho e do tipo de perturbação. Assim, “mandaçaia é dócil” é uma simplificação inadequada; “*M. quadrifasciata* apresentou baixa resposta agressiva nos ensaios X e Y” é uma afirmação cientificamente delimitada [1][2].
+Também não é correto transformar a classificação experimental de uma espécie em uma característica absoluta de todas as colônias. Comportamento defensivo possui componentes genéticos, ambientais e sociais. Uma colônia pode responder de maneira diferente em função do contexto, da época do ano, do estado do ninho e do tipo de perturbação. Assim, “mandaçaia é dócil” é uma simplificação inadequada; “*M. quadrifasciata* apresentou baixa resposta agressiva nos ensaios X e Y” é uma afirmação cientificamente delimitada [1](85-referencias-bibliograficas.md#ref-21-1)[2](85-referencias-bibliograficas.md#ref-21-2).
 
 ## Quando a ameaça é percebida
 
@@ -44,7 +44,7 @@ Essa é uma das razões pelas quais experimentos de defensividade precisam ser i
 
 A ameaça não precisa vir de um predador. Outras abelhas podem representar competidores ou invasores. Colônias de Meliponini podem sofrer tentativas de pilhagem, e conflitos entre espécies podem envolver acesso a alimento, cria ou espaço de nidificação.
 
-Há um registro particularmente interessante envolvendo *Melipona quadrifasciata* e *Scaptotrigona bipunctata*. Nesse caso, indivíduos de *M. quadrifasciata* foram observados invadindo uma colônia ativa de *S. bipunctata* e foram detidos pelas guardas da colônia invadida. Os autores discutiram a possibilidade de a ocorrência representar uma tentativa real de pilhagem e destacaram o potencial benefício energético de obter recursos de uma colônia já estabelecida [4].
+Há um registro particularmente interessante envolvendo *Melipona quadrifasciata* e *Scaptotrigona bipunctata*. Nesse caso, indivíduos de *M. quadrifasciata* foram observados invadindo uma colônia ativa de *S. bipunctata* e foram detidos pelas guardas da colônia invadida. Os autores discutiram a possibilidade de a ocorrência representar uma tentativa real de pilhagem e destacaram o potencial benefício energético de obter recursos de uma colônia já estabelecida [4](85-referencias-bibliograficas.md#ref-21-4).
 
 Esse episódio é importante porque demonstra que a biologia defensiva da mandaçaia não pode ser reduzida à relação “abelha contra predador”. Existe também uma dimensão de competição e conflito entre sociedades de abelhas. Ao mesmo tempo, um registro comportamental isolado não permite afirmar que a pilhagem seja uma estratégia rotineira de *M. quadrifasciata*. A diferença entre “foi observado” e “é uma característica geral da espécie” deve permanecer clara.
 
@@ -52,19 +52,19 @@ Esse episódio é importante porque demonstra que a biologia defensiva da manda�
 
 Formigas representam um problema particular para sociedades de abelhas porque são pequenas, numerosas e capazes de explorar frestas e superfícies de acesso. Uma defesa baseada exclusivamente em perseguição aérea pode ser pouco eficiente contra um invasor que tenta avançar por uma superfície até a entrada.
 
-As abelhas sem ferrão desenvolveram, ao longo de sua evolução, diferentes mecanismos de proteção contra formigas e outros inimigos. Em algumas espécies foram documentados comportamentos de mordedura e utilização de materiais resinosos contra invasores [5]. Entretanto, esses mecanismos variam entre linhagens e não devem ser transferidos automaticamente para *M. quadrifasciata* sem evidência específica.
+As abelhas sem ferrão desenvolveram, ao longo de sua evolução, diferentes mecanismos de proteção contra formigas e outros inimigos. Em algumas espécies foram documentados comportamentos de mordedura e utilização de materiais resinosos contra invasores [5](85-referencias-bibliograficas.md#ref-21-5). Entretanto, esses mecanismos variam entre linhagens e não devem ser transferidos automaticamente para *M. quadrifasciata* sem evidência específica.
 
 Na mandaçaia, a presença de formigas próximas à caixa deve ser interpretada como um problema potencialmente diferente de uma perturbação humana. O estímulo é diferente, o tamanho do invasor é diferente e a rota de acesso também pode ser diferente. Por isso, uma colônia pode apresentar uma resposta distinta diante de uma formiga, de outra abelha ou de um animal de maior porte.
 
 ## Predadores e inimigos naturais
 
-A colônia também está sujeita a inimigos naturais que podem explorar adultos, cria ou recursos armazenados. Um exemplo documentado para *M. quadrifasciata* é o registro de *Hololepta (Leionota) reichii*, um besouro da família Histeridae, associado a uma colônia da espécie no Cerrado brasileiro. O registro descreveu a presença do predador e observou a resposta das abelhas diante dele [6].
+A colônia também está sujeita a inimigos naturais que podem explorar adultos, cria ou recursos armazenados. Um exemplo documentado para *M. quadrifasciata* é o registro de *Hololepta (Leionota) reichii*, um besouro da família Histeridae, associado a uma colônia da espécie no Cerrado brasileiro. O registro descreveu a presença do predador e observou a resposta das abelhas diante dele [6](85-referencias-bibliograficas.md#ref-21-6).
 
 A existência de inimigos naturais reforça uma característica fundamental da defesa social: proteger uma colônia não significa apenas proteger as abelhas adultas que estão na entrada. O verdadeiro alvo da defesa é a continuidade da sociedade. Uma invasão que destrua a cria ou os estoques alimentares pode comprometer a colônia mesmo que poucas operárias sejam diretamente mortas.
 
 ## Resina e materiais defensivos
 
-As resinas vegetais ocupam posição especial na vida das abelhas sem ferrão. Elas podem participar da construção, vedação, proteção e manutenção do ninho, mas determinados materiais resinosos também podem atuar em situações defensivas. Em diferentes Meliponini, substâncias resinosas podem ser usadas para dificultar o movimento de intrusos ou reforçar pontos vulneráveis da estrutura [5].
+As resinas vegetais ocupam posição especial na vida das abelhas sem ferrão. Elas podem participar da construção, vedação, proteção e manutenção do ninho, mas determinados materiais resinosos também podem atuar em situações defensivas. Em diferentes Meliponini, substâncias resinosas podem ser usadas para dificultar o movimento de intrusos ou reforçar pontos vulneráveis da estrutura [5](85-referencias-bibliograficas.md#ref-21-5).
 
 Isso mostra que a defesa não está separada da arquitetura. A mesma sociedade que constrói e mantém a entrada possui materiais que podem ser utilizados para modificar essa entrada quando as circunstâncias exigem. A fronteira entre “estrutura do ninho” e “mecanismo defensivo” torna-se, portanto, menos rígida do que uma descrição puramente anatômica poderia sugerir.
 
@@ -72,7 +72,7 @@ Isso mostra que a defesa não está separada da arquitetura. A mesma sociedade q
 
 Defender uma colônia possui custo. Uma operária que permanece em vigilância não está realizando simultaneamente outras atividades. Uma resposta de perseguição exige energia, e um confronto físico pode provocar ferimentos ou morte. Em espécies extremamente agressivas, esse custo pode ser elevado a ponto de algumas operárias morrerem durante o confronto.
 
-Estudos comparativos demonstraram diferenças muito grandes entre espécies de Meliponini quanto à probabilidade de ataque, tempo necessário para iniciar a resposta, duração da mordedura e número de indivíduos envolvidos. Em espécies extremamente defensivas do gênero *Trigona*, foram documentadas formas de defesa autodestrutiva; *Melipona quadrifasciata*, por outro lado, apresentou ausência de ataque agressivo nos ensaios experimentais utilizados nesse estudo [2].
+Estudos comparativos demonstraram diferenças muito grandes entre espécies de Meliponini quanto à probabilidade de ataque, tempo necessário para iniciar a resposta, duração da mordedura e número de indivíduos envolvidos. Em espécies extremamente defensivas do gênero *Trigona*, foram documentadas formas de defesa autodestrutiva; *Melipona quadrifasciata*, por outro lado, apresentou ausência de ataque agressivo nos ensaios experimentais utilizados nesse estudo [2](85-referencias-bibliograficas.md#ref-21-2).
 
 A diferença revela um princípio evolutivo importante: não existe uma única estratégia defensiva universal para todas as abelhas sem ferrão. O comportamento precisa ser compatível com o tamanho da colônia, os tipos de ameaças encontrados no ambiente, a arquitetura do ninho e o valor dos recursos protegidos.
 
@@ -80,7 +80,7 @@ A diferença revela um princípio evolutivo importante: não existe uma única e
 
 Uma colônia pequena e uma colônia numerosa não enfrentam exatamente o mesmo problema econômico quando uma operária é perdida em uma defesa. O custo relativo da perda de um indivíduo tende a ser diferente conforme o número de indivíduos disponíveis e a capacidade da sociedade de substituir a mão de obra perdida.
 
-Essa relação ajuda a explicar por que estratégias extremamente agressivas não aparecem da mesma maneira em todas as espécies. Em colônias grandes, uma resposta envolvendo muitos indivíduos pode representar uma fração menor da força de trabalho total. Em sociedades menores, uma perda semelhante pode ter consequências proporcionalmente maiores [2].
+Essa relação ajuda a explicar por que estratégias extremamente agressivas não aparecem da mesma maneira em todas as espécies. Em colônias grandes, uma resposta envolvendo muitos indivíduos pode representar uma fração menor da força de trabalho total. Em sociedades menores, uma perda semelhante pode ter consequências proporcionalmente maiores [2](85-referencias-bibliograficas.md#ref-21-2).
 
 Isso não significa que o tamanho da colônia determine sozinho o comportamento defensivo. A evolução da defesa envolve múltiplas pressões seletivas. O tamanho da população é apenas uma das variáveis que ajudam a compreender por que determinadas estratégias podem ser mais ou menos viáveis.
 
@@ -109,19 +109,3 @@ Esse caráter coletivo é uma das características mais extraordinárias da euso
 Na mandaçaia, portanto, a defesa não deve ser procurada apenas no ataque. Ela está também na entrada cuidadosamente controlada, na capacidade de reconhecer indivíduos, na arquitetura que limita o acesso, na utilização de materiais apropriados, na distribuição de tarefas e na decisão comportamental de atacar, permanecer em vigilância ou recuar. O verdadeiro objeto protegido não é uma única abelha: é a continuidade da colônia.
 
 ---
-
-## Referências utilizadas neste capítulo
-
-As referências completas serão reunidas no capítulo final de **Referências Bibliográficas**, mantendo o sistema de citações numéricas utilizado em todo o livro.
-
-[1] Couvillon et al. — estudo comparativo sobre tamanho da entrada, fluxo de forrageadoras, número de guardas e defensividade em 26 espécies de Meliponini. *Journal of Evolutionary Biology*, 2008. DOI: 10.1111/j.1420-9101.2007.01457.x.
-
-[2] Grüter et al. — estudo experimental de defesa de ninhos e mordedura em 12 espécies de abelhas sem ferrão, incluindo *Melipona quadrifasciata*. *Behavioral Ecology and Sociobiology*, 2015. DOI: 10.1007/s00265-014-1840-6.
-
-[3] Borges et al. — caracterização de hidrocarbonetos cuticulares de machos haploides e diploides, operárias e rainhas de *Melipona quadrifasciata*. *Insectes Sociaux*, 2012. DOI: 10.1007/s00040-012-0242-x.
-
-[4] Barbosa, Vieira & Prezoto — registro de interação agressiva envolvendo *Melipona quadrifasciata* e *Scaptotrigona bipunctata*. *EntomoBrasilis*, 2015. DOI: 10.12741/ebrasilis.v8i2.472.
-
-[5] Roubik e estudos posteriores sobre mecanismos defensivos de Meliponini, incluindo uso de materiais resinosos contra invasores.
-
-[6] Silva-Neto, Brito & Freitas — primeiro registro de *Hololepta (Leionota) reichii* associado a uma colônia de *Melipona quadrifasciata* no Cerrado brasileiro. *Revista Tecnia*, 2019.
