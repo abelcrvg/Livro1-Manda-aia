@@ -131,9 +131,3 @@ A arquitetura do ninho deve ser compreendida como uma estrutura viva e dinâmica
 No caso da mandaçaia, essa organização ganha importância adicional porque a arquitetura fornece ao observador uma das melhores oportunidades de acompanhar a história recente de uma colônia sem reduzir sua biologia a números de população ou quantidade de alimento armazenado. A leitura correta, contudo, exige conhecimento da espécie e atenção ao contexto.
 
 O ninho não é apenas onde as abelhas vivem. Ele é parte do funcionamento da colônia. Sua forma é consequência da biologia social e, simultaneamente, uma das ferramentas pelas quais essa biologia se torna possível.
-
----
-
-### Referências do capítulo
-
-As referências completas deste capítulo serão mantidas no capítulo geral de **Referências Bibliográficas**, seguindo o sistema de citações numéricas clicáveis adotado no livro. As marcações serão inseridas no texto somente após a conferência individual de cada fonte, evitando atribuir a uma referência uma afirmação que ela não sustente diretamente.
