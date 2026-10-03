@@ -52,11 +52,11 @@ Essa combinação de sinais explica por que uma perturbação aparentemente pequ
 
 ## Comunicação durante o forrageamento
 
-A exploração de recursos externos cria um problema diferente. Uma operária precisa encontrar alimento em um ambiente espacialmente amplo, retornar ao ninho e, em determinadas espécies e circunstâncias, contribuir para que outras operárias explorem recursos disponíveis. A existência de comunicação relacionada a recursos é bem documentada em diferentes abelhas sociais [4], mas os mecanismos empregados variam consideravelmente entre grupos.
+A exploração de recursos externos cria um problema diferente. Uma operária precisa encontrar alimento em um ambiente espacialmente amplo, retornar ao ninho e, em determinadas espécies e circunstâncias, contribuir para que outras operárias explorem recursos disponíveis. A existência de comunicação relacionada a recursos é bem documentada em diferentes abelhas sociais [4](85-referencias-bibliograficas.md#ref-22-4), mas os mecanismos empregados variam consideravelmente entre grupos.
 
 Nas abelhas sem ferrão, não é adequado simplesmente importar para todas as espécies o modelo clássico da dança das abelhas do gênero *Apis*. A arquitetura do ninho, o comportamento de forrageamento, a ecologia das espécies e os canais de comunicação diferem. Algumas espécies de Meliponini apresentam formas de recrutamento e marcação de recursos, enquanto outras dependem mais fortemente da exploração individual e de pistas ambientais.
 
-[5] Para a mandaçaia, qualquer descrição de recrutamento deve distinguir demonstrações experimentais específicas de observações gerais feitas em Meliponini. Uma operária retornar ao ninho acompanhada por outras não constitui, sozinha, demonstração de que tenha transmitido uma localização precisa. É necessário identificar qual sinal foi produzido, como os receptores responderam e se a informação alterou efetivamente a escolha do recurso.
+[5](85-referencias-bibliograficas.md#ref-22-5) Para a mandaçaia, qualquer descrição de recrutamento deve distinguir demonstrações experimentais específicas de observações gerais feitas em Meliponini. Uma operária retornar ao ninho acompanhada por outras não constitui, sozinha, demonstração de que tenha transmitido uma localização precisa. É necessário identificar qual sinal foi produzido, como os receptores responderam e se a informação alterou efetivamente a escolha do recurso.
 
 ## Informação sobre localização e pistas ambientais
 
