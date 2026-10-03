@@ -390,6 +390,32 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 **[19]** ZOTTI, M. J.; et al. Effects of insecticides used in strawberries on stingless bees *Melipona quadrifasciata* and *Tetragonisca fiebrigi* (Hymenoptera: Apidae). *Environmental Science and Pollution Research*, v. 27, n. 34, p. 42472–42480, 2020. DOI: 10.1007/s11356-020-09380-1.
 
 
+## Capítulo 17 — Os Machos
+
+<a id="ref-17-1"></a>
+**[1]** CAMARGO, C. A. de. Sex Determination in Bees. XI. Production of Diploid Males and Sex Determination in *Melipona quadrifasciata*. *Journal of Apicultural Research*, v. 18, n. 2, p. 77–84, 1979. DOI: 10.1080/00218839.1979.11099950.
+
+<a id="ref-17-2"></a>
+**[2]** BORGES, A. A.; HUMANN, F. C.; CAMPOS, L. A. O.; TAVARES, M. G.; HARTFELDER, K. Transcript levels of ten caste-related genes in adult diploid males of *Melipona quadrifasciata* (Hymenoptera, Apidae) — a comparison with haploid males, queens and workers. *Genetics and Molecular Biology*, v. 34, n. 4, p. 698–706, 2011. DOI: 10.1590/S1415-47572011005000050.
+
+<a id="ref-17-3"></a>
+**[3]** IRSIGLER, A. S. T. *Machos diplóides em colônias endogâmicas de Melipona quadrifasciata Lep. (Hymenoptera: Apidae): uma abordagem genética e citogenética*. Dissertação (Mestrado em Genética e Melhoramento) — Universidade Federal de Viçosa, 2002.
+
+<a id="ref-17-4"></a>
+**[4]** TAVARES, M. G.; IRSIGLER, A. S. T.; CAMPOS, L. A. O. Testis length distinguishes haploid from diploid drones in *Melipona quadrifasciata* (Hymenoptera, Apidae, Meliponini). *Apidologie*, v. 34, p. 449–455, 2003. DOI: 10.1051/apido:2003045.
+
+<a id="ref-17-5"></a>
+**[5]** KERR, W. E.; AKAHIRA, Y.; CAMARGO, C. A. Sex determination in bees. IV. Genetic control of juvenile hormone production in *Melipona quadrifasciata* (Apidae). *Genetics*, v. 81, n. 4, p. 749–756, 1975. DOI: 10.1093/genetics/81.4.749.
+
+<a id="ref-17-6"></a>
+**[6]** TAVARES, M. G.; IRSIGLER, A. S. T.; CAMPOS, L. A. O. Testis length distinguishes haploid from diploid drones in *Melipona quadrifasciata* (Hymenoptera, Apidae, Meliponini). *Apidologie*, v. 34, p. 449–455, 2003. DOI: 10.1051/apido:2003045.
+
+<a id="ref-17-7"></a>
+**[7]** OLIVEIRA, V. T. M.; et al. Digestive and regenerative cells in the midgut of haploid and diploid males of the stingless bee *Melipona quadrifasciata anthidioides* (Hymenoptera, Apidae). *Zoologia*, v. 29, n. 5, 2012. DOI: 10.1590/S1984-46702012000500015.
+
+<a id="ref-17-8"></a>
+**[8]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, v. 101, n. 8, p. 603–611, 2014. DOI: 10.1007/s00114-014-1184-0. Erratum: DOI 10.1007/s00114-014-1203-1.
+
 ## Capítulo 26 — A água na vida da colônia
 
 <a id="ref-26-1"></a>
