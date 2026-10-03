@@ -1,6 +1,6 @@
 # Capítulo 19 — A arquitetura do ninho
 
-A arquitetura de um ninho de abelhas sem ferrão não é apenas o resultado da acumulação de cerume ao longo do tempo. Ela constitui uma estrutura biológica dinâmica, construída, reparada, ampliada e modificada de acordo com as necessidades da colônia. Em uma espécie como a mandaçaia, a organização espacial do ninho estabelece relações entre reprodução, armazenamento de alimento, circulação de indivíduos, controle do microambiente e proteção da área de cria.
+A arquitetura de um ninho de abelhas sem ferrão não é apenas o resultado da acumulação de cerume ao longo do tempo. [1](85-referencias-bibliograficas.md#ref-19-1) Ela constitui uma estrutura biológica dinâmica, construída, reparada, ampliada e modificada de acordo com as necessidades da colônia. Em uma espécie como a mandaçaia, a organização espacial do ninho estabelece relações entre reprodução, armazenamento de alimento, circulação de indivíduos, controle do microambiente e proteção da área de cria.
 
 Para compreender adequadamente uma colônia, portanto, é necessário abandonar a ideia de que o ninho é simplesmente um conjunto de compartimentos. Cada estrutura ocupa uma posição e desempenha uma função dentro de um sistema integrado. A localização das células de cria, dos potes de alimento, das estruturas de proteção e da entrada modifica as condições sob as quais a colônia funciona. A própria arquitetura registra parte da história da colônia: expansão populacional, disponibilidade de recursos, reparos, alterações ambientais e períodos de maior ou menor atividade podem deixar marcas na organização interna.
 
@@ -16,7 +16,7 @@ O ninho funciona, nesse sentido, como uma interface entre a colônia e o ambient
 
 ## 19.2 Cerume e cerume-resina
 
-O cerume é um dos principais materiais estruturais empregados pelas abelhas sem ferrão. Sua importância ultrapassa a simples função de unir peças. A composição física do material permite construir paredes, células e outras estruturas com diferentes graus de espessura e resistência.
+O cerume é um dos principais materiais estruturais empregados pelas abelhas sem ferrão. [2](85-referencias-bibliograficas.md#ref-19-2) Sua importância ultrapassa a simples função de unir peças. A composição física do material permite construir paredes, células e outras estruturas com diferentes graus de espessura e resistência.
 
 Quando a cera é combinada com resinas vegetais, o material resultante apresenta propriedades diferentes da cera isolada. As resinas podem aumentar a resistência, modificar a textura e acrescentar componentes químicos potencialmente relevantes para a proteção do ninho. Em determinadas estruturas, essa combinação recebe denominações específicas na literatura meliponícola, e a terminologia deve ser empregada com cuidado porque a composição pode variar entre grupos e espécies.
 
@@ -26,7 +26,7 @@ Esse fato possui implicações práticas para a conservação. A manutenção de
 
 ## 19.3 A região de cria
 
-A região de cria constitui uma das áreas mais especializadas do ninho. Suas células são produzidas em sequência e organizadas segundo padrões característicos de cada grupo. Em Meliponini, a criação é associada a um sistema de células construídas e utilizadas individualmente durante o desenvolvimento de uma abelha.
+A região de cria constitui uma das áreas mais especializadas do ninho. [3](85-referencias-bibliograficas.md#ref-19-3) Suas células são produzidas em sequência e organizadas segundo padrões característicos de cada grupo. Em Meliponini, a criação é associada a um sistema de células construídas e utilizadas individualmente durante o desenvolvimento de uma abelha.
 
 A disposição dessas células não deve ser interpretada como uma simples tentativa de economizar material. O padrão espacial influencia a forma como as operárias conseguem construir novas células, realizar a postura, abastecer a cria e manter as estruturas adjacentes.
 
