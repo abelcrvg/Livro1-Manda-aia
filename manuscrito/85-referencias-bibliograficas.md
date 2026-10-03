@@ -416,6 +416,45 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 <a id="ref-17-8"></a>
 **[8]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, v. 101, n. 8, p. 603–611, 2014. DOI: 10.1007/s00114-014-1184-0. Erratum: DOI 10.1007/s00114-014-1203-1.
 
+## Capítulo 18 — A Cria Dentro da Colônia
+
+<a id="ref-18-1"></a>
+**[1]** SAKAGAMI, S. F.; MONTENEGRO, M. J.; KERR, W. E. Behavior studies of the stingless bees, with special reference to the oviposition process. V. *Melipona quadrifasciata anthidioides* Lepeletier. *Journal of the Faculty of Science, Hokkaido University. Series VI, Zoology*, v. 15, n. 4, p. 578–607, 1965.
+
+<a id="ref-18-2"></a>
+**[2]** DOS SANTOS, C. F.; DEVKOTA, K.; BLOCHTEIN, B.; ALMEIDA, E. A. B. Thermal patterns in stingless bee colonies. *The Science of Nature*, v. 113, art. 29, 2026. DOI: 10.1007/s00114-026-02083-6.
+
+<a id="ref-18-3"></a>
+**[3]** SANTOS, A. C. C.; BORGES, L. D. F.; ROCHA, N. D. C.; et al. Bacteria, yeasts, and fungi associated with larval food of Brazilian native stingless bees. *Scientific Reports*, v. 13, 5147, 2023. DOI: 10.1038/s41598-023-32298-w.
+
+## Capítulo 19 — Arquitetura do Ninho
+
+<a id="ref-19-1"></a>
+**[1]** ENGEL, M. S.; RASMUSSEN, C.; AYALA, R.; DE OLIVEIRA, F. F. Stingless bee classification and biology (Hymenoptera, Apidae): a review, with an updated key to genera and subgenera. *Journal of Hymenoptera Research*, v. 94, 2023. DOI: 10.3897/jhr.94.107870.
+
+<a id="ref-19-2"></a>
+**[2]** SHANAHAN, M.; SPIVAK, M. Resin Use by Stingless Bees: A Review. *Insects*, v. 12, n. 8, 719, 2021. DOI: 10.3390/insects12080719.
+
+<a id="ref-19-3"></a>
+**[3]** ANTONINI, Y.; MARTINS, R. P. The value of a tree species (*Caryocar brasiliense*) for a stingless bee *Melipona quadrifasciata quadrifasciata*. *Journal of Insect Conservation*, v. 7, p. 167–174, 2003. DOI: 10.1023/A:1027378306119.
+
+## Capítulo 22 — Comunicação e informação na colônia
+
+<a id="ref-22-1"></a>
+**[1]** BORGES, A. A.; FERREIRA-CALIMAN, M. J.; NASCIMENTO, F. S.; CAMPOS, L. A. O.; TAVARES, M. G. Characterization of cuticular hydrocarbons of diploid and haploid males, workers and queens of the stingless bee *Melipona quadrifasciata*. *Insectes Sociaux*, v. 59, n. 4, p. 479–486, 2012. DOI: 10.1007/s00040-012-0242-x.
+
+<a id="ref-22-2"></a>
+**[2]** McCABE, S. I.; HRNCIR, M.; FARINA, W. M. Vibrating donor-partners during trophallaxis modulate associative learning ability of food receivers in the stingless bee *Melipona quadrifasciata*. *Learning & Motivation*, v. 50, p. 11–21, 2015. DOI: 10.1016/j.lmot.2014.10.005.
+
+<a id="ref-22-3"></a>
+**[3]** McCABE, S. I.; FARINA, W. M. Odor information transfer in the stingless bee *Melipona quadrifasciata*: effect of in-hive experiences on classical conditioning of proboscis extension. *Journal of Comparative Physiology A*, v. 195, p. 113–122, 2009. DOI: 10.1007/s00359-008-0391-6.
+
+<a id="ref-22-4"></a>
+**[4]** JARAU, S.; HRNCIR, M.; ZUCCHI, R.; BARTH, F. G. Recruitment behavior in stingless bees, *Melipona scutellaris* and *M. quadrifasciata*. I. Foraging at food sources differing in direction and distance. *Apidologie*, v. 31, n. 1, p. 81–91, 2000. DOI: 10.1051/apido:2000108.
+
+<a id="ref-22-5"></a>
+**[5]** HRNCIR, M.; JARAU, S.; ZUCCHI, R.; BARTH, F. G. Recruitment behavior in stingless bees, *Melipona scutellaris* and *M. quadrifasciata*. II. Possible mechanisms of communication. *Apidologie*, v. 31, n. 1, p. 93–113, 2000. DOI: 10.1051/apido:2000109.
+
 ## Capítulo 20 — A Entrada do Ninho
 
 <a id="ref-20-1"></a>
