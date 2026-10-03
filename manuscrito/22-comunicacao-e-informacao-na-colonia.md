@@ -16,7 +16,7 @@ Essa organização descentralizada também explica por que o comportamento da co
 
 ## Comunicação química
 
-Os sinais químicos ocupam posição central na vida social das abelhas. O corpo de uma abelha carrega uma mistura de compostos que contribui para sua identidade química. Hidrocarbonetos cuticulares, secreções glandulares e outras substâncias presentes no ambiente do ninho participam de processos de reconhecimento, interação social e organização comportamental.
+Os sinais químicos ocupam posição central na vida social das abelhas. [1](85-referencias-bibliograficas.md#ref-22-1) O corpo de uma abelha carrega uma mistura de compostos que contribui para sua identidade química. Hidrocarbonetos cuticulares, secreções glandulares e outras substâncias presentes no ambiente do ninho participam de processos de reconhecimento, interação social e organização comportamental.
 
 O reconhecimento não deve ser reduzido à ideia de um “cheiro da colônia” simples e imutável. A assinatura química resulta de uma combinação de compostos, de sua quantidade relativa e da interação entre características individuais e características adquiridas no ambiente social. O contato frequente entre companheiras, a exposição aos materiais do ninho e a alimentação podem contribuir para aproximar os perfis químicos dos indivíduos que vivem juntos.
 
@@ -28,13 +28,13 @@ Em *M. quadrifasciata*, estudos sobre hidrocarbonetos cuticulares e comportament
 
 Em uma colônia densamente povoada, o contato entre indivíduos é constante. Antenas, pernas e outras regiões corporais entram em contato durante deslocamentos, encontros na entrada, alimentação, limpeza e diversas interações sociais. Esses contatos não são meramente consequências mecânicas da grande densidade populacional. Em muitas situações, constituem canais potenciais de transferência de informação.
 
-As antenas possuem numerosas estruturas sensoriais capazes de detectar estímulos químicos e físicos. Quando duas abelhas se encontram, o contato antenal pode permitir que uma avalie características químicas da outra e obtenha informações sobre seu estado. O comportamento subsequente depende do contexto. Uma interação breve entre companheiras pode não produzir uma resposta visível, enquanto o encontro com um indivíduo estranho pode desencadear investigação, bloqueio ou agressão.
+As antenas possuem numerosas estruturas sensoriais capazes de detectar estímulos químicos e físicos. [2](85-referencias-bibliograficas.md#ref-22-2) Quando duas abelhas se encontram, o contato antenal pode permitir que uma avalie características químicas da outra e obtenha informações sobre seu estado. O comportamento subsequente depende do contexto. Uma interação breve entre companheiras pode não produzir uma resposta visível, enquanto o encontro com um indivíduo estranho pode desencadear investigação, bloqueio ou agressão.
 
 Também é importante distinguir contato social de alimentação. Em sociedades de abelhas, a transferência de alimento entre indivíduos pode funcionar simultaneamente como nutrição e como oportunidade para troca de informações químicas e fisiológicas. A trofalaxia, portanto, não deve ser descrita simplesmente como “uma abelha dando comida para outra”. Ela integra o funcionamento nutricional e social da colônia e pode contribuir para a circulação de substâncias entre indivíduos.
 
 ## Vibrações e sinais mecânicos
 
-O interior de um ninho de abelhas sem ferrão é um ambiente em que sinais vibracionais podem ser particularmente relevantes. As estruturas de cerume e as superfícies do ninho transmitem vibrações, e os indivíduos podem produzir movimentos corporais capazes de gerar estímulos mecânicos detectáveis por outras abelhas.
+O interior de um ninho de abelhas sem ferrão é um ambiente em que sinais vibracionais podem ser particularmente relevantes. [3](85-referencias-bibliograficas.md#ref-22-3) As estruturas de cerume e as superfícies do ninho transmitem vibrações, e os indivíduos podem produzir movimentos corporais capazes de gerar estímulos mecânicos detectáveis por outras abelhas.
 
 Isso abre uma possibilidade importante: parte da comunicação pode ocorrer sem que exista um som claramente audível para seres humanos. Vibrações transmitidas pelo substrato, movimentos das asas e contatos corporais podem carregar informação em escalas temporais muito curtas.
 
@@ -52,11 +52,11 @@ Essa combinação de sinais explica por que uma perturbação aparentemente pequ
 
 ## Comunicação durante o forrageamento
 
-A exploração de recursos externos cria um problema diferente. Uma operária precisa encontrar alimento em um ambiente espacialmente amplo, retornar ao ninho e, em determinadas espécies e circunstâncias, contribuir para que outras operárias explorem recursos disponíveis. A existência de comunicação relacionada a recursos é bem documentada em diferentes abelhas sociais, mas os mecanismos empregados variam consideravelmente entre grupos.
+A exploração de recursos externos cria um problema diferente. Uma operária precisa encontrar alimento em um ambiente espacialmente amplo, retornar ao ninho e, em determinadas espécies e circunstâncias, contribuir para que outras operárias explorem recursos disponíveis. A existência de comunicação relacionada a recursos é bem documentada em diferentes abelhas sociais [4], mas os mecanismos empregados variam consideravelmente entre grupos.
 
 Nas abelhas sem ferrão, não é adequado simplesmente importar para todas as espécies o modelo clássico da dança das abelhas do gênero *Apis*. A arquitetura do ninho, o comportamento de forrageamento, a ecologia das espécies e os canais de comunicação diferem. Algumas espécies de Meliponini apresentam formas de recrutamento e marcação de recursos, enquanto outras dependem mais fortemente da exploração individual e de pistas ambientais.
 
-Para a mandaçaia, qualquer descrição de recrutamento deve distinguir demonstrações experimentais específicas de observações gerais feitas em Meliponini. Uma operária retornar ao ninho acompanhada por outras não constitui, sozinha, demonstração de que tenha transmitido uma localização precisa. É necessário identificar qual sinal foi produzido, como os receptores responderam e se a informação alterou efetivamente a escolha do recurso.
+[5] Para a mandaçaia, qualquer descrição de recrutamento deve distinguir demonstrações experimentais específicas de observações gerais feitas em Meliponini. Uma operária retornar ao ninho acompanhada por outras não constitui, sozinha, demonstração de que tenha transmitido uma localização precisa. É necessário identificar qual sinal foi produzido, como os receptores responderam e se a informação alterou efetivamente a escolha do recurso.
 
 ## Informação sobre localização e pistas ambientais
 
