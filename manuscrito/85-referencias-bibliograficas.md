@@ -416,6 +416,109 @@ Este capítulo reunirá, ao final da edição do livro, todas as referências ut
 <a id="ref-17-8"></a>
 **[8]** RAVAIANO, S. V.; FERREIRA, R. P.; CAMPOS, L. A. O.; MARTINS, G. F. The antennal sensilla of *Melipona quadrifasciata* (Hymenoptera: Apidae: Meliponini): a study of different sexes and castes. *Naturwissenschaften*, v. 101, n. 8, p. 603–611, 2014. DOI: 10.1007/s00114-014-1184-0. Erratum: DOI 10.1007/s00114-014-1203-1.
 
+## Capítulo 20 — A Entrada do Ninho
+
+<a id="ref-20-1"></a>
+**[1]** ENGEL, M. S.; RASMUSSEN, C.; AYALA, R.; DE OLIVEIRA, F. F. Stingless bee classification and biology (Hymenoptera, Apidae): a review, with an updated key to genera and subgenera. *Journal of Hymenoptera Research*, v. 94, 2023. DOI: 10.3897/jhr.94.107870.
+
+<a id="ref-20-2"></a>
+**[2]** ANTONINI, Y.; MARTINS, R. P. The value of a tree species (*Caryocar brasiliense*) for a stingless bee *Melipona quadrifasciata quadrifasciata*. *Journal of Insect Conservation*, v. 7, p. 167–174, 2003. DOI: 10.1023/A:1027378306119.
+
+<a id="ref-20-3"></a>
+**[3]** TICHIT, P.; ALVES-DOS-SANTOS, I.; DACKE, M.; BAIRD, E. Accelerated landing in a stingless bee and its unexpected benefits for traffic congestion. *Proceedings of the Royal Society B: Biological Sciences*, v. 287, n. 1921, 20192720, 2020. DOI: 10.1098/rspb.2019.2720.
+
+<a id="ref-20-4"></a>
+**[4]** SHANAHAN, M.; SPIVAK, M. Resin Use by Stingless Bees: A Review. *Insects*, v. 12, n. 8, 719, 2021. DOI: 10.3390/insects12080719.
+
+<a id="ref-20-5"></a>
+**[5]** GRÜTER, C.; JONGEPIER, E.; FOITZIK, S. Insect societies fight back: the evolution of defensive traits against social parasites. *Philosophical Transactions of the Royal Society B: Biological Sciences*, v. 373, n. 1751, 20170200, 2018. DOI: 10.1098/rstb.2017.0200.
+
+<a id="ref-20-6"></a>
+**[6]** GRÜTER, C.; MENEZES, C.; IMPERATRIZ-FONSECA, V. L.; RATNIEKS, F. L. W. A morphologically specialized soldier caste improves colony defense in a neotropical eusocial bee. *Proceedings of the National Academy of Sciences of the United States of America*, v. 109, n. 4, p. 1182–1186, 2012. DOI: 10.1073/pnas.1113398109.
+
+## Capítulo 21 — A Defesa da Colônia
+
+<a id="ref-21-1"></a>
+**[1]** COUVILLON, M. J.; et al. Study of nest entrance size, traffic flow, guard number and defensiveness in stingless bees (Meliponini). *Journal of Evolutionary Biology*, 2008. DOI: 10.1111/j.1420-9101.2007.01457.x.
+
+<a id="ref-21-2"></a>
+**[2]** GRÜTER, C.; et al. Comparative and experimental study of nest defence and biting in stingless bees, including *Melipona quadrifasciata*. *Behavioral Ecology and Sociobiology*, 2015. DOI: 10.1007/s00265-014-1840-6.
+
+<a id="ref-21-3"></a>
+**[3]** BORGES, A. A.; FERREIRA-CALIMAN, M. J.; NASCIMENTO, F. S.; CAMPOS, L. A. O.; TAVARES, M. G. Characterization of cuticular hydrocarbons of diploid and haploid males, workers and queens of the stingless bee *Melipona quadrifasciata*. *Insectes Sociaux*, v. 59, n. 4, p. 479–486, 2012. DOI: 10.1007/s00040-012-0242-x.
+
+<a id="ref-21-4"></a>
+**[4]** BARBOSA, A.; VIEIRA, L.; PREZOTO, F. Interações agressivas em abelhas sem ferrão: *Melipona quadrifasciata* (Lepeletier) invadindo ninho de *Scaptotrigona bipunctata* (Lepeletier). *EntomoBrasilis*, v. 8, n. 2, 2015. DOI: 10.12741/ebrasilis.v8i2.472.
+
+<a id="ref-21-5"></a>
+**[5]** SHANAHAN, M.; SPIVAK, M. Resin Use by Stingless Bees: A Review. *Insects*, v. 12, n. 8, 719, 2021. DOI: 10.3390/insects12080719.
+
+<a id="ref-21-6"></a>
+**[6]** SILVA-NETO, C. M.; BRITO, P. V. A.; FREITAS, P. V. D. X. Predador de abelhas sem ferrão no Cerrado brasileiro: primeiro registro de *Hololepta (Leionota) reichii* Marseul (Coleoptera, Histeridae) em colônia de *Melipona quadrifasciata*. *Revista Tecnia*, v. 4, n. 1, p. 183–188, 2019. Disponível em: https://periodicos.ifg.edu.br/tecnia/article/view/1045.
+
+## Capítulo 23 — Forrageamento e exploração de recursos
+
+<a id="ref-23-1"></a>
+**[1]** ANTONINI, Y.; COSTA, R. G.; MARTINS, R. P. Floral preferences of a neotropical stingless bee, *Melipona quadrifasciata* Lepeletier (Apidae: Meliponina) in an urban forest fragment. *Brazilian Journal of Biology*, v. 66, n. 2A, p. 463–471, 2006. DOI: 10.1590/S1519-69842006000300012.
+
+<a id="ref-23-2"></a>
+**[2]** OLIVEIRA-ABREU, C.; HILÁRIO, S. D.; LUZ, C. F. P.; ALVES-DOS-SANTOS, I. Pollen and nectar foraging by *Melipona quadrifasciata anthidioides* Lepeletier (Hymenoptera: Apidae: Meliponini) in natural habitat. *Sociobiology*, v. 61, n. 4, p. 441–448, 2014. DOI: 10.13102/sociobiology.v61i4.441-448.
+
+<a id="ref-23-3"></a>
+**[3]** TOPPA, R. H.; SILVA, E. C. M.; MARTINES, M. R.; OLIVEIRA, C. H.; DE SOUZA, P.; ARENA, M. V. N.; SANTOS, L. A.; et al. Homing ability of *Melipona quadrifasciata* in fragmented landscapes extends to 7.5 km. *Discover Conservation*, v. 3, art. 9, 2026. DOI: 10.1007/s44353-026-00080-4.
+
+<a id="ref-23-4"></a>
+**[4]** ARAÚJO, E. D.; COSTA, M.; CHAUD-NETTO, J.; FOWLER, H. G. Body size and flight distance in stingless bees (Hymenoptera: Meliponini): inference of flight range and possible ecological implications. *Brazilian Journal of Biology*, v. 64, n. 3B, p. 563–568, 2004. DOI: 10.1590/S1519-69842004000400003.
+
+<a id="ref-23-5"></a>
+**[5]** ARENA, M. V. N.; TOPPA, R. H.; DA SILVA, C. I.; SILVA, E. C. M.; ALVES-DOS-SANTOS, I. Foraging constraints of *Melipona quadrifasciata* in an urban area. *Urban Forestry & Urban Greening*, v. 117, 129294, 2026. DOI: 10.1016/j.ufug.2026.129294.
+
+## Capítulo 24 — Pólen e nutrição
+
+<a id="ref-24-1"></a>
+**[1]** OLIVEIRA, R. G.; JAIN, S.; FREITAS, L. S.; ARAÚJO, E. D. Phenolic compound, nutritional and antioxidant profile of pollen collected by the genus *Melipona* in North Eastern Brazil. *Brazilian Journal of Food Technology*, v. 22, e2018079, 2019. DOI: 10.1590/1981-6723.07918.
+
+<a id="ref-24-2"></a>
+**[2]** REBELO, K. S.; et al. Nutritional composition and bioactive compounds of *Melipona seminigra* pot-pollen from Amazonas, Brazil. *Journal of the Science of Food and Agriculture*, 2021. DOI: 10.1002/jsfa.11134.
+
+<a id="ref-24-3"></a>
+**[3]** MIRANDA-PINTO, et al. Biotechnological Approach for Development and Characterization of Protein Feed for *Melipona quadrifasciata*. *Agriculture*, v. 15, n. 2, 168, 2025. DOI: 10.3390/agriculture15020168.
+
+<a id="ref-24-4"></a>
+**[4]** Pollen resources used by *Melipona quadrifasciata anthidioides* Lepeletier in an urban forest in Rio de Janeiro city, Brazil. *Palynology*, 2018. DOI: 10.1080/01916122.2017.1363827.
+
+<a id="ref-24-5"></a>
+**[5]** ANTONINI, Y.; COSTA, R. G.; MARTINS, R. P. Floral preferences of a neotropical stingless bee, *Melipona quadrifasciata* Lepeletier (Apidae: Meliponina) in an urban forest fragment. *Brazilian Journal of Biology*, v. 66, n. 2A, p. 463–471, 2006. DOI: 10.1590/S1519-69842006000300012.
+
+<a id="ref-24-6"></a>
+**[6]** OLIVEIRA-ABREU, C.; HILÁRIO, S. D.; LUZ, C. F. P.; ALVES-DOS-SANTOS, I. Pollen and nectar foraging by *Melipona quadrifasciata anthidioides* Lepeletier (Hymenoptera: Apidae: Meliponini) in natural habitat. *Sociobiology*, v. 61, n. 4, p. 441–448, 2014. DOI: 10.13102/sociobiology.v61i4.441-448.
+
+<a id="ref-24-7"></a>
+**[7]** ARENA, M. V. N.; TOPPA, R. H.; DA SILVA, C. I.; SILVA, E. C. M.; ALVES-DOS-SANTOS, I. Foraging constraints of *Melipona quadrifasciata* in an urban area. *Urban Forestry & Urban Greening*, v. 117, 129294, 2026. DOI: 10.1016/j.ufug.2026.129294.
+
+## Capítulo 25 — Néctar, mel e armazenamento
+
+<a id="ref-25-1"></a>
+**[1]** DA SILVA, T. M. F.; ÁVILA, S.; MATOS, M. G.; JUNKERT, A. M.; TOLABDINI FRIZON, C. N.; PONTAROLO, R.; BEUX, M. R.; FERREIRA, S. M. R. Effect of preservation methods on antimicrobial activity, and nutritional and microbiological quality of *Melipona quadrifasciata* bee honey. *Journal of Food Processing and Preservation*, v. 46, e16917, 2022. DOI: 10.1111/jfpp.16917.
+
+<a id="ref-25-2"></a>
+**[2]** SANTOS, A. C. dos; FAITA, M.; GONZAGA, L. V.; COSTA, A. C. O. Evaluating maturity indicators in stingless bee honey: The role of soluble solids over pot condition in harvesting standards. *Journal of Food Composition and Analysis*, v. 137, 106869, 2025. DOI: 10.1016/j.jfca.2024.106869.
+
+<a id="ref-25-3"></a>
+**[3]** DOS SANTOS, A. C.; BILUCA, F. C.; BRUGNEROTTO, P.; GONZAGA, L. V.; COSTA, A. C. O.; FETT, R. Brazilian stingless bee honey: Physicochemical properties and aliphatic organic acids content. *Food Research International*, v. 158, 111516, 2022. DOI: 10.1016/j.foodres.2022.111516.
+
+<a id="ref-25-4"></a>
+**[4]** NORDIN, A.; AFIFAH VERONICA SAINIK, N. Q.; CHOWDHURY, S. R.; BIN SAIM, A.; HJ IDRUS, R. Physicochemical properties of stingless bee honey from around the globe: A comprehensive review. *Journal of Food Composition and Analysis*, v. 73, p. 91–102, 2018. DOI: 10.1016/j.jfca.2018.06.002.
+
+<a id="ref-25-5"></a>
+**[5]** SANTOS, A. C. C.; BORGES, L. D. F.; ROCHA, N. D. C.; et al. Bacteria, yeasts, and fungi associated with larval food of Brazilian native stingless bees. *Scientific Reports*, v. 13, 5147, 2023. DOI: 10.1038/s41598-023-32298-w.
+
+<a id="ref-25-6"></a>
+**[6]** BERNHARDT, P. H. P.; ARBOITTE, M. Z.; DUARTE, M. B.; MELO, A. F.; CASTELLEN, P. Quality of stingless bee mandaçaia (*Melipona quadrifasciata*) honey under different storage conditions. *Revista de Ciências Agroveterinárias*, v. 24, n. 3, p. 688–700, 2025. DOI: 10.5965/223811712432025688.
+
+<a id="ref-25-7"></a>
+**[7]** NORDIN, A.; AFIFAH VERONICA SAINIK, N. Q.; CHOWDHURY, S. R.; BIN SAIM, A.; HJ IDRUS, R. Physicochemical properties of stingless bee honey from around the globe: A comprehensive review. *Journal of Food Composition and Analysis*, v. 73, p. 91–102, 2018. DOI: 10.1016/j.jfca.2018.06.002.
+
 ## Capítulo 26 — A água na vida da colônia
 
 <a id="ref-26-1"></a>
